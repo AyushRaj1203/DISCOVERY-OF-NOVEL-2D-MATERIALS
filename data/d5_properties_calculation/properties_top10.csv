@@ -1,0 +1,11 @@
+Formula,Elements,Metal_NonMetal,Electronegativity,Num_Elements,Atomic_Composition,Is_Metal
+XeBiRe3,"['Xe', 'Bi', 'Re']","['Xe - Non-Metal', 'Bi - Metal', 'Re - Metal']","[2.6, 2.02, 1.9]",3,"{'Xe': 1.0, 'Bi': 1.0, 'Re': 3.0}",FALSE
+FeNiWCl2Ag2,"['Fe', 'Ni', 'W', 'Cl', 'Ag']","['Fe - Metal', 'Ni - Metal', 'W - Metal', 'Cl - Non-Metal', 'Ag - Metal']","[1.83, 1.91, 2.36, 3.16, 1.93]",5,"{'Fe': 1.0, 'Ni': 1.0, 'W': 1.0, 'Cl': 2.0, 'Ag': 2.0}",FALSE
+RhBr3Re6,"['Rh', 'Br', 'Re']","['Rh - Metal', 'Br - Non-Metal', 'Re - Metal']","[2.28, 2.96, 1.9]",3,"{'Rh': 1.0, 'Br': 3.0, 'Re': 6.0}",FALSE
+Cl2Os5,"['Cl', 'Os']","['Cl - Non-Metal', 'Os - Metal']","[3.16, 2.2]",2,"{'Cl': 2.0, 'Os': 5.0}",FALSE
+IrI2Ta5,"['Ir', 'I', 'Ta']","['Ir - Metal', 'I - Non-Metal', 'Ta - Metal']","[2.2, 2.66, 1.5]",3,"{'Ir': 1.0, 'I': 2.0, 'Ta': 5.0}",FALSE
+CrI,"['Cr', 'I']","['Cr - Metal', 'I - Non-Metal']","[1.66, 2.66]",2,"{'Cr': 1.0, 'I': 1.0}",FALSE
+I2Mn5,"['I', 'Mn']","['I - Non-Metal', 'Mn - Metal']","[2.66, 1.55]",2,"{'I': 2.0, 'Mn': 5.0}",FALSE
+I3Tc5,"['I', 'Tc']","['I - Non-Metal', 'Tc - Metal']","[2.66, 1.9]",2,"{'I': 3.0, 'Tc': 5.0}",FALSE
+CdTaCl3Mo4,"['Cd', 'Ta', 'Cl', 'Mo']","['Cd - Metal', 'Ta - Metal', 'Cl - Non-Metal', 'Mo - Metal']","[1.69, 1.5, 3.16, 2.16]",4,"{'Cd': 1.0, 'Ta': 1.0, 'Cl': 3.0, 'Mo': 4.0}",FALSE
+FKrNb,"['F', 'Kr', 'Nb']","['F - Non-Metal', 'Kr - Non-Metal', 'Nb - Metal']","[3.98, 3.0, 1.6]",3,"{'F': 1.0, 'Kr': 1.0, 'Nb': 1.0}",FALSE

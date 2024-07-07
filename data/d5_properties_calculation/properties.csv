@@ -1,0 +1,1493 @@
+formula,Elements,Metal_NonMetal,Electronegativity,Num_Elements,Atomic_Composition,Is_Metal
+S3,['S'],['S - Non-Metal'],[2.58],1,{'S': 3.0},FALSE
+Kr,['Kr'],['Kr - Non-Metal'],[3.0],1,{'Kr': 1.0},FALSE
+I2Nd2Ta3At3,"['I', 'Nd', 'Ta', 'At']","['I - Non-Metal', 'Nd - Metal', 'Ta - Metal', 'At - Non-Metal']","[2.66, 1.14, 1.5, 2.2]",4,"{'I': 2.0, 'Nd': 2.0, 'Ta': 3.0, 'At': 3.0}",TRUE
+P6,['P'],['P - Non-Metal'],[2.19],1,{'P': 6.0},FALSE
+At5,['At'],['At - Non-Metal'],[2.2],1,{'At': 5.0},FALSE
+Se5,['Se'],['Se - Non-Metal'],[2.55],1,{'Se': 5.0},FALSE
+PuO3,"['Pu', 'O']","['Pu - Metal', 'O - Non-Metal']","[1.28, 3.44]",2,"{'Pu': 1.0, 'O': 3.0}",FALSE
+Te3,['Te'],['Te - Non-Metal'],[2.1],1,{'Te': 3.0},FALSE
+Nd2Po3,"['Nd', 'Po']","['Nd - Metal', 'Po - Non-Metal']","[1.14, 2.0]",2,"{'Nd': 2.0, 'Po': 3.0}",TRUE
+Bi5,['Bi'],['Bi - Metal'],[2.02],1,{'Bi': 5.0},TRUE
+In2,['In'],['In - Metal'],[1.78],1,{'In': 2.0},TRUE
+Te4,['Te'],['Te - Non-Metal'],[2.1],1,{'Te': 4.0},FALSE
+IAs3Ba3,"['I', 'As', 'Ba']","['I - Non-Metal', 'As - Non-Metal', 'Ba - Metal']","[2.66, 2.18, 0.89]",3,"{'I': 1.0, 'As': 3.0, 'Ba': 3.0}",TRUE
+In3,['In'],['In - Metal'],[1.78],1,{'In': 3.0},TRUE
+TiCd3Te3,"['Ti', 'Cd', 'Te']","['Ti - Metal', 'Cd - Metal', 'Te - Non-Metal']","[1.54, 1.69, 2.1]",3,"{'Ti': 1.0, 'Cd': 3.0, 'Te': 3.0}",TRUE
+Pb3,['Pb'],['Pb - Metal'],[2.33],1,{'Pb': 3.0},TRUE
+OSm,"['O', 'Sm']","['O - Non-Metal', 'Sm - Metal']","[3.44, 1.17]",2,"{'O': 1.0, 'Sm': 1.0}",FALSE
+YbKr3Si4,"['Yb', 'Kr', 'Si']","['Yb - Metal', 'Kr - Non-Metal', 'Si - Non-Metal']","[1.1, 3.0, 1.9]",3,"{'Yb': 1.0, 'Kr': 3.0, 'Si': 4.0}",TRUE
+PCdRn2Ni8,"['P', 'Cd', 'Rn', 'Ni']","['P - Non-Metal', 'Cd - Metal', 'Rn - Non-Metal', 'Ni - Metal']","[2.19, 1.69, 2.2, 1.91]",4,"{'P': 1.0, 'Cd': 1.0, 'Rn': 2.0, 'Ni': 8.0}",TRUE
+Po,['Po'],['Po - Non-Metal'],[2.0],1,{'Po': 1.0},FALSE
+I4,['I'],['I - Non-Metal'],[2.66],1,{'I': 4.0},FALSE
+NdCr3Cl4,"['Nd', 'Cr', 'Cl']","['Nd - Metal', 'Cr - Metal', 'Cl - Non-Metal']","[1.14, 1.66, 3.16]",3,"{'Nd': 1.0, 'Cr': 3.0, 'Cl': 4.0}",TRUE
+P,['P'],['P - Non-Metal'],[2.19],1,{'P': 1.0},FALSE
+Se3,['Se'],['Se - Non-Metal'],[2.55],1,{'Se': 3.0},FALSE
+TcSe2S4,"['Tc', 'Se', 'S']","['Tc - Metal', 'Se - Non-Metal', 'S - Non-Metal']","[1.9, 2.55, 2.58]",3,"{'Tc': 1.0, 'Se': 2.0, 'S': 4.0}",FALSE
+Se7,['Se'],['Se - Non-Metal'],[2.55],1,{'Se': 7.0},FALSE
+O4,['O'],['O - Non-Metal'],[3.44],1,{'O': 4.0},FALSE
+CrN5,"['Cr', 'N']","['Cr - Metal', 'N - Non-Metal']","[1.66, 3.04]",2,"{'Cr': 1.0, 'N': 5.0}",FALSE
+Po5,['Po'],['Po - Non-Metal'],[2.0],1,{'Po': 5.0},FALSE
+Tl,['Tl'],['Tl - Metal'],[1.62],1,{'Tl': 1.0},TRUE
+Cl,['Cl'],['Cl - Non-Metal'],[3.16],1,{'Cl': 1.0},FALSE
+Al,['Al'],['Al - Metal'],[1.61],1,{'Al': 1.0},TRUE
+Bk3P4,"['Bk', 'P']","['Bk - Metal', 'P - Non-Metal']","[1.3, 2.19]",2,"{'Bk': 3.0, 'P': 4.0}",TRUE
+P2Nb3,"['P', 'Nb']","['P - Non-Metal', 'Nb - Metal']","[2.19, 1.6]",2,"{'P': 2.0, 'Nb': 3.0}",TRUE
+Po3,['Po'],['Po - Non-Metal'],[2.0],1,{'Po': 3.0},FALSE
+Al3,['Al'],['Al - Metal'],[1.61],1,{'Al': 3.0},TRUE
+S2,['S'],['S - Non-Metal'],[2.58],1,{'S': 2.0},FALSE
+MnS4Ta4Be6,"['Mn', 'S', 'Ta', 'Be']","['Mn - Metal', 'S - Non-Metal', 'Ta - Metal', 'Be - Metal']","[1.55, 2.58, 1.5, 1.57]",4,"{'Mn': 1.0, 'S': 4.0, 'Ta': 4.0, 'Be': 6.0}",TRUE
+As4,['As'],['As - Non-Metal'],[2.18],1,{'As': 4.0},FALSE
+Ge4,['Ge'],['Ge - Non-Metal'],[2.01],1,{'Ge': 4.0},FALSE
+AgAuSe2,"['Ag', 'Au', 'Se']","['Ag - Metal', 'Au - Metal', 'Se - Non-Metal']","[1.93, 2.54, 2.55]",3,"{'Ag': 1.0, 'Au': 1.0, 'Se': 2.0}",FALSE
+Ga,['Ga'],['Ga - Metal'],[1.81],1,{'Ga': 1.0},TRUE
+Te6,['Te'],['Te - Non-Metal'],[2.1],1,{'Te': 6.0},FALSE
+Sb3,['Sb'],['Sb - Non-Metal'],[2.05],1,{'Sb': 3.0},FALSE
+HfI2Fe8,"['Hf', 'I', 'Fe']","['Hf - Metal', 'I - Non-Metal', 'Fe - Metal']","[1.3, 2.66, 1.83]",3,"{'Hf': 1.0, 'I': 2.0, 'Fe': 8.0}",TRUE
+Si,['Si'],['Si - Non-Metal'],[1.9],1,{'Si': 1.0},FALSE
+Si3,['Si'],['Si - Non-Metal'],[1.9],1,{'Si': 3.0},FALSE
+CuPo,"['Cu', 'Po']","['Cu - Metal', 'Po - Non-Metal']","[1.9, 2.0]",2,"{'Cu': 1.0, 'Po': 1.0}",TRUE
+Se,['Se'],['Se - Non-Metal'],[2.55],1,{'Se': 1.0},FALSE
+Ga3,['Ga'],['Ga - Metal'],[1.81],1,{'Ga': 3.0},TRUE
+Y2Cd2W4S5,"['Y', 'Cd', 'W', 'S']","['Y - Metal', 'Cd - Metal', 'W - Metal', 'S - Non-Metal']","[1.22, 1.69, 2.36, 2.58]",4,"{'Y': 2.0, 'Cd': 2.0, 'W': 4.0, 'S': 5.0}",TRUE
+Ge3,['Ge'],['Ge - Non-Metal'],[2.01],1,{'Ge': 3.0},FALSE
+GaRn2C6Cf6,"['Ga', 'Rn', 'C', 'Cf']","['Ga - Metal', 'Rn - Non-Metal', 'C - Non-Metal', 'Cf - Metal']","[1.81, 2.2, 2.55, 1.3]",4,"{'Ga': 1.0, 'Rn': 2.0, 'C': 6.0, 'Cf': 6.0}",TRUE
+As7,['As'],['As - Non-Metal'],[2.18],1,{'As': 7.0},FALSE
+LaReI6,"['La', 'Re', 'I']","['La - Metal', 'Re - Metal', 'I - Non-Metal']","[1.1, 1.9, 2.66]",3,"{'La': 1.0, 'Re': 1.0, 'I': 6.0}",TRUE
+IY3S6,"['I', 'Y', 'S']","['I - Non-Metal', 'Y - Metal', 'S - Non-Metal']","[2.66, 1.22, 2.58]",3,"{'I': 1.0, 'Y': 3.0, 'S': 6.0}",FALSE
+YI2,"['Y', 'I']","['Y - Metal', 'I - Non-Metal']","[1.22, 2.66]",2,"{'Y': 1.0, 'I': 2.0}",TRUE
+AsBi,"['As', 'Bi']","['As - Non-Metal', 'Bi - Metal']","[2.18, 2.02]",2,"{'As': 1.0, 'Bi': 1.0}",TRUE
+Ge2Pt3,"['Ge', 'Pt']","['Ge - Non-Metal', 'Pt - Metal']","[2.01, 2.28]",2,"{'Ge': 2.0, 'Pt': 3.0}",FALSE
+RuLa2S5,"['Ru', 'La', 'S']","['Ru - Metal', 'La - Metal', 'S - Non-Metal']","[2.2, 1.1, 2.58]",3,"{'Ru': 1.0, 'La': 2.0, 'S': 5.0}",TRUE
+O3,['O'],['O - Non-Metal'],[3.44],1,{'O': 3.0},FALSE
+As2,['As'],['As - Non-Metal'],[2.18],1,{'As': 2.0},FALSE
+Sb2,['Sb'],['Sb - Non-Metal'],[2.05],1,{'Sb': 2.0},FALSE
+S,['S'],['S - Non-Metal'],[2.58],1,{'S': 1.0},FALSE
+O,['O'],['O - Non-Metal'],[3.44],1,{'O': 1.0},FALSE
+Pb4,['Pb'],['Pb - Metal'],[2.33],1,{'Pb': 4.0},TRUE
+TeF3Y5,"['Te', 'F', 'Y']","['Te - Non-Metal', 'F - Non-Metal', 'Y - Metal']","[2.1, 3.98, 1.22]",3,"{'Te': 1.0, 'F': 3.0, 'Y': 5.0}",FALSE
+YbMo2V3Fe3At4,"['Yb', 'Mo', 'V', 'Fe', 'At']","['Yb - Metal', 'Mo - Metal', 'V - Metal', 'Fe - Metal', 'At - Non-Metal']","[1.1, 2.16, 1.63, 1.83, 2.2]",5,"{'Yb': 1.0, 'Mo': 2.0, 'V': 3.0, 'Fe': 3.0, 'At': 4.0}",TRUE
+P2,['P'],['P - Non-Metal'],[2.19],1,{'P': 2.0},FALSE
+B,['B'],['B - Non-Metal'],[2.04],1,{'B': 1.0},FALSE
+Pb,['Pb'],['Pb - Metal'],[2.33],1,{'Pb': 1.0},TRUE
+Se3C4,"['Se', 'C']","['Se - Non-Metal', 'C - Non-Metal']","[2.55, 2.55]",2,"{'Se': 3.0, 'C': 4.0}",FALSE
+Sb3Ge5,"['Sb', 'Ge']","['Sb - Non-Metal', 'Ge - Non-Metal']","[2.05, 2.01]",2,"{'Sb': 3.0, 'Ge': 5.0}",TRUE
+Rn3,['Rn'],['Rn - Non-Metal'],[2.2],1,{'Rn': 3.0},FALSE
+TcSb3As4,"['Tc', 'Sb', 'As']","['Tc - Metal', 'Sb - Non-Metal', 'As - Non-Metal']","[1.9, 2.05, 2.18]",3,"{'Tc': 1.0, 'Sb': 3.0, 'As': 4.0}",TRUE
+Sn4,['Sn'],['Sn - Metal'],[1.96],1,{'Sn': 4.0},TRUE
+Si6,['Si'],['Si - Non-Metal'],[1.9],1,{'Si': 6.0},FALSE
+Pb2,['Pb'],['Pb - Metal'],[2.33],1,{'Pb': 2.0},TRUE
+N,['N'],['N - Non-Metal'],[3.04],1,{'N': 1.0},FALSE
+GaC3I5Tc8,"['Ga', 'C', 'I', 'Tc']","['Ga - Metal', 'C - Non-Metal', 'I - Non-Metal', 'Tc - Metal']","[1.81, 2.55, 2.66, 1.9]",4,"{'Ga': 1.0, 'C': 3.0, 'I': 5.0, 'Tc': 8.0}",FALSE
+Br,['Br'],['Br - Non-Metal'],[2.96],1,{'Br': 1.0},FALSE
+As6,['As'],['As - Non-Metal'],[2.18],1,{'As': 6.0},FALSE
+In,['In'],['In - Metal'],[1.78],1,{'In': 1.0},TRUE
+O2,['O'],['O - Non-Metal'],[3.44],1,{'O': 2.0},FALSE
+RuS3,"['Ru', 'S']","['Ru - Metal', 'S - Non-Metal']","[2.2, 2.58]",2,"{'Ru': 1.0, 'S': 3.0}",FALSE
+TmPo4Ga6,"['Tm', 'Po', 'Ga']","['Tm - Metal', 'Po - Non-Metal', 'Ga - Metal']","[1.25, 2.0, 1.81]",3,"{'Tm': 1.0, 'Po': 4.0, 'Ga': 6.0}",TRUE
+S5,['S'],['S - Non-Metal'],[2.58],1,{'S': 5.0},FALSE
+TeP4Pd6,"['Te', 'P', 'Pd']","['Te - Non-Metal', 'P - Non-Metal', 'Pd - Metal']","[2.1, 2.19, 2.2]",3,"{'Te': 1.0, 'P': 4.0, 'Pd': 6.0}",FALSE
+Ga2,['Ga'],['Ga - Metal'],[1.81],1,{'Ga': 2.0},TRUE
+FeSb2Br3Ta3,"['Fe', 'Sb', 'Br', 'Ta']","['Fe - Metal', 'Sb - Non-Metal', 'Br - Non-Metal', 'Ta - Metal']","[1.83, 2.05, 2.96, 1.5]",4,"{'Fe': 1.0, 'Sb': 2.0, 'Br': 3.0, 'Ta': 3.0}",TRUE
+F3,['F'],['F - Non-Metal'],[3.98],1,{'F': 3.0},FALSE
+Mn2Kr3,"['Mn', 'Kr']","['Mn - Metal', 'Kr - Non-Metal']","[1.55, 3.0]",2,"{'Mn': 2.0, 'Kr': 3.0}",FALSE
+C3,['C'],['C - Non-Metal'],[2.55],1,{'C': 3.0},FALSE
+S4,['S'],['S - Non-Metal'],[2.58],1,{'S': 4.0},FALSE
+S2Ho3C4,"['S', 'Ho', 'C']","['S - Non-Metal', 'Ho - Metal', 'C - Non-Metal']","[2.58, 1.23, 2.55]",3,"{'S': 2.0, 'Ho': 3.0, 'C': 4.0}",FALSE
+Te,['Te'],['Te - Non-Metal'],[2.1],1,{'Te': 1.0},FALSE
+Se4,['Se'],['Se - Non-Metal'],[2.55],1,{'Se': 4.0},FALSE
+At4,['At'],['At - Non-Metal'],[2.2],1,{'At': 4.0},FALSE
+Xe2,['Xe'],['Xe - Non-Metal'],[2.6],1,{'Xe': 2.0},FALSE
+Po4,['Po'],['Po - Non-Metal'],[2.0],1,{'Po': 4.0},FALSE
+SiPb2,"['Si', 'Pb']","['Si - Non-Metal', 'Pb - Metal']","[1.9, 2.33]",2,"{'Si': 1.0, 'Pb': 2.0}",FALSE
+Tl3,['Tl'],['Tl - Metal'],[1.62],1,{'Tl': 3.0},TRUE
+S3Cr3Au4,"['S', 'Cr', 'Au']","['S - Non-Metal', 'Cr - Metal', 'Au - Metal']","[2.58, 1.66, 2.54]",3,"{'S': 3.0, 'Cr': 3.0, 'Au': 4.0}",FALSE
+AgIP4V5,"['Ag', 'I', 'P', 'V']","['Ag - Metal', 'I - Non-Metal', 'P - Non-Metal', 'V - Metal']","[1.93, 2.66, 2.19, 1.63]",4,"{'Ag': 1.0, 'I': 1.0, 'P': 4.0, 'V': 5.0}",FALSE
+Sb7,['Sb'],['Sb - Non-Metal'],[2.05],1,{'Sb': 7.0},FALSE
+Bi3,['Bi'],['Bi - Metal'],[2.02],1,{'Bi': 3.0},TRUE
+Cl2,['Cl'],['Cl - Non-Metal'],[3.16],1,{'Cl': 2.0},FALSE
+XeLaSi2Mn3,"['Xe', 'La', 'Si', 'Mn']","['Xe - Non-Metal', 'La - Metal', 'Si - Non-Metal', 'Mn - Metal']","[2.6, 1.1, 1.9, 1.55]",4,"{'Xe': 1.0, 'La': 1.0, 'Si': 2.0, 'Mn': 3.0}",TRUE
+Ge,['Ge'],['Ge - Non-Metal'],[2.01],1,{'Ge': 1.0},FALSE
+Cl2Os5,"['Cl', 'Os']","['Cl - Non-Metal', 'Os - Metal']","[3.16, 2.2]",2,"{'Cl': 2.0, 'Os': 5.0}",FALSE
+ThGe4,"['Th', 'Ge']","['Th - Metal', 'Ge - Non-Metal']","[1.3, 2.01]",2,"{'Th': 1.0, 'Ge': 4.0}",TRUE
+RhDySc4Se6,"['Rh', 'Dy', 'Sc', 'Se']","['Rh - Metal', 'Dy - Metal', 'Sc - Metal', 'Se - Non-Metal']","[2.28, 1.22, 1.36, 2.55]",4,"{'Rh': 1.0, 'Dy': 1.0, 'Sc': 4.0, 'Se': 6.0}",TRUE
+Sb6,['Sb'],['Sb - Non-Metal'],[2.05],1,{'Sb': 6.0},FALSE
+C4,['C'],['C - Non-Metal'],[2.55],1,{'C': 4.0},FALSE
+Bi4,['Bi'],['Bi - Metal'],[2.02],1,{'Bi': 4.0},TRUE
+Bi7,['Bi'],['Bi - Metal'],[2.02],1,{'Bi': 7.0},TRUE
+HfSb2Si5,"['Hf', 'Sb', 'Si']","['Hf - Metal', 'Sb - Non-Metal', 'Si - Non-Metal']","[1.3, 2.05, 1.9]",3,"{'Hf': 1.0, 'Sb': 2.0, 'Si': 5.0}",TRUE
+C,['C'],['C - Non-Metal'],[2.55],1,{'C': 1.0},FALSE
+FSiS2,"['F', 'Si', 'S']","['F - Non-Metal', 'Si - Non-Metal', 'S - Non-Metal']","[3.98, 1.9, 2.58]",3,"{'F': 1.0, 'Si': 1.0, 'S': 2.0}",FALSE
+Te7,['Te'],['Te - Non-Metal'],[2.1],1,{'Te': 7.0},FALSE
+Nb2P3,"['Nb', 'P']","['Nb - Metal', 'P - Non-Metal']","[1.6, 2.19]",2,"{'Nb': 2.0, 'P': 3.0}",TRUE
+S7,['S'],['S - Non-Metal'],[2.58],1,{'S': 7.0},FALSE
+PoSe2,"['Po', 'Se']","['Po - Non-Metal', 'Se - Non-Metal']","[2.0, 2.55]",2,"{'Po': 1.0, 'Se': 2.0}",FALSE
+WTe3Ir4,"['W', 'Te', 'Ir']","['W - Metal', 'Te - Non-Metal', 'Ir - Metal']","[2.36, 2.1, 2.2]",3,"{'W': 1.0, 'Te': 3.0, 'Ir': 4.0}",FALSE
+I5,['I'],['I - Non-Metal'],[2.66],1,{'I': 5.0},FALSE
+Tl2,['Tl'],['Tl - Metal'],[1.62],1,{'Tl': 2.0},TRUE
+Bi,['Bi'],['Bi - Metal'],[2.02],1,{'Bi': 1.0},TRUE
+Ar,['Ar'],['Ar - Non-Metal'],[nan],1,{'Ar': 1.0},FALSE
+Sb,['Sb'],['Sb - Non-Metal'],[2.05],1,{'Sb': 1.0},FALSE
+GdBr2,"['Gd', 'Br']","['Gd - Metal', 'Br - Non-Metal']","[1.2, 2.96]",2,"{'Gd': 1.0, 'Br': 2.0}",TRUE
+Br5,['Br'],['Br - Non-Metal'],[2.96],1,{'Br': 5.0},FALSE
+Pb5,['Pb'],['Pb - Metal'],[2.33],1,{'Pb': 5.0},TRUE
+Rh2O5,"['Rh', 'O']","['Rh - Metal', 'O - Non-Metal']","[2.28, 3.44]",2,"{'Rh': 2.0, 'O': 5.0}",FALSE
+KrAc2C6,"['Kr', 'Ac', 'C']","['Kr - Non-Metal', 'Ac - Metal', 'C - Non-Metal']","[3.0, 1.1, 2.55]",3,"{'Kr': 1.0, 'Ac': 2.0, 'C': 6.0}",FALSE
+Hg2,['Hg'],['Hg - Metal'],[2.0],1,{'Hg': 2.0},TRUE
+F2Xe3Sn4,"['F', 'Xe', 'Sn']","['F - Non-Metal', 'Xe - Non-Metal', 'Sn - Metal']","[3.98, 2.6, 1.96]",3,"{'F': 2.0, 'Xe': 3.0, 'Sn': 4.0}",FALSE
+At2,['At'],['At - Non-Metal'],[2.2],1,{'At': 2.0},FALSE
+B2,['B'],['B - Non-Metal'],[2.04],1,{'B': 2.0},FALSE
+Si5,['Si'],['Si - Non-Metal'],[1.9],1,{'Si': 5.0},FALSE
+B3,['B'],['B - Non-Metal'],[2.04],1,{'B': 3.0},FALSE
+Zr3Cu4Se5,"['Zr', 'Cu', 'Se']","['Zr - Metal', 'Cu - Metal', 'Se - Non-Metal']","[1.33, 1.9, 2.55]",3,"{'Zr': 3.0, 'Cu': 4.0, 'Se': 5.0}",TRUE
+Po2,['Po'],['Po - Non-Metal'],[2.0],1,{'Po': 2.0},FALSE
+C2,['C'],['C - Non-Metal'],[2.55],1,{'C': 2.0},FALSE
+Bi2,['Bi'],['Bi - Metal'],[2.02],1,{'Bi': 2.0},TRUE
+Te2,['Te'],['Te - Non-Metal'],[2.1],1,{'Te': 2.0},FALSE
+TcO5,"['Tc', 'O']","['Tc - Metal', 'O - Non-Metal']","[1.9, 3.44]",2,"{'Tc': 1.0, 'O': 5.0}",FALSE
+I2,['I'],['I - Non-Metal'],[2.66],1,{'I': 2.0},FALSE
+TeH4,"['Te', 'H']","['Te - Non-Metal', 'H - Unknown']","[2.1, 2.2]",2,"{'Te': 1.0, 'H': 4.0}",FALSE
+As5,['As'],['As - Non-Metal'],[2.18],1,{'As': 5.0},FALSE
+Sn3,['Sn'],['Sn - Metal'],[1.96],1,{'Sn': 3.0},TRUE
+HfGe4,"['Hf', 'Ge']","['Hf - Metal', 'Ge - Non-Metal']","[1.3, 2.01]",2,"{'Hf': 1.0, 'Ge': 4.0}",TRUE
+O5,['O'],['O - Non-Metal'],[3.44],1,{'O': 5.0},FALSE
+Br3,['Br'],['Br - Non-Metal'],[2.96],1,{'Br': 3.0},FALSE
+PaO3,"['Pa', 'O']","['Pa - Metal', 'O - Non-Metal']","[1.5, 3.44]",2,"{'Pa': 1.0, 'O': 3.0}",FALSE
+Se2Sb3B5,"['Se', 'Sb', 'B']","['Se - Non-Metal', 'Sb - Non-Metal', 'B - Non-Metal']","[2.55, 2.05, 2.04]",3,"{'Se': 2.0, 'Sb': 3.0, 'B': 5.0}",FALSE
+Ar2,['Ar'],['Ar - Non-Metal'],[nan],1,{'Ar': 2.0},FALSE
+Rn2,['Rn'],['Rn - Non-Metal'],[2.2],1,{'Rn': 2.0},FALSE
+Sb5,['Sb'],['Sb - Non-Metal'],[2.05],1,{'Sb': 5.0},FALSE
+Al2,['Al'],['Al - Metal'],[1.61],1,{'Al': 2.0},TRUE
+Si2,['Si'],['Si - Non-Metal'],[1.9],1,{'Si': 2.0},FALSE
+As3,['As'],['As - Non-Metal'],[2.18],1,{'As': 3.0},FALSE
+Ge5,['Ge'],['Ge - Non-Metal'],[2.01],1,{'Ge': 5.0},FALSE
+KrPo,"['Kr', 'Po']","['Kr - Non-Metal', 'Po - Non-Metal']","[3.0, 2.0]",2,"{'Kr': 1.0, 'Po': 1.0}",FALSE
+SAuW2H4Ta5,"['S', 'Au', 'W', 'H', 'Ta']","['S - Non-Metal', 'Au - Metal', 'W - Metal', 'H - Unknown', 'Ta - Metal']","[2.58, 2.54, 2.36, 2.2, 1.5]",5,"{'S': 1.0, 'Au': 1.0, 'W': 2.0, 'H': 4.0, 'Ta': 5.0}",FALSE
+SZrFe2O3,"['S', 'Zr', 'Fe', 'O']","['S - Non-Metal', 'Zr - Metal', 'Fe - Metal', 'O - Non-Metal']","[2.58, 1.33, 1.83, 3.44]",4,"{'S': 1.0, 'Zr': 1.0, 'Fe': 2.0, 'O': 3.0}",FALSE
+OTa4Hg6,"['O', 'Ta', 'Hg']","['O - Non-Metal', 'Ta - Metal', 'Hg - Metal']","[3.44, 1.5, 2.0]",3,"{'O': 1.0, 'Ta': 4.0, 'Hg': 6.0}",FALSE
+TeCr3Os7,"['Te', 'Cr', 'Os']","['Te - Non-Metal', 'Cr - Metal', 'Os - Metal']","[2.1, 1.66, 2.2]",3,"{'Te': 1.0, 'Cr': 3.0, 'Os': 7.0}",TRUE
+PCrW3,"['P', 'Cr', 'W']","['P - Non-Metal', 'Cr - Metal', 'W - Metal']","[2.19, 1.66, 2.36]",3,"{'P': 1.0, 'Cr': 1.0, 'W': 3.0}",TRUE
+AgLuBr4,"['Ag', 'Lu', 'Br']","['Ag - Metal', 'Lu - Metal', 'Br - Non-Metal']","[1.93, 1.27, 2.96]",3,"{'Ag': 1.0, 'Lu': 1.0, 'Br': 4.0}",TRUE
+At,['At'],['At - Non-Metal'],[2.2],1,{'At': 1.0},FALSE
+Kr2,['Kr'],['Kr - Non-Metal'],[3.0],1,{'Kr': 2.0},FALSE
+P4,['P'],['P - Non-Metal'],[2.19],1,{'P': 4.0},FALSE
+PoSi4,"['Po', 'Si']","['Po - Non-Metal', 'Si - Non-Metal']","[2.0, 1.9]",2,"{'Po': 1.0, 'Si': 4.0}",TRUE
+P5,['P'],['P - Non-Metal'],[2.19],1,{'P': 5.0},FALSE
+BiBkF4V6,"['Bi', 'Bk', 'F', 'V']","['Bi - Metal', 'Bk - Metal', 'F - Non-Metal', 'V - Metal']","[2.02, 1.3, 3.98, 1.63]",4,"{'Bi': 1.0, 'Bk': 1.0, 'F': 4.0, 'V': 6.0}",FALSE
+Ge6,['Ge'],['Ge - Non-Metal'],[2.01],1,{'Ge': 6.0},FALSE
+UI6,"['U', 'I']","['U - Metal', 'I - Non-Metal']","[1.38, 2.66]",2,"{'U': 1.0, 'I': 6.0}",TRUE
+NpS4,"['Np', 'S']","['Np - Metal', 'S - Non-Metal']","[1.36, 2.58]",2,"{'Np': 1.0, 'S': 4.0}",TRUE
+Gd2Te3,"['Gd', 'Te']","['Gd - Metal', 'Te - Non-Metal']","[1.2, 2.1]",2,"{'Gd': 2.0, 'Te': 3.0}",TRUE
+I3,['I'],['I - Non-Metal'],[2.66],1,{'I': 3.0},FALSE
+BrPb4Mn7,"['Br', 'Pb', 'Mn']","['Br - Non-Metal', 'Pb - Metal', 'Mn - Metal']","[2.96, 2.33, 1.55]",3,"{'Br': 1.0, 'Pb': 4.0, 'Mn': 7.0}",FALSE
+I,['I'],['I - Non-Metal'],[2.66],1,{'I': 1.0},FALSE
+PuY2I6,"['Pu', 'Y', 'I']","['Pu - Metal', 'Y - Metal', 'I - Non-Metal']","[1.28, 1.22, 2.66]",3,"{'Pu': 1.0, 'Y': 2.0, 'I': 6.0}",TRUE
+N2,['N'],['N - Non-Metal'],[3.04],1,{'N': 2.0},FALSE
+Co2Te3,"['Co', 'Te']","['Co - Metal', 'Te - Non-Metal']","[1.88, 2.1]",2,"{'Co': 2.0, 'Te': 3.0}",TRUE
+Si4,['Si'],['Si - Non-Metal'],[1.9],1,{'Si': 4.0},FALSE
+N2Br2Cd3,"['N', 'Br', 'Cd']","['N - Non-Metal', 'Br - Non-Metal', 'Cd - Metal']","[3.04, 2.96, 1.69]",3,"{'N': 2.0, 'Br': 2.0, 'Cd': 3.0}",FALSE
+TiHf2Te4,"['Ti', 'Hf', 'Te']","['Ti - Metal', 'Hf - Metal', 'Te - Non-Metal']","[1.54, 1.3, 2.1]",3,"{'Ti': 1.0, 'Hf': 2.0, 'Te': 4.0}",TRUE
+P3,['P'],['P - Non-Metal'],[2.19],1,{'P': 3.0},FALSE
+B2Te3,"['B', 'Te']","['B - Non-Metal', 'Te - Non-Metal']","[2.04, 2.1]",2,"{'B': 2.0, 'Te': 3.0}",TRUE
+NiOsSb3Ga5,"['Ni', 'Os', 'Sb', 'Ga']","['Ni - Metal', 'Os - Metal', 'Sb - Non-Metal', 'Ga - Metal']","[1.91, 2.2, 2.05, 1.81]",4,"{'Ni': 1.0, 'Os': 1.0, 'Sb': 3.0, 'Ga': 5.0}",TRUE
+ZnCa3Ag3Se5,"['Zn', 'Ca', 'Ag', 'Se']","['Zn - Metal', 'Ca - Metal', 'Ag - Metal', 'Se - Non-Metal']","[1.65, 1.0, 1.93, 2.55]",4,"{'Zn': 1.0, 'Ca': 3.0, 'Ag': 3.0, 'Se': 5.0}",TRUE
+FSb5Si6,"['F', 'Sb', 'Si']","['F - Non-Metal', 'Sb - Non-Metal', 'Si - Non-Metal']","[3.98, 2.05, 1.9]",3,"{'F': 1.0, 'Sb': 5.0, 'Si': 6.0}",FALSE
+YbCu2Sn2Br3Si4,"['Yb', 'Cu', 'Sn', 'Br', 'Si']","['Yb - Metal', 'Cu - Metal', 'Sn - Metal', 'Br - Non-Metal', 'Si - Non-Metal']","[1.1, 1.9, 1.96, 2.96, 1.9]",5,"{'Yb': 1.0, 'Cu': 2.0, 'Sn': 2.0, 'Br': 3.0, 'Si': 4.0}",TRUE
+OMnHfOs3S6,"['O', 'Mn', 'Hf', 'Os', 'S']","['O - Non-Metal', 'Mn - Metal', 'Hf - Metal', 'Os - Metal', 'S - Non-Metal']","[3.44, 1.55, 1.3, 2.2, 2.58]",5,"{'O': 1.0, 'Mn': 1.0, 'Hf': 1.0, 'Os': 3.0, 'S': 6.0}",FALSE
+At3,['At'],['At - Non-Metal'],[2.2],1,{'At': 3.0},FALSE
+Br4,['Br'],['Br - Non-Metal'],[2.96],1,{'Br': 4.0},FALSE
+S6,['S'],['S - Non-Metal'],[2.58],1,{'S': 6.0},FALSE
+EuI2,"['Eu', 'I']","['Eu - Metal', 'I - Non-Metal']","[1.2, 2.66]",2,"{'Eu': 1.0, 'I': 2.0}",TRUE
+W2O5,"['W', 'O']","['W - Metal', 'O - Non-Metal']","[2.36, 3.44]",2,"{'W': 2.0, 'O': 5.0}",FALSE
+Rn,['Rn'],['Rn - Non-Metal'],[2.2],1,{'Rn': 1.0},FALSE
+AgS2In2Pt3,"['Ag', 'S', 'In', 'Pt']","['Ag - Metal', 'S - Non-Metal', 'In - Metal', 'Pt - Metal']","[1.93, 2.58, 1.78, 2.28]",4,"{'Ag': 1.0, 'S': 2.0, 'In': 2.0, 'Pt': 3.0}",FALSE
+ClIr7,"['Cl', 'Ir']","['Cl - Non-Metal', 'Ir - Metal']","[3.16, 2.2]",2,"{'Cl': 1.0, 'Ir': 7.0}",FALSE
+ClReIn2,"['Cl', 'Re', 'In']","['Cl - Non-Metal', 'Re - Metal', 'In - Metal']","[3.16, 1.9, 1.78]",3,"{'Cl': 1.0, 'Re': 1.0, 'In': 2.0}",FALSE
+NSn,"['N', 'Sn']","['N - Non-Metal', 'Sn - Metal']","[3.04, 1.96]",2,"{'N': 1.0, 'Sn': 1.0}",FALSE
+NRhF2H4,"['N', 'Rh', 'F', 'H']","['N - Non-Metal', 'Rh - Metal', 'F - Non-Metal', 'H - Unknown']","[3.04, 2.28, 3.98, 2.2]",4,"{'N': 1.0, 'Rh': 1.0, 'F': 2.0, 'H': 4.0}",FALSE
+UI5,"['U', 'I']","['U - Metal', 'I - Non-Metal']","[1.38, 2.66]",2,"{'U': 1.0, 'I': 5.0}",TRUE
+ThS2Fe3,"['Th', 'S', 'Fe']","['Th - Metal', 'S - Non-Metal', 'Fe - Metal']","[1.3, 2.58, 1.83]",3,"{'Th': 1.0, 'S': 2.0, 'Fe': 3.0}",TRUE
+HoLu4Sb5,"['Ho', 'Lu', 'Sb']","['Ho - Metal', 'Lu - Metal', 'Sb - Non-Metal']","[1.23, 1.27, 2.05]",3,"{'Ho': 1.0, 'Lu': 4.0, 'Sb': 5.0}",TRUE
+HfAt3Si5,"['Hf', 'At', 'Si']","['Hf - Metal', 'At - Non-Metal', 'Si - Non-Metal']","[1.3, 2.2, 1.9]",3,"{'Hf': 1.0, 'At': 3.0, 'Si': 5.0}",TRUE
+AlBe2I6,"['Al', 'Be', 'I']","['Al - Metal', 'Be - Metal', 'I - Non-Metal']","[1.61, 1.57, 2.66]",3,"{'Al': 1.0, 'Be': 2.0, 'I': 6.0}",TRUE
+XePo2,"['Xe', 'Po']","['Xe - Non-Metal', 'Po - Non-Metal']","[2.6, 2.0]",2,"{'Xe': 1.0, 'Po': 2.0}",FALSE
+CuFe2F4,"['Cu', 'Fe', 'F']","['Cu - Metal', 'Fe - Metal', 'F - Non-Metal']","[1.9, 1.83, 3.98]",3,"{'Cu': 1.0, 'Fe': 2.0, 'F': 4.0}",FALSE
+Cu2O3,"['Cu', 'O']","['Cu - Metal', 'O - Non-Metal']","[1.9, 3.44]",2,"{'Cu': 2.0, 'O': 3.0}",FALSE
+PbI2,"['Pb', 'I']","['Pb - Metal', 'I - Non-Metal']","[2.33, 2.66]",2,"{'Pb': 1.0, 'I': 2.0}",FALSE
+Bi6,['Bi'],['Bi - Metal'],[2.02],1,{'Bi': 6.0},TRUE
+I6,['I'],['I - Non-Metal'],[2.66],1,{'I': 6.0},FALSE
+PbPoPt5,"['Pb', 'Po', 'Pt']","['Pb - Metal', 'Po - Non-Metal', 'Pt - Metal']","[2.33, 2.0, 2.28]",3,"{'Pb': 1.0, 'Po': 1.0, 'Pt': 5.0}",FALSE
+At3N4Cr5,"['At', 'N', 'Cr']","['At - Non-Metal', 'N - Non-Metal', 'Cr - Metal']","[2.2, 3.04, 1.66]",3,"{'At': 3.0, 'N': 4.0, 'Cr': 5.0}",FALSE
+BGe3,"['B', 'Ge']","['B - Non-Metal', 'Ge - Non-Metal']","[2.04, 2.01]",2,"{'B': 1.0, 'Ge': 3.0}",TRUE
+Am2Fe4Se5,"['Am', 'Fe', 'Se']","['Am - Metal', 'Fe - Metal', 'Se - Non-Metal']","[1.3, 1.83, 2.55]",3,"{'Am': 2.0, 'Fe': 4.0, 'Se': 5.0}",TRUE
+P7,['P'],['P - Non-Metal'],[2.19],1,{'P': 7.0},FALSE
+PrF3,"['Pr', 'F']","['Pr - Metal', 'F - Non-Metal']","[1.13, 3.98]",2,"{'Pr': 1.0, 'F': 3.0}",FALSE
+AuY2S5,"['Au', 'Y', 'S']","['Au - Metal', 'Y - Metal', 'S - Non-Metal']","[2.54, 1.22, 2.58]",3,"{'Au': 1.0, 'Y': 2.0, 'S': 5.0}",FALSE
+SGa,"['S', 'Ga']","['S - Non-Metal', 'Ga - Metal']","[2.58, 1.81]",2,"{'S': 1.0, 'Ga': 1.0}",FALSE
+Y2O3In4,"['Y', 'O', 'In']","['Y - Metal', 'O - Non-Metal', 'In - Metal']","[1.22, 3.44, 1.78]",3,"{'Y': 2.0, 'O': 3.0, 'In': 4.0}",FALSE
+Se2,['Se'],['Se - Non-Metal'],[2.55],1,{'Se': 2.0},FALSE
+OsRn2Am2Fe3,"['Os', 'Rn', 'Am', 'Fe']","['Os - Metal', 'Rn - Non-Metal', 'Am - Metal', 'Fe - Metal']","[2.2, 2.2, 1.3, 1.83]",4,"{'Os': 1.0, 'Rn': 2.0, 'Am': 2.0, 'Fe': 3.0}",TRUE
+PbTe3Zr4,"['Pb', 'Te', 'Zr']","['Pb - Metal', 'Te - Non-Metal', 'Zr - Metal']","[2.33, 2.1, 1.33]",3,"{'Pb': 1.0, 'Te': 3.0, 'Zr': 4.0}",TRUE
+AsTc5,"['As', 'Tc']","['As - Non-Metal', 'Tc - Metal']","[2.18, 1.9]",2,"{'As': 1.0, 'Tc': 5.0}",TRUE
+Te5,['Te'],['Te - Non-Metal'],[2.1],1,{'Te': 5.0},FALSE
+Mo2P5,"['Mo', 'P']","['Mo - Metal', 'P - Non-Metal']","[2.16, 2.19]",2,"{'Mo': 2.0, 'P': 5.0}",FALSE
+Cl3,['Cl'],['Cl - Non-Metal'],[3.16],1,{'Cl': 3.0},FALSE
+At2W7,"['At', 'W']","['At - Non-Metal', 'W - Metal']","[2.2, 2.36]",2,"{'At': 2.0, 'W': 7.0}",FALSE
+NpP2,"['Np', 'P']","['Np - Metal', 'P - Non-Metal']","[1.36, 2.19]",2,"{'Np': 1.0, 'P': 2.0}",TRUE
+SeCu2,"['Se', 'Cu']","['Se - Non-Metal', 'Cu - Metal']","[2.55, 1.9]",2,"{'Se': 1.0, 'Cu': 2.0}",FALSE
+SiI2Li3,"['Si', 'I', 'Li']","['Si - Non-Metal', 'I - Non-Metal', 'Li - Metal']","[1.9, 2.66, 0.98]",3,"{'Si': 1.0, 'I': 2.0, 'Li': 3.0}",TRUE
+Sn5,['Sn'],['Sn - Metal'],[1.96],1,{'Sn': 5.0},TRUE
+CAtTh3Co5,"['C', 'At', 'Th', 'Co']","['C - Non-Metal', 'At - Non-Metal', 'Th - Metal', 'Co - Metal']","[2.55, 2.2, 1.3, 1.88]",4,"{'C': 1.0, 'At': 1.0, 'Th': 3.0, 'Co': 5.0}",TRUE
+TeSe3,"['Te', 'Se']","['Te - Non-Metal', 'Se - Non-Metal']","[2.1, 2.55]",2,"{'Te': 1.0, 'Se': 3.0}",FALSE
+CCl4,"['C', 'Cl']","['C - Non-Metal', 'Cl - Non-Metal']","[2.55, 3.16]",2,"{'C': 1.0, 'Cl': 4.0}",FALSE
+MgCf2Mn3Br4,"['Mg', 'Cf', 'Mn', 'Br']","['Mg - Metal', 'Cf - Metal', 'Mn - Metal', 'Br - Non-Metal']","[1.31, 1.3, 1.55, 2.96]",4,"{'Mg': 1.0, 'Cf': 2.0, 'Mn': 3.0, 'Br': 4.0}",TRUE
+NiGa2N3,"['Ni', 'Ga', 'N']","['Ni - Metal', 'Ga - Metal', 'N - Non-Metal']","[1.91, 1.81, 3.04]",3,"{'Ni': 1.0, 'Ga': 2.0, 'N': 3.0}",FALSE
+ReCa2S7,"['Re', 'Ca', 'S']","['Re - Metal', 'Ca - Metal', 'S - Non-Metal']","[1.9, 1.0, 2.58]",3,"{'Re': 1.0, 'Ca': 2.0, 'S': 7.0}",TRUE
+NbTe,"['Nb', 'Te']","['Nb - Metal', 'Te - Non-Metal']","[1.6, 2.1]",2,"{'Nb': 1.0, 'Te': 1.0}",TRUE
+CBrPo3Cm3,"['C', 'Br', 'Po', 'Cm']","['C - Non-Metal', 'Br - Non-Metal', 'Po - Non-Metal', 'Cm - Metal']","[2.55, 2.96, 2.0, 1.3]",4,"{'C': 1.0, 'Br': 1.0, 'Po': 3.0, 'Cm': 3.0}",FALSE
+YAt3Ni5,"['Y', 'At', 'Ni']","['Y - Metal', 'At - Non-Metal', 'Ni - Metal']","[1.22, 2.2, 1.91]",3,"{'Y': 1.0, 'At': 3.0, 'Ni': 5.0}",TRUE
+Ta2Br3Sb4,"['Ta', 'Br', 'Sb']","['Ta - Metal', 'Br - Non-Metal', 'Sb - Non-Metal']","[1.5, 2.96, 2.05]",3,"{'Ta': 2.0, 'Br': 3.0, 'Sb': 4.0}",FALSE
+PoCfXe3Mn5,"['Po', 'Cf', 'Xe', 'Mn']","['Po - Non-Metal', 'Cf - Metal', 'Xe - Non-Metal', 'Mn - Metal']","[2.0, 1.3, 2.6, 1.55]",4,"{'Po': 1.0, 'Cf': 1.0, 'Xe': 3.0, 'Mn': 5.0}",TRUE
+SN2,"['S', 'N']","['S - Non-Metal', 'N - Non-Metal']","[2.58, 3.04]",2,"{'S': 1.0, 'N': 2.0}",FALSE
+CrCuPt3Br4,"['Cr', 'Cu', 'Pt', 'Br']","['Cr - Metal', 'Cu - Metal', 'Pt - Metal', 'Br - Non-Metal']","[1.66, 1.9, 2.28, 2.96]",4,"{'Cr': 1.0, 'Cu': 1.0, 'Pt': 3.0, 'Br': 4.0}",FALSE
+Ge2,['Ge'],['Ge - Non-Metal'],[2.01],1,{'Ge': 2.0},FALSE
+TmBi,"['Tm', 'Bi']","['Tm - Metal', 'Bi - Metal']","[1.25, 2.02]",2,"{'Tm': 1.0, 'Bi': 1.0}",TRUE
+Ta2N5,"['Ta', 'N']","['Ta - Metal', 'N - Non-Metal']","[1.5, 3.04]",2,"{'Ta': 2.0, 'N': 5.0}",FALSE
+ITi2Na5,"['I', 'Ti', 'Na']","['I - Non-Metal', 'Ti - Metal', 'Na - Metal']","[2.66, 1.54, 0.93]",3,"{'I': 1.0, 'Ti': 2.0, 'Na': 5.0}",TRUE
+HfSe4Tc4,"['Hf', 'Se', 'Tc']","['Hf - Metal', 'Se - Non-Metal', 'Tc - Metal']","[1.3, 2.55, 1.9]",3,"{'Hf': 1.0, 'Se': 4.0, 'Tc': 4.0}",TRUE
+SiTe,"['Si', 'Te']","['Si - Non-Metal', 'Te - Non-Metal']","[1.9, 2.1]",2,"{'Si': 1.0, 'Te': 1.0}",TRUE
+IAu2V8,"['I', 'Au', 'V']","['I - Non-Metal', 'Au - Metal', 'V - Metal']","[2.66, 2.54, 1.63]",3,"{'I': 1.0, 'Au': 2.0, 'V': 8.0}",FALSE
+IYbCl5,"['I', 'Yb', 'Cl']","['I - Non-Metal', 'Yb - Metal', 'Cl - Non-Metal']","[2.66, 1.1, 3.16]",3,"{'I': 1.0, 'Yb': 1.0, 'Cl': 5.0}",FALSE
+BkBr4,"['Bk', 'Br']","['Bk - Metal', 'Br - Non-Metal']","[1.3, 2.96]",2,"{'Bk': 1.0, 'Br': 4.0}",FALSE
+BrMo4Ge6,"['Br', 'Mo', 'Ge']","['Br - Non-Metal', 'Mo - Metal', 'Ge - Non-Metal']","[2.96, 2.16, 2.01]",3,"{'Br': 1.0, 'Mo': 4.0, 'Ge': 6.0}",FALSE
+KrRh2,"['Kr', 'Rh']","['Kr - Non-Metal', 'Rh - Metal']","[3.0, 2.28]",2,"{'Kr': 1.0, 'Rh': 2.0}",FALSE
+Po6,['Po'],['Po - Non-Metal'],[2.0],1,{'Po': 6.0},FALSE
+Sn,['Sn'],['Sn - Metal'],[1.96],1,{'Sn': 1.0},TRUE
+ClO3Tc7,"['Cl', 'O', 'Tc']","['Cl - Non-Metal', 'O - Non-Metal', 'Tc - Metal']","[3.16, 3.44, 1.9]",3,"{'Cl': 1.0, 'O': 3.0, 'Tc': 7.0}",FALSE
+YSnCl2Nb8,"['Y', 'Sn', 'Cl', 'Nb']","['Y - Metal', 'Sn - Metal', 'Cl - Non-Metal', 'Nb - Metal']","[1.22, 1.96, 3.16, 1.6]",4,"{'Y': 1.0, 'Sn': 1.0, 'Cl': 2.0, 'Nb': 8.0}",TRUE
+CuW2Xe3,"['Cu', 'W', 'Xe']","['Cu - Metal', 'W - Metal', 'Xe - Non-Metal']","[1.9, 2.36, 2.6]",3,"{'Cu': 1.0, 'W': 2.0, 'Xe': 3.0}",FALSE
+IrThAm3Cl5,"['Ir', 'Th', 'Am', 'Cl']","['Ir - Metal', 'Th - Metal', 'Am - Metal', 'Cl - Non-Metal']","[2.2, 1.3, 1.3, 3.16]",4,"{'Ir': 1.0, 'Th': 1.0, 'Am': 3.0, 'Cl': 5.0}",TRUE
+TeAuSe4,"['Te', 'Au', 'Se']","['Te - Non-Metal', 'Au - Metal', 'Se - Non-Metal']","[2.1, 2.54, 2.55]",3,"{'Te': 1.0, 'Au': 1.0, 'Se': 4.0}",FALSE
+As,['As'],['As - Non-Metal'],[2.18],1,{'As': 1.0},FALSE
+Cl4,['Cl'],['Cl - Non-Metal'],[3.16],1,{'Cl': 4.0},FALSE
+Se6,['Se'],['Se - Non-Metal'],[2.55],1,{'Se': 6.0},FALSE
+SnF2,"['Sn', 'F']","['Sn - Metal', 'F - Non-Metal']","[1.96, 3.98]",2,"{'Sn': 1.0, 'F': 2.0}",FALSE
+Hf3Mn4S6,"['Hf', 'Mn', 'S']","['Hf - Metal', 'Mn - Metal', 'S - Non-Metal']","[1.3, 1.55, 2.58]",3,"{'Hf': 3.0, 'Mn': 4.0, 'S': 6.0}",TRUE
+Ru2Po3,"['Ru', 'Po']","['Ru - Metal', 'Po - Non-Metal']","[2.2, 2.0]",2,"{'Ru': 2.0, 'Po': 3.0}",TRUE
+EuCl2Ti2Ta6,"['Eu', 'Cl', 'Ti', 'Ta']","['Eu - Metal', 'Cl - Non-Metal', 'Ti - Metal', 'Ta - Metal']","[1.2, 3.16, 1.54, 1.5]",4,"{'Eu': 1.0, 'Cl': 2.0, 'Ti': 2.0, 'Ta': 6.0}",TRUE
+N3,['N'],['N - Non-Metal'],[3.04],1,{'N': 3.0},FALSE
+XeCd2C5Mn6,"['Xe', 'Cd', 'C', 'Mn']","['Xe - Non-Metal', 'Cd - Metal', 'C - Non-Metal', 'Mn - Metal']","[2.6, 1.69, 2.55, 1.55]",4,"{'Xe': 1.0, 'Cd': 2.0, 'C': 5.0, 'Mn': 6.0}",TRUE
+NbBaPt2Br3Fe4,"['Nb', 'Ba', 'Pt', 'Br', 'Fe']","['Nb - Metal', 'Ba - Metal', 'Pt - Metal', 'Br - Non-Metal', 'Fe - Metal']","[1.6, 0.89, 2.28, 2.96, 1.83]",5,"{'Nb': 1.0, 'Ba': 1.0, 'Pt': 2.0, 'Br': 3.0, 'Fe': 4.0}",TRUE
+NAt2Ta3Ge6,"['N', 'At', 'Ta', 'Ge']","['N - Non-Metal', 'At - Non-Metal', 'Ta - Metal', 'Ge - Non-Metal']","[3.04, 2.2, 1.5, 2.01]",4,"{'N': 1.0, 'At': 2.0, 'Ta': 3.0, 'Ge': 6.0}",FALSE
+XeSmTh2Si7,"['Xe', 'Sm', 'Th', 'Si']","['Xe - Non-Metal', 'Sm - Metal', 'Th - Metal', 'Si - Non-Metal']","[2.6, 1.17, 1.3, 1.9]",4,"{'Xe': 1.0, 'Sm': 1.0, 'Th': 2.0, 'Si': 7.0}",TRUE
+NiMoBr6,"['Ni', 'Mo', 'Br']","['Ni - Metal', 'Mo - Metal', 'Br - Non-Metal']","[1.91, 2.16, 2.96]",3,"{'Ni': 1.0, 'Mo': 1.0, 'Br': 6.0}",FALSE
+HFmF2Co2Cr7,"['H', 'Fm', 'F', 'Co', 'Cr']","['H - Unknown', 'Fm - Metal', 'F - Non-Metal', 'Co - Metal', 'Cr - Metal']","[2.2, 1.3, 3.98, 1.88, 1.66]",5,"{'H': 1.0, 'Fm': 1.0, 'F': 2.0, 'Co': 2.0, 'Cr': 7.0}",FALSE
+Sb8,['Sb'],['Sb - Non-Metal'],[2.05],1,{'Sb': 8.0},FALSE
+ClKPo2,"['Cl', 'K', 'Po']","['Cl - Non-Metal', 'K - Metal', 'Po - Non-Metal']","[3.16, 0.82, 2.0]",3,"{'Cl': 1.0, 'K': 1.0, 'Po': 2.0}",TRUE
+Br2,['Br'],['Br - Non-Metal'],[2.96],1,{'Br': 2.0},FALSE
+Xe2P3Tc6,"['Xe', 'P', 'Tc']","['Xe - Non-Metal', 'P - Non-Metal', 'Tc - Metal']","[2.6, 2.19, 1.9]",3,"{'Xe': 2.0, 'P': 3.0, 'Tc': 6.0}",FALSE
+Fe2S4Re5,"['Fe', 'S', 'Re']","['Fe - Metal', 'S - Non-Metal', 'Re - Metal']","[1.83, 2.58, 1.9]",3,"{'Fe': 2.0, 'S': 4.0, 'Re': 5.0}",FALSE
+GeXe2N3,"['Ge', 'Xe', 'N']","['Ge - Non-Metal', 'Xe - Non-Metal', 'N - Non-Metal']","[2.01, 2.6, 3.04]",3,"{'Ge': 1.0, 'Xe': 2.0, 'N': 3.0}",FALSE
+BiNpNi3Ta3Po3,"['Bi', 'Np', 'Ni', 'Ta', 'Po']","['Bi - Metal', 'Np - Metal', 'Ni - Metal', 'Ta - Metal', 'Po - Non-Metal']","[2.02, 1.36, 1.91, 1.5, 2.0]",5,"{'Bi': 1.0, 'Np': 1.0, 'Ni': 3.0, 'Ta': 3.0, 'Po': 3.0}",TRUE
+CoN2Xe3,"['Co', 'N', 'Xe']","['Co - Metal', 'N - Non-Metal', 'Xe - Non-Metal']","[1.88, 3.04, 2.6]",3,"{'Co': 1.0, 'N': 2.0, 'Xe': 3.0}",FALSE
+SiTl3,"['Si', 'Tl']","['Si - Non-Metal', 'Tl - Metal']","[1.9, 1.62]",2,"{'Si': 1.0, 'Tl': 3.0}",TRUE
+KrMoTi4Nb5,"['Kr', 'Mo', 'Ti', 'Nb']","['Kr - Non-Metal', 'Mo - Metal', 'Ti - Metal', 'Nb - Metal']","[3.0, 2.16, 1.54, 1.6]",4,"{'Kr': 1.0, 'Mo': 1.0, 'Ti': 4.0, 'Nb': 5.0}",TRUE
+Se2Ni4P5,"['Se', 'Ni', 'P']","['Se - Non-Metal', 'Ni - Metal', 'P - Non-Metal']","[2.55, 1.91, 2.19]",3,"{'Se': 2.0, 'Ni': 4.0, 'P': 5.0}",FALSE
+F,['F'],['F - Non-Metal'],[3.98],1,{'F': 1.0},FALSE
+InSe2Cr3Tc4,"['In', 'Se', 'Cr', 'Tc']","['In - Metal', 'Se - Non-Metal', 'Cr - Metal', 'Tc - Metal']","[1.78, 2.55, 1.66, 1.9]",4,"{'In': 1.0, 'Se': 2.0, 'Cr': 3.0, 'Tc': 4.0}",TRUE
+SRnTi2Se3Pd3,"['S', 'Rn', 'Ti', 'Se', 'Pd']","['S - Non-Metal', 'Rn - Non-Metal', 'Ti - Metal', 'Se - Non-Metal', 'Pd - Metal']","[2.58, 2.2, 1.54, 2.55, 2.2]",5,"{'S': 1.0, 'Rn': 1.0, 'Ti': 2.0, 'Se': 3.0, 'Pd': 3.0}",FALSE
+I3N4,"['I', 'N']","['I - Non-Metal', 'N - Non-Metal']","[2.66, 3.04]",2,"{'I': 3.0, 'N': 4.0}",FALSE
+YbCl3Tl4Be5,"['Yb', 'Cl', 'Tl', 'Be']","['Yb - Metal', 'Cl - Non-Metal', 'Tl - Metal', 'Be - Metal']","[1.1, 3.16, 1.62, 1.57]",4,"{'Yb': 1.0, 'Cl': 3.0, 'Tl': 4.0, 'Be': 5.0}",TRUE
+Cl2Te2Mn5,"['Cl', 'Te', 'Mn']","['Cl - Non-Metal', 'Te - Non-Metal', 'Mn - Metal']","[3.16, 2.1, 1.55]",3,"{'Cl': 2.0, 'Te': 2.0, 'Mn': 5.0}",FALSE
+TaZr2P3Re3,"['Ta', 'Zr', 'P', 'Re']","['Ta - Metal', 'Zr - Metal', 'P - Non-Metal', 'Re - Metal']","[1.5, 1.33, 2.19, 1.9]",4,"{'Ta': 1.0, 'Zr': 2.0, 'P': 3.0, 'Re': 3.0}",TRUE
+Sn2,['Sn'],['Sn - Metal'],[1.96],1,{'Sn': 2.0},TRUE
+GeKr2,"['Ge', 'Kr']","['Ge - Non-Metal', 'Kr - Non-Metal']","[2.01, 3.0]",2,"{'Ge': 1.0, 'Kr': 2.0}",FALSE
+N5,['N'],['N - Non-Metal'],[3.04],1,{'N': 5.0},FALSE
+Fe2V3Te5,"['Fe', 'V', 'Te']","['Fe - Metal', 'V - Metal', 'Te - Non-Metal']","[1.83, 1.63, 2.1]",3,"{'Fe': 2.0, 'V': 3.0, 'Te': 5.0}",TRUE
+MnOsZr2F3,"['Mn', 'Os', 'Zr', 'F']","['Mn - Metal', 'Os - Metal', 'Zr - Metal', 'F - Non-Metal']","[1.55, 2.2, 1.33, 3.98]",4,"{'Mn': 1.0, 'Os': 1.0, 'Zr': 2.0, 'F': 3.0}",FALSE
+LiRnTa3,"['Li', 'Rn', 'Ta']","['Li - Metal', 'Rn - Non-Metal', 'Ta - Metal']","[0.98, 2.2, 1.5]",3,"{'Li': 1.0, 'Rn': 1.0, 'Ta': 3.0}",TRUE
+At2P7,"['At', 'P']","['At - Non-Metal', 'P - Non-Metal']","[2.2, 2.19]",2,"{'At': 2.0, 'P': 7.0}",FALSE
+SbMg2Br2Re2Sr3,"['Sb', 'Mg', 'Br', 'Re', 'Sr']","['Sb - Non-Metal', 'Mg - Metal', 'Br - Non-Metal', 'Re - Metal', 'Sr - Metal']","[2.05, 1.31, 2.96, 1.9, 0.95]",5,"{'Sb': 1.0, 'Mg': 2.0, 'Br': 2.0, 'Re': 2.0, 'Sr': 3.0}",TRUE
+Sn6,['Sn'],['Sn - Metal'],[1.96],1,{'Sn': 6.0},TRUE
+MoCl4,"['Mo', 'Cl']","['Mo - Metal', 'Cl - Non-Metal']","[2.16, 3.16]",2,"{'Mo': 1.0, 'Cl': 4.0}",FALSE
+MoF2Te3At3,"['Mo', 'F', 'Te', 'At']","['Mo - Metal', 'F - Non-Metal', 'Te - Non-Metal', 'At - Non-Metal']","[2.16, 3.98, 2.1, 2.2]",4,"{'Mo': 1.0, 'F': 2.0, 'Te': 3.0, 'At': 3.0}",FALSE
+BrCl2N3Mo3,"['Br', 'Cl', 'N', 'Mo']","['Br - Non-Metal', 'Cl - Non-Metal', 'N - Non-Metal', 'Mo - Metal']","[2.96, 3.16, 3.04, 2.16]",4,"{'Br': 1.0, 'Cl': 2.0, 'N': 3.0, 'Mo': 3.0}",FALSE
+IS3,"['I', 'S']","['I - Non-Metal', 'S - Non-Metal']","[2.66, 2.58]",2,"{'I': 1.0, 'S': 3.0}",FALSE
+N4,['N'],['N - Non-Metal'],[3.04],1,{'N': 4.0},FALSE
+LrC3As3,"['Lr', 'C', 'As']","['Lr - Metal', 'C - Non-Metal', 'As - Non-Metal']","[1.3, 2.55, 2.18]",3,"{'Lr': 1.0, 'C': 3.0, 'As': 3.0}",TRUE
+AsC2Lu2,"['As', 'C', 'Lu']","['As - Non-Metal', 'C - Non-Metal', 'Lu - Metal']","[2.18, 2.55, 1.27]",3,"{'As': 1.0, 'C': 2.0, 'Lu': 2.0}",TRUE
+CmH2O4Tc4,"['Cm', 'H', 'O', 'Tc']","['Cm - Metal', 'H - Unknown', 'O - Non-Metal', 'Tc - Metal']","[1.3, 2.2, 3.44, 1.9]",4,"{'Cm': 1.0, 'H': 2.0, 'O': 4.0, 'Tc': 4.0}",FALSE
+Sb4,['Sb'],['Sb - Non-Metal'],[2.05],1,{'Sb': 4.0},FALSE
+RuSe2Pd2Ra2,"['Ru', 'Se', 'Pd', 'Ra']","['Ru - Metal', 'Se - Non-Metal', 'Pd - Metal', 'Ra - Metal']","[2.2, 2.55, 2.2, 0.9]",4,"{'Ru': 1.0, 'Se': 2.0, 'Pd': 2.0, 'Ra': 2.0}",TRUE
+Ru2O3W3,"['Ru', 'O', 'W']","['Ru - Metal', 'O - Non-Metal', 'W - Metal']","[2.2, 3.44, 2.36]",3,"{'Ru': 2.0, 'O': 3.0, 'W': 3.0}",FALSE
+SnO4,"['Sn', 'O']","['Sn - Metal', 'O - Non-Metal']","[1.96, 3.44]",2,"{'Sn': 1.0, 'O': 4.0}",FALSE
+NiPoGa2Pd3Ir5,"['Ni', 'Po', 'Ga', 'Pd', 'Ir']","['Ni - Metal', 'Po - Non-Metal', 'Ga - Metal', 'Pd - Metal', 'Ir - Metal']","[1.91, 2.0, 1.81, 2.2, 2.2]",5,"{'Ni': 1.0, 'Po': 1.0, 'Ga': 2.0, 'Pd': 3.0, 'Ir': 5.0}",TRUE
+ClS2Fe3,"['Cl', 'S', 'Fe']","['Cl - Non-Metal', 'S - Non-Metal', 'Fe - Metal']","[3.16, 2.58, 1.83]",3,"{'Cl': 1.0, 'S': 2.0, 'Fe': 3.0}",FALSE
+NbCd2P3,"['Nb', 'Cd', 'P']","['Nb - Metal', 'Cd - Metal', 'P - Non-Metal']","[1.6, 1.69, 2.19]",3,"{'Nb': 1.0, 'Cd': 2.0, 'P': 3.0}",TRUE
+OYbH5,"['O', 'Yb', 'H']","['O - Non-Metal', 'Yb - Metal', 'H - Unknown']","[3.44, 1.1, 2.2]",3,"{'O': 1.0, 'Yb': 1.0, 'H': 5.0}",FALSE
+TeI5,"['Te', 'I']","['Te - Non-Metal', 'I - Non-Metal']","[2.1, 2.66]",2,"{'Te': 1.0, 'I': 5.0}",FALSE
+NaSmBr4,"['Na', 'Sm', 'Br']","['Na - Metal', 'Sm - Metal', 'Br - Non-Metal']","[0.93, 1.17, 2.96]",3,"{'Na': 1.0, 'Sm': 1.0, 'Br': 4.0}",TRUE
+PmCl2Co4,"['Pm', 'Cl', 'Co']","['Pm - Metal', 'Cl - Non-Metal', 'Co - Metal']","[1.13, 3.16, 1.88]",3,"{'Pm': 1.0, 'Cl': 2.0, 'Co': 4.0}",TRUE
+AlBrHfN2,"['Al', 'Br', 'Hf', 'N']","['Al - Metal', 'Br - Non-Metal', 'Hf - Metal', 'N - Non-Metal']","[1.61, 2.96, 1.3, 3.04]",4,"{'Al': 1.0, 'Br': 1.0, 'Hf': 1.0, 'N': 2.0}",FALSE
+MnEsAt3,"['Mn', 'Es', 'At']","['Mn - Metal', 'Es - Metal', 'At - Non-Metal']","[1.55, 1.3, 2.2]",3,"{'Mn': 1.0, 'Es': 1.0, 'At': 3.0}",TRUE
+FeRn4Mo5,"['Fe', 'Rn', 'Mo']","['Fe - Metal', 'Rn - Non-Metal', 'Mo - Metal']","[1.83, 2.2, 2.16]",3,"{'Fe': 1.0, 'Rn': 4.0, 'Mo': 5.0}",TRUE
+AsO3,"['As', 'O']","['As - Non-Metal', 'O - Non-Metal']","[2.18, 3.44]",2,"{'As': 1.0, 'O': 3.0}",FALSE
+P2Cu3,"['P', 'Cu']","['P - Non-Metal', 'Cu - Metal']","[2.19, 1.9]",2,"{'P': 2.0, 'Cu': 3.0}",TRUE
+TeMn2I3,"['Te', 'Mn', 'I']","['Te - Non-Metal', 'Mn - Metal', 'I - Non-Metal']","[2.1, 1.55, 2.66]",3,"{'Te': 1.0, 'Mn': 2.0, 'I': 3.0}",FALSE
+AsTl3,"['As', 'Tl']","['As - Non-Metal', 'Tl - Metal']","[2.18, 1.62]",2,"{'As': 1.0, 'Tl': 3.0}",TRUE
+U2Tc3Se6,"['U', 'Tc', 'Se']","['U - Metal', 'Tc - Metal', 'Se - Non-Metal']","[1.38, 1.9, 2.55]",3,"{'U': 2.0, 'Tc': 3.0, 'Se': 6.0}",TRUE
+AmPo2,"['Am', 'Po']","['Am - Metal', 'Po - Non-Metal']","[1.3, 2.0]",2,"{'Am': 1.0, 'Po': 2.0}",TRUE
+BrH3Tc4,"['Br', 'H', 'Tc']","['Br - Non-Metal', 'H - Unknown', 'Tc - Metal']","[2.96, 2.2, 1.9]",3,"{'Br': 1.0, 'H': 3.0, 'Tc': 4.0}",FALSE
+SeNi3Ge7,"['Se', 'Ni', 'Ge']","['Se - Non-Metal', 'Ni - Metal', 'Ge - Non-Metal']","[2.55, 1.91, 2.01]",3,"{'Se': 1.0, 'Ni': 3.0, 'Ge': 7.0}",FALSE
+NbCu2Po2Mn3,"['Nb', 'Cu', 'Po', 'Mn']","['Nb - Metal', 'Cu - Metal', 'Po - Non-Metal', 'Mn - Metal']","[1.6, 1.9, 2.0, 1.55]",4,"{'Nb': 1.0, 'Cu': 2.0, 'Po': 2.0, 'Mn': 3.0}",TRUE
+KrPdP6,"['Kr', 'Pd', 'P']","['Kr - Non-Metal', 'Pd - Metal', 'P - Non-Metal']","[3.0, 2.2, 2.19]",3,"{'Kr': 1.0, 'Pd': 1.0, 'P': 6.0}",FALSE
+Ru2Si3,"['Ru', 'Si']","['Ru - Metal', 'Si - Non-Metal']","[2.2, 1.9]",2,"{'Ru': 2.0, 'Si': 3.0}",TRUE
+FeErBk2Se4,"['Fe', 'Er', 'Bk', 'Se']","['Fe - Metal', 'Er - Metal', 'Bk - Metal', 'Se - Non-Metal']","[1.83, 1.24, 1.3, 2.55]",4,"{'Fe': 1.0, 'Er': 1.0, 'Bk': 2.0, 'Se': 4.0}",TRUE
+As2Pb3,"['As', 'Pb']","['As - Non-Metal', 'Pb - Metal']","[2.18, 2.33]",2,"{'As': 2.0, 'Pb': 3.0}",FALSE
+GeP3,"['Ge', 'P']","['Ge - Non-Metal', 'P - Non-Metal']","[2.01, 2.19]",2,"{'Ge': 1.0, 'P': 3.0}",TRUE
+V2Zn3Te5,"['V', 'Zn', 'Te']","['V - Metal', 'Zn - Metal', 'Te - Non-Metal']","[1.63, 1.65, 2.1]",3,"{'V': 2.0, 'Zn': 3.0, 'Te': 5.0}",TRUE
+AsLu3Pt3At3,"['As', 'Lu', 'Pt', 'At']","['As - Non-Metal', 'Lu - Metal', 'Pt - Metal', 'At - Non-Metal']","[2.18, 1.27, 2.28, 2.2]",4,"{'As': 1.0, 'Lu': 3.0, 'Pt': 3.0, 'At': 3.0}",TRUE
+BePuF2Pd3Sn4,"['Be', 'Pu', 'F', 'Pd', 'Sn']","['Be - Metal', 'Pu - Metal', 'F - Non-Metal', 'Pd - Metal', 'Sn - Metal']","[1.57, 1.28, 3.98, 2.2, 1.96]",5,"{'Be': 1.0, 'Pu': 1.0, 'F': 2.0, 'Pd': 3.0, 'Sn': 4.0}",FALSE
+Rh2Br3Os8,"['Rh', 'Br', 'Os']","['Rh - Metal', 'Br - Non-Metal', 'Os - Metal']","[2.28, 2.96, 2.2]",3,"{'Rh': 2.0, 'Br': 3.0, 'Os': 8.0}",FALSE
+WS2,"['W', 'S']","['W - Metal', 'S - Non-Metal']","[2.36, 2.58]",2,"{'W': 1.0, 'S': 2.0}",FALSE
+ClAtFmW2Mn8,"['Cl', 'At', 'Fm', 'W', 'Mn']","['Cl - Non-Metal', 'At - Non-Metal', 'Fm - Metal', 'W - Metal', 'Mn - Metal']","[3.16, 2.2, 1.3, 2.36, 1.55]",5,"{'Cl': 1.0, 'At': 1.0, 'Fm': 1.0, 'W': 2.0, 'Mn': 8.0}",FALSE
+ITl3Po5,"['I', 'Tl', 'Po']","['I - Non-Metal', 'Tl - Metal', 'Po - Non-Metal']","[2.66, 1.62, 2.0]",3,"{'I': 1.0, 'Tl': 3.0, 'Po': 5.0}",TRUE
+ThAt4,"['Th', 'At']","['Th - Metal', 'At - Non-Metal']","[1.3, 2.2]",2,"{'Th': 1.0, 'At': 4.0}",TRUE
+CHfB2Po3Be6,"['C', 'Hf', 'B', 'Po', 'Be']","['C - Non-Metal', 'Hf - Metal', 'B - Non-Metal', 'Po - Non-Metal', 'Be - Metal']","[2.55, 1.3, 2.04, 2.0, 1.57]",5,"{'C': 1.0, 'Hf': 1.0, 'B': 2.0, 'Po': 3.0, 'Be': 6.0}",TRUE
+GdSe2Ti4Po4,"['Gd', 'Se', 'Ti', 'Po']","['Gd - Metal', 'Se - Non-Metal', 'Ti - Metal', 'Po - Non-Metal']","[1.2, 2.55, 1.54, 2.0]",4,"{'Gd': 1.0, 'Se': 2.0, 'Ti': 4.0, 'Po': 4.0}",TRUE
+AlNb4S6,"['Al', 'Nb', 'S']","['Al - Metal', 'Nb - Metal', 'S - Non-Metal']","[1.61, 1.6, 2.58]",3,"{'Al': 1.0, 'Nb': 4.0, 'S': 6.0}",TRUE
+ErAs2Cu3,"['Er', 'As', 'Cu']","['Er - Metal', 'As - Non-Metal', 'Cu - Metal']","[1.24, 2.18, 1.9]",3,"{'Er': 1.0, 'As': 2.0, 'Cu': 3.0}",TRUE
+SmWBr4Ir4,"['Sm', 'W', 'Br', 'Ir']","['Sm - Metal', 'W - Metal', 'Br - Non-Metal', 'Ir - Metal']","[1.17, 2.36, 2.96, 2.2]",4,"{'Sm': 1.0, 'W': 1.0, 'Br': 4.0, 'Ir': 4.0}",FALSE
+N2Os2As5,"['N', 'Os', 'As']","['N - Non-Metal', 'Os - Metal', 'As - Non-Metal']","[3.04, 2.2, 2.18]",3,"{'N': 2.0, 'Os': 2.0, 'As': 5.0}",FALSE
+TmCl3,"['Tm', 'Cl']","['Tm - Metal', 'Cl - Non-Metal']","[1.25, 3.16]",2,"{'Tm': 1.0, 'Cl': 3.0}",FALSE
+RuI,"['Ru', 'I']","['Ru - Metal', 'I - Non-Metal']","[2.2, 2.66]",2,"{'Ru': 1.0, 'I': 1.0}",FALSE
+XeW3As5,"['Xe', 'W', 'As']","['Xe - Non-Metal', 'W - Metal', 'As - Non-Metal']","[2.6, 2.36, 2.18]",3,"{'Xe': 1.0, 'W': 3.0, 'As': 5.0}",FALSE
+BrSr3Co5,"['Br', 'Sr', 'Co']","['Br - Non-Metal', 'Sr - Metal', 'Co - Metal']","[2.96, 0.95, 1.88]",3,"{'Br': 1.0, 'Sr': 3.0, 'Co': 5.0}",TRUE
+CRu,"['C', 'Ru']","['C - Non-Metal', 'Ru - Metal']","[2.55, 2.2]",2,"{'C': 1.0, 'Ru': 1.0}",FALSE
+WLrSe3Tc7,"['W', 'Lr', 'Se', 'Tc']","['W - Metal', 'Lr - Metal', 'Se - Non-Metal', 'Tc - Metal']","[2.36, 1.3, 2.55, 1.9]",4,"{'W': 1.0, 'Lr': 1.0, 'Se': 3.0, 'Tc': 7.0}",TRUE
+At2C3,"['At', 'C']","['At - Non-Metal', 'C - Non-Metal']","[2.2, 2.55]",2,"{'At': 2.0, 'C': 3.0}",FALSE
+HfSe3Tc4V5,"['Hf', 'Se', 'Tc', 'V']","['Hf - Metal', 'Se - Non-Metal', 'Tc - Metal', 'V - Metal']","[1.3, 2.55, 1.9, 1.63]",4,"{'Hf': 1.0, 'Se': 3.0, 'Tc': 4.0, 'V': 5.0}",TRUE
+In2S3Cr4,"['In', 'S', 'Cr']","['In - Metal', 'S - Non-Metal', 'Cr - Metal']","[1.78, 2.58, 1.66]",3,"{'In': 2.0, 'S': 3.0, 'Cr': 4.0}",TRUE
+CmF4,"['Cm', 'F']","['Cm - Metal', 'F - Non-Metal']","[1.3, 3.98]",2,"{'Cm': 1.0, 'F': 4.0}",FALSE
+KrPo5Fe6,"['Kr', 'Po', 'Fe']","['Kr - Non-Metal', 'Po - Non-Metal', 'Fe - Metal']","[3.0, 2.0, 1.83]",3,"{'Kr': 1.0, 'Po': 5.0, 'Fe': 6.0}",FALSE
+KrBr2Fe6,"['Kr', 'Br', 'Fe']","['Kr - Non-Metal', 'Br - Non-Metal', 'Fe - Metal']","[3.0, 2.96, 1.83]",3,"{'Kr': 1.0, 'Br': 2.0, 'Fe': 6.0}",FALSE
+V3Tl3Bi4,"['V', 'Tl', 'Bi']","['V - Metal', 'Tl - Metal', 'Bi - Metal']","[1.63, 1.62, 2.02]",3,"{'V': 3.0, 'Tl': 3.0, 'Bi': 4.0}",TRUE
+PoSc4As4Br4,"['Po', 'Sc', 'As', 'Br']","['Po - Non-Metal', 'Sc - Metal', 'As - Non-Metal', 'Br - Non-Metal']","[2.0, 1.36, 2.18, 2.96]",4,"{'Po': 1.0, 'Sc': 4.0, 'As': 4.0, 'Br': 4.0}",FALSE
+CrPo3Ta5,"['Cr', 'Po', 'Ta']","['Cr - Metal', 'Po - Non-Metal', 'Ta - Metal']","[1.66, 2.0, 1.5]",3,"{'Cr': 1.0, 'Po': 3.0, 'Ta': 5.0}",TRUE
+AlSbNi6,"['Al', 'Sb', 'Ni']","['Al - Metal', 'Sb - Non-Metal', 'Ni - Metal']","[1.61, 2.05, 1.91]",3,"{'Al': 1.0, 'Sb': 1.0, 'Ni': 6.0}",TRUE
+Br2Mn3N4Mo4,"['Br', 'Mn', 'N', 'Mo']","['Br - Non-Metal', 'Mn - Metal', 'N - Non-Metal', 'Mo - Metal']","[2.96, 1.55, 3.04, 2.16]",4,"{'Br': 2.0, 'Mn': 3.0, 'N': 4.0, 'Mo': 4.0}",FALSE
+CTl3,"['C', 'Tl']","['C - Non-Metal', 'Tl - Metal']","[2.55, 1.62]",2,"{'C': 1.0, 'Tl': 3.0}",TRUE
+ZnRhGe2,"['Zn', 'Rh', 'Ge']","['Zn - Metal', 'Rh - Metal', 'Ge - Non-Metal']","[1.65, 2.28, 2.01]",3,"{'Zn': 1.0, 'Rh': 1.0, 'Ge': 2.0}",TRUE
+GaAsPt2Si5,"['Ga', 'As', 'Pt', 'Si']","['Ga - Metal', 'As - Non-Metal', 'Pt - Metal', 'Si - Non-Metal']","[1.81, 2.18, 2.28, 1.9]",4,"{'Ga': 1.0, 'As': 1.0, 'Pt': 2.0, 'Si': 5.0}",TRUE
+Tm2S3W6,"['Tm', 'S', 'W']","['Tm - Metal', 'S - Non-Metal', 'W - Metal']","[1.25, 2.58, 2.36]",3,"{'Tm': 2.0, 'S': 3.0, 'W': 6.0}",TRUE
+Ni2At3Mg5,"['Ni', 'At', 'Mg']","['Ni - Metal', 'At - Non-Metal', 'Mg - Metal']","[1.91, 2.2, 1.31]",3,"{'Ni': 2.0, 'At': 3.0, 'Mg': 5.0}",TRUE
+W2Sn3,"['W', 'Sn']","['W - Metal', 'Sn - Metal']","[2.36, 1.96]",2,"{'W': 2.0, 'Sn': 3.0}",FALSE
+YbTc2Ir3Po6,"['Yb', 'Tc', 'Ir', 'Po']","['Yb - Metal', 'Tc - Metal', 'Ir - Metal', 'Po - Non-Metal']","[1.1, 1.9, 2.2, 2.0]",4,"{'Yb': 1.0, 'Tc': 2.0, 'Ir': 3.0, 'Po': 6.0}",TRUE
+ClH5,"['Cl', 'H']","['Cl - Non-Metal', 'H - Unknown']","[3.16, 2.2]",2,"{'Cl': 1.0, 'H': 5.0}",FALSE
+GeMo,"['Ge', 'Mo']","['Ge - Non-Metal', 'Mo - Metal']","[2.01, 2.16]",2,"{'Ge': 1.0, 'Mo': 1.0}",TRUE
+SeRe,"['Se', 'Re']","['Se - Non-Metal', 'Re - Metal']","[2.55, 1.9]",2,"{'Se': 1.0, 'Re': 1.0}",FALSE
+DyAcBr2Po2,"['Dy', 'Ac', 'Br', 'Po']","['Dy - Metal', 'Ac - Metal', 'Br - Non-Metal', 'Po - Non-Metal']","[1.22, 1.1, 2.96, 2.0]",4,"{'Dy': 1.0, 'Ac': 1.0, 'Br': 2.0, 'Po': 2.0}",TRUE
+CoKr4Ru5,"['Co', 'Kr', 'Ru']","['Co - Metal', 'Kr - Non-Metal', 'Ru - Metal']","[1.88, 3.0, 2.2]",3,"{'Co': 1.0, 'Kr': 4.0, 'Ru': 5.0}",FALSE
+Xe2Ba2Sn3,"['Xe', 'Ba', 'Sn']","['Xe - Non-Metal', 'Ba - Metal', 'Sn - Metal']","[2.6, 0.89, 1.96]",3,"{'Xe': 2.0, 'Ba': 2.0, 'Sn': 3.0}",TRUE
+YRnTe2Br3Sc4,"['Y', 'Rn', 'Te', 'Br', 'Sc']","['Y - Metal', 'Rn - Non-Metal', 'Te - Non-Metal', 'Br - Non-Metal', 'Sc - Metal']","[1.22, 2.2, 2.1, 2.96, 1.36]",5,"{'Y': 1.0, 'Rn': 1.0, 'Te': 2.0, 'Br': 3.0, 'Sc': 4.0}",TRUE
+SNi6,"['S', 'Ni']","['S - Non-Metal', 'Ni - Metal']","[2.58, 1.91]",2,"{'S': 1.0, 'Ni': 6.0}",FALSE
+F2,['F'],['F - Non-Metal'],[3.98],1,{'F': 2.0},FALSE
+PbF2,"['Pb', 'F']","['Pb - Metal', 'F - Non-Metal']","[2.33, 3.98]",2,"{'Pb': 1.0, 'F': 2.0}",FALSE
+RuF2Mn2C5,"['Ru', 'F', 'Mn', 'C']","['Ru - Metal', 'F - Non-Metal', 'Mn - Metal', 'C - Non-Metal']","[2.2, 3.98, 1.55, 2.55]",4,"{'Ru': 1.0, 'F': 2.0, 'Mn': 2.0, 'C': 5.0}",FALSE
+RaPt2At2,"['Ra', 'Pt', 'At']","['Ra - Metal', 'Pt - Metal', 'At - Non-Metal']","[0.9, 2.28, 2.2]",3,"{'Ra': 1.0, 'Pt': 2.0, 'At': 2.0}",TRUE
+PXe,"['P', 'Xe']","['P - Non-Metal', 'Xe - Non-Metal']","[2.19, 2.6]",2,"{'P': 1.0, 'Xe': 1.0}",FALSE
+S2P3Er4,"['S', 'P', 'Er']","['S - Non-Metal', 'P - Non-Metal', 'Er - Metal']","[2.58, 2.19, 1.24]",3,"{'S': 2.0, 'P': 3.0, 'Er': 4.0}",TRUE
+MnSnHgS2,"['Mn', 'Sn', 'Hg', 'S']","['Mn - Metal', 'Sn - Metal', 'Hg - Metal', 'S - Non-Metal']","[1.55, 1.96, 2.0, 2.58]",4,"{'Mn': 1.0, 'Sn': 1.0, 'Hg': 1.0, 'S': 2.0}",TRUE
+SeHfGe5,"['Se', 'Hf', 'Ge']","['Se - Non-Metal', 'Hf - Metal', 'Ge - Non-Metal']","[2.55, 1.3, 2.01]",3,"{'Se': 1.0, 'Hf': 1.0, 'Ge': 5.0}",TRUE
+Ge2Tc3Br4Ca5,"['Ge', 'Tc', 'Br', 'Ca']","['Ge - Non-Metal', 'Tc - Metal', 'Br - Non-Metal', 'Ca - Metal']","[2.01, 1.9, 2.96, 1.0]",4,"{'Ge': 2.0, 'Tc': 3.0, 'Br': 4.0, 'Ca': 5.0}",TRUE
+TiBrMn4Cd7,"['Ti', 'Br', 'Mn', 'Cd']","['Ti - Metal', 'Br - Non-Metal', 'Mn - Metal', 'Cd - Metal']","[1.54, 2.96, 1.55, 1.69]",4,"{'Ti': 1.0, 'Br': 1.0, 'Mn': 4.0, 'Cd': 7.0}",TRUE
+ClV4Ge4Zr5,"['Cl', 'V', 'Ge', 'Zr']","['Cl - Non-Metal', 'V - Metal', 'Ge - Non-Metal', 'Zr - Metal']","[3.16, 1.63, 2.01, 1.33]",4,"{'Cl': 1.0, 'V': 4.0, 'Ge': 4.0, 'Zr': 5.0}",TRUE
+OP2,"['O', 'P']","['O - Non-Metal', 'P - Non-Metal']","[3.44, 2.19]",2,"{'O': 1.0, 'P': 2.0}",FALSE
+Sm2Ge3,"['Sm', 'Ge']","['Sm - Metal', 'Ge - Non-Metal']","[1.17, 2.01]",2,"{'Sm': 2.0, 'Ge': 3.0}",TRUE
+Bi2As3,"['Bi', 'As']","['Bi - Metal', 'As - Non-Metal']","[2.02, 2.18]",2,"{'Bi': 2.0, 'As': 3.0}",TRUE
+ClIAs2Pt3,"['Cl', 'I', 'As', 'Pt']","['Cl - Non-Metal', 'I - Non-Metal', 'As - Non-Metal', 'Pt - Metal']","[3.16, 2.66, 2.18, 2.28]",4,"{'Cl': 1.0, 'I': 1.0, 'As': 2.0, 'Pt': 3.0}",FALSE
+PaI4Ta6,"['Pa', 'I', 'Ta']","['Pa - Metal', 'I - Non-Metal', 'Ta - Metal']","[1.5, 2.66, 1.5]",3,"{'Pa': 1.0, 'I': 4.0, 'Ta': 6.0}",TRUE
+MnSe3,"['Mn', 'Se']","['Mn - Metal', 'Se - Non-Metal']","[1.55, 2.55]",2,"{'Mn': 1.0, 'Se': 3.0}",TRUE
+AsCl5Ti6,"['As', 'Cl', 'Ti']","['As - Non-Metal', 'Cl - Non-Metal', 'Ti - Metal']","[2.18, 3.16, 1.54]",3,"{'As': 1.0, 'Cl': 5.0, 'Ti': 6.0}",FALSE
+Re2Cl3,"['Re', 'Cl']","['Re - Metal', 'Cl - Non-Metal']","[1.9, 3.16]",2,"{'Re': 2.0, 'Cl': 3.0}",FALSE
+RhTeMo8,"['Rh', 'Te', 'Mo']","['Rh - Metal', 'Te - Non-Metal', 'Mo - Metal']","[2.28, 2.1, 2.16]",3,"{'Rh': 1.0, 'Te': 1.0, 'Mo': 8.0}",FALSE
+FeBr2Gd2Te3,"['Fe', 'Br', 'Gd', 'Te']","['Fe - Metal', 'Br - Non-Metal', 'Gd - Metal', 'Te - Non-Metal']","[1.83, 2.96, 1.2, 2.1]",4,"{'Fe': 1.0, 'Br': 2.0, 'Gd': 2.0, 'Te': 3.0}",TRUE
+VS3,"['V', 'S']","['V - Metal', 'S - Non-Metal']","[1.63, 2.58]",2,"{'V': 1.0, 'S': 3.0}",FALSE
+GaGe,"['Ga', 'Ge']","['Ga - Metal', 'Ge - Non-Metal']","[1.81, 2.01]",2,"{'Ga': 1.0, 'Ge': 1.0}",TRUE
+ClRe7,"['Cl', 'Re']","['Cl - Non-Metal', 'Re - Metal']","[3.16, 1.9]",2,"{'Cl': 1.0, 'Re': 7.0}",FALSE
+ClNb2Te3,"['Cl', 'Nb', 'Te']","['Cl - Non-Metal', 'Nb - Metal', 'Te - Non-Metal']","[3.16, 1.6, 2.1]",3,"{'Cl': 1.0, 'Nb': 2.0, 'Te': 3.0}",FALSE
+MoErY3Te4,"['Mo', 'Er', 'Y', 'Te']","['Mo - Metal', 'Er - Metal', 'Y - Metal', 'Te - Non-Metal']","[2.16, 1.24, 1.22, 2.1]",4,"{'Mo': 1.0, 'Er': 1.0, 'Y': 3.0, 'Te': 4.0}",TRUE
+WAmSe2,"['W', 'Am', 'Se']","['W - Metal', 'Am - Metal', 'Se - Non-Metal']","[2.36, 1.3, 2.55]",3,"{'W': 1.0, 'Am': 1.0, 'Se': 2.0}",TRUE
+TaMo2O3Tb4,"['Ta', 'Mo', 'O', 'Tb']","['Ta - Metal', 'Mo - Metal', 'O - Non-Metal', 'Tb - Metal']","[1.5, 2.16, 3.44, 1.1]",4,"{'Ta': 1.0, 'Mo': 2.0, 'O': 3.0, 'Tb': 4.0}",TRUE
+ZnZrCmMg3Te5,"['Zn', 'Zr', 'Cm', 'Mg', 'Te']","['Zn - Metal', 'Zr - Metal', 'Cm - Metal', 'Mg - Metal', 'Te - Non-Metal']","[1.65, 1.33, 1.3, 1.31, 2.1]",5,"{'Zn': 1.0, 'Zr': 1.0, 'Cm': 1.0, 'Mg': 3.0, 'Te': 5.0}",TRUE
+F4,['F'],['F - Non-Metal'],[3.98],1,{'F': 4.0},FALSE
+NpBr4,"['Np', 'Br']","['Np - Metal', 'Br - Non-Metal']","[1.36, 2.96]",2,"{'Np': 1.0, 'Br': 4.0}",FALSE
+GeAs3,"['Ge', 'As']","['Ge - Non-Metal', 'As - Non-Metal']","[2.01, 2.18]",2,"{'Ge': 1.0, 'As': 3.0}",TRUE
+GeAg2,"['Ge', 'Ag']","['Ge - Non-Metal', 'Ag - Metal']","[2.01, 1.93]",2,"{'Ge': 1.0, 'Ag': 2.0}",TRUE
+Y2Te3Ru6,"['Y', 'Te', 'Ru']","['Y - Metal', 'Te - Non-Metal', 'Ru - Metal']","[1.22, 2.1, 2.2]",3,"{'Y': 2.0, 'Te': 3.0, 'Ru': 6.0}",TRUE
+HfSn4P5,"['Hf', 'Sn', 'P']","['Hf - Metal', 'Sn - Metal', 'P - Non-Metal']","[1.3, 1.96, 2.19]",3,"{'Hf': 1.0, 'Sn': 4.0, 'P': 5.0}",TRUE
+V2Ag2Pb3,"['V', 'Ag', 'Pb']","['V - Metal', 'Ag - Metal', 'Pb - Metal']","[1.63, 1.93, 2.33]",3,"{'V': 2.0, 'Ag': 2.0, 'Pb': 3.0}",TRUE
+Ta2Rn3Cr4,"['Ta', 'Rn', 'Cr']","['Ta - Metal', 'Rn - Non-Metal', 'Cr - Metal']","[1.5, 2.2, 1.66]",3,"{'Ta': 2.0, 'Rn': 3.0, 'Cr': 4.0}",TRUE
+CuV3S7,"['Cu', 'V', 'S']","['Cu - Metal', 'V - Metal', 'S - Non-Metal']","[1.9, 1.63, 2.58]",3,"{'Cu': 1.0, 'V': 3.0, 'S': 7.0}",TRUE
+CdAt4Mo7,"['Cd', 'At', 'Mo']","['Cd - Metal', 'At - Non-Metal', 'Mo - Metal']","[1.69, 2.2, 2.16]",3,"{'Cd': 1.0, 'At': 4.0, 'Mo': 7.0}",TRUE
+Am2Ge3I4,"['Am', 'Ge', 'I']","['Am - Metal', 'Ge - Non-Metal', 'I - Non-Metal']","[1.3, 2.01, 2.66]",3,"{'Am': 2.0, 'Ge': 3.0, 'I': 4.0}",TRUE
+Ge2Ga3,"['Ge', 'Ga']","['Ge - Non-Metal', 'Ga - Metal']","[2.01, 1.81]",2,"{'Ge': 2.0, 'Ga': 3.0}",TRUE
+TaNi2Se2Ti7,"['Ta', 'Ni', 'Se', 'Ti']","['Ta - Metal', 'Ni - Metal', 'Se - Non-Metal', 'Ti - Metal']","[1.5, 1.91, 2.55, 1.54]",4,"{'Ta': 1.0, 'Ni': 2.0, 'Se': 2.0, 'Ti': 7.0}",TRUE
+S2Cl2Tc3,"['S', 'Cl', 'Tc']","['S - Non-Metal', 'Cl - Non-Metal', 'Tc - Metal']","[2.58, 3.16, 1.9]",3,"{'S': 2.0, 'Cl': 2.0, 'Tc': 3.0}",FALSE
+Br3As5,"['Br', 'As']","['Br - Non-Metal', 'As - Non-Metal']","[2.96, 2.18]",2,"{'Br': 3.0, 'As': 5.0}",FALSE
+RhO3,"['Rh', 'O']","['Rh - Metal', 'O - Non-Metal']","[2.28, 3.44]",2,"{'Rh': 1.0, 'O': 3.0}",FALSE
+In2Ti3Po5,"['In', 'Ti', 'Po']","['In - Metal', 'Ti - Metal', 'Po - Non-Metal']","[1.78, 1.54, 2.0]",3,"{'In': 2.0, 'Ti': 3.0, 'Po': 5.0}",TRUE
+OTl2,"['O', 'Tl']","['O - Non-Metal', 'Tl - Metal']","[3.44, 1.62]",2,"{'O': 1.0, 'Tl': 2.0}",FALSE
+AmEr2O3,"['Am', 'Er', 'O']","['Am - Metal', 'Er - Metal', 'O - Non-Metal']","[1.3, 1.24, 3.44]",3,"{'Am': 1.0, 'Er': 2.0, 'O': 3.0}",TRUE
+RuTe2,"['Ru', 'Te']","['Ru - Metal', 'Te - Non-Metal']","[2.2, 2.1]",2,"{'Ru': 1.0, 'Te': 2.0}",FALSE
+I3Tc5,"['I', 'Tc']","['I - Non-Metal', 'Tc - Metal']","[2.66, 1.9]",2,"{'I': 3.0, 'Tc': 5.0}",FALSE
+PmSb2At2W6,"['Pm', 'Sb', 'At', 'W']","['Pm - Metal', 'Sb - Non-Metal', 'At - Non-Metal', 'W - Metal']","[1.13, 2.05, 2.2, 2.36]",4,"{'Pm': 1.0, 'Sb': 2.0, 'At': 2.0, 'W': 6.0}",TRUE
+FCf2Tc3,"['F', 'Cf', 'Tc']","['F - Non-Metal', 'Cf - Metal', 'Tc - Metal']","[3.98, 1.3, 1.9]",3,"{'F': 1.0, 'Cf': 2.0, 'Tc': 3.0}",FALSE
+HgAmO4,"['Hg', 'Am', 'O']","['Hg - Metal', 'Am - Metal', 'O - Non-Metal']","[2.0, 1.3, 3.44]",3,"{'Hg': 1.0, 'Am': 1.0, 'O': 4.0}",FALSE
+UI2,"['U', 'I']","['U - Metal', 'I - Non-Metal']","[1.38, 2.66]",2,"{'U': 1.0, 'I': 2.0}",TRUE
+AsGe2,"['As', 'Ge']","['As - Non-Metal', 'Ge - Non-Metal']","[2.18, 2.01]",2,"{'As': 1.0, 'Ge': 2.0}",TRUE
+Tm2Sn3O5,"['Tm', 'Sn', 'O']","['Tm - Metal', 'Sn - Metal', 'O - Non-Metal']","[1.25, 1.96, 3.44]",3,"{'Tm': 2.0, 'Sn': 3.0, 'O': 5.0}",FALSE
+ClTc5Be7,"['Cl', 'Tc', 'Be']","['Cl - Non-Metal', 'Tc - Metal', 'Be - Metal']","[3.16, 1.9, 1.57]",3,"{'Cl': 1.0, 'Tc': 5.0, 'Be': 7.0}",FALSE
+MnPo2,"['Mn', 'Po']","['Mn - Metal', 'Po - Non-Metal']","[1.55, 2.0]",2,"{'Mn': 1.0, 'Po': 2.0}",TRUE
+HgS2Mn5Pb5,"['Hg', 'S', 'Mn', 'Pb']","['Hg - Metal', 'S - Non-Metal', 'Mn - Metal', 'Pb - Metal']","[2.0, 2.58, 1.55, 2.33]",4,"{'Hg': 1.0, 'S': 2.0, 'Mn': 5.0, 'Pb': 5.0}",FALSE
+MgNbBi3Tl6,"['Mg', 'Nb', 'Bi', 'Tl']","['Mg - Metal', 'Nb - Metal', 'Bi - Metal', 'Tl - Metal']","[1.31, 1.6, 2.02, 1.62]",4,"{'Mg': 1.0, 'Nb': 1.0, 'Bi': 3.0, 'Tl': 6.0}",TRUE
+RuSe3,"['Ru', 'Se']","['Ru - Metal', 'Se - Non-Metal']","[2.2, 2.55]",2,"{'Ru': 1.0, 'Se': 3.0}",FALSE
+Po2W3Os4,"['Po', 'W', 'Os']","['Po - Non-Metal', 'W - Metal', 'Os - Metal']","[2.0, 2.36, 2.2]",3,"{'Po': 2.0, 'W': 3.0, 'Os': 4.0}",FALSE
+ZnBr2Ir7,"['Zn', 'Br', 'Ir']","['Zn - Metal', 'Br - Non-Metal', 'Ir - Metal']","[1.65, 2.96, 2.2]",3,"{'Zn': 1.0, 'Br': 2.0, 'Ir': 7.0}",FALSE
+FmSe3Hg3,"['Fm', 'Se', 'Hg']","['Fm - Metal', 'Se - Non-Metal', 'Hg - Metal']","[1.3, 2.55, 2.0]",3,"{'Fm': 1.0, 'Se': 3.0, 'Hg': 3.0}",TRUE
+AtRe7,"['At', 'Re']","['At - Non-Metal', 'Re - Metal']","[2.2, 1.9]",2,"{'At': 1.0, 'Re': 7.0}",TRUE
+RhC4Bi5,"['Rh', 'C', 'Bi']","['Rh - Metal', 'C - Non-Metal', 'Bi - Metal']","[2.28, 2.55, 2.02]",3,"{'Rh': 1.0, 'C': 4.0, 'Bi': 5.0}",FALSE
+ClAt6,"['Cl', 'At']","['Cl - Non-Metal', 'At - Non-Metal']","[3.16, 2.2]",2,"{'Cl': 1.0, 'At': 6.0}",FALSE
+ClC3,"['Cl', 'C']","['Cl - Non-Metal', 'C - Non-Metal']","[3.16, 2.55]",2,"{'Cl': 1.0, 'C': 3.0}",FALSE
+At2Cm3Ge5,"['At', 'Cm', 'Ge']","['At - Non-Metal', 'Cm - Metal', 'Ge - Non-Metal']","[2.2, 1.3, 2.01]",3,"{'At': 2.0, 'Cm': 3.0, 'Ge': 5.0}",TRUE
+Au2Po5,"['Au', 'Po']","['Au - Metal', 'Po - Non-Metal']","[2.54, 2.0]",2,"{'Au': 2.0, 'Po': 5.0}",FALSE
+Fe3Ir3Sb5,"['Fe', 'Ir', 'Sb']","['Fe - Metal', 'Ir - Metal', 'Sb - Non-Metal']","[1.83, 2.2, 2.05]",3,"{'Fe': 3.0, 'Ir': 3.0, 'Sb': 5.0}",TRUE
+S4H5Os7,"['S', 'H', 'Os']","['S - Non-Metal', 'H - Unknown', 'Os - Metal']","[2.58, 2.2, 2.2]",3,"{'S': 4.0, 'H': 5.0, 'Os': 7.0}",FALSE
+MoI2Ir3B4,"['Mo', 'I', 'Ir', 'B']","['Mo - Metal', 'I - Non-Metal', 'Ir - Metal', 'B - Non-Metal']","[2.16, 2.66, 2.2, 2.04]",4,"{'Mo': 1.0, 'I': 2.0, 'Ir': 3.0, 'B': 4.0}",FALSE
+I3Pt4Zr7,"['I', 'Pt', 'Zr']","['I - Non-Metal', 'Pt - Metal', 'Zr - Metal']","[2.66, 2.28, 1.33]",3,"{'I': 3.0, 'Pt': 4.0, 'Zr': 7.0}",TRUE
+NdAt2,"['Nd', 'At']","['Nd - Metal', 'At - Non-Metal']","[1.14, 2.2]",2,"{'Nd': 1.0, 'At': 2.0}",TRUE
+ClZrNi7,"['Cl', 'Zr', 'Ni']","['Cl - Non-Metal', 'Zr - Metal', 'Ni - Metal']","[3.16, 1.33, 1.91]",3,"{'Cl': 1.0, 'Zr': 1.0, 'Ni': 7.0}",FALSE
+OZr,"['O', 'Zr']","['O - Non-Metal', 'Zr - Metal']","[3.44, 1.33]",2,"{'O': 1.0, 'Zr': 1.0}",FALSE
+SiZr,"['Si', 'Zr']","['Si - Non-Metal', 'Zr - Metal']","[1.9, 1.33]",2,"{'Si': 1.0, 'Zr': 1.0}",TRUE
+Xe,['Xe'],['Xe - Non-Metal'],[2.6],1,{'Xe': 1.0},FALSE
+LiTbS2Tc7,"['Li', 'Tb', 'S', 'Tc']","['Li - Metal', 'Tb - Metal', 'S - Non-Metal', 'Tc - Metal']","[0.98, 1.1, 2.58, 1.9]",4,"{'Li': 1.0, 'Tb': 1.0, 'S': 2.0, 'Tc': 7.0}",TRUE
+BIr2S3,"['B', 'Ir', 'S']","['B - Non-Metal', 'Ir - Metal', 'S - Non-Metal']","[2.04, 2.2, 2.58]",3,"{'B': 1.0, 'Ir': 2.0, 'S': 3.0}",FALSE
+Lu2Er3S6,"['Lu', 'Er', 'S']","['Lu - Metal', 'Er - Metal', 'S - Non-Metal']","[1.27, 1.24, 2.58]",3,"{'Lu': 2.0, 'Er': 3.0, 'S': 6.0}",TRUE
+At2Rh3W3B4,"['At', 'Rh', 'W', 'B']","['At - Non-Metal', 'Rh - Metal', 'W - Metal', 'B - Non-Metal']","[2.2, 2.28, 2.36, 2.04]",4,"{'At': 2.0, 'Rh': 3.0, 'W': 3.0, 'B': 4.0}",FALSE
+I2Sc4Se5,"['I', 'Sc', 'Se']","['I - Non-Metal', 'Sc - Metal', 'Se - Non-Metal']","[2.66, 1.36, 2.55]",3,"{'I': 2.0, 'Sc': 4.0, 'Se': 5.0}",FALSE
+OsUBr2,"['Os', 'U', 'Br']","['Os - Metal', 'U - Metal', 'Br - Non-Metal']","[2.2, 1.38, 2.96]",3,"{'Os': 1.0, 'U': 1.0, 'Br': 2.0}",FALSE
+Md2Cl3Co7,"['Md', 'Cl', 'Co']","['Md - Metal', 'Cl - Non-Metal', 'Co - Metal']","[1.3, 3.16, 1.88]",3,"{'Md': 2.0, 'Cl': 3.0, 'Co': 7.0}",FALSE
+PuB2Po3,"['Pu', 'B', 'Po']","['Pu - Metal', 'B - Non-Metal', 'Po - Non-Metal']","[1.28, 2.04, 2.0]",3,"{'Pu': 1.0, 'B': 2.0, 'Po': 3.0}",TRUE
+OsNd2Sb3,"['Os', 'Nd', 'Sb']","['Os - Metal', 'Nd - Metal', 'Sb - Non-Metal']","[2.2, 1.14, 2.05]",3,"{'Os': 1.0, 'Nd': 2.0, 'Sb': 3.0}",TRUE
+BeS2,"['Be', 'S']","['Be - Metal', 'S - Non-Metal']","[1.57, 2.58]",2,"{'Be': 1.0, 'S': 2.0}",TRUE
+ClC2,"['Cl', 'C']","['Cl - Non-Metal', 'C - Non-Metal']","[3.16, 2.55]",2,"{'Cl': 1.0, 'C': 2.0}",FALSE
+SeN6,"['Se', 'N']","['Se - Non-Metal', 'N - Non-Metal']","[2.55, 3.04]",2,"{'Se': 1.0, 'N': 6.0}",FALSE
+S3Tc4,"['S', 'Tc']","['S - Non-Metal', 'Tc - Metal']","[2.58, 1.9]",2,"{'S': 3.0, 'Tc': 4.0}",FALSE
+Br2Ho3At4,"['Br', 'Ho', 'At']","['Br - Non-Metal', 'Ho - Metal', 'At - Non-Metal']","[2.96, 1.23, 2.2]",3,"{'Br': 2.0, 'Ho': 3.0, 'At': 4.0}",FALSE
+AsIrC2Br4,"['As', 'Ir', 'C', 'Br']","['As - Non-Metal', 'Ir - Metal', 'C - Non-Metal', 'Br - Non-Metal']","[2.18, 2.2, 2.55, 2.96]",4,"{'As': 1.0, 'Ir': 1.0, 'C': 2.0, 'Br': 4.0}",FALSE
+RhP6,"['Rh', 'P']","['Rh - Metal', 'P - Non-Metal']","[2.28, 2.19]",2,"{'Rh': 1.0, 'P': 6.0}",FALSE
+NbSb,"['Nb', 'Sb']","['Nb - Metal', 'Sb - Non-Metal']","[1.6, 2.05]",2,"{'Nb': 1.0, 'Sb': 1.0}",TRUE
+MnBr2,"['Mn', 'Br']","['Mn - Metal', 'Br - Non-Metal']","[1.55, 2.96]",2,"{'Mn': 1.0, 'Br': 2.0}",FALSE
+PoGe3Sm4,"['Po', 'Ge', 'Sm']","['Po - Non-Metal', 'Ge - Non-Metal', 'Sm - Metal']","[2.0, 2.01, 1.17]",3,"{'Po': 1.0, 'Ge': 3.0, 'Sm': 4.0}",TRUE
+OCoAs2Ni6,"['O', 'Co', 'As', 'Ni']","['O - Non-Metal', 'Co - Metal', 'As - Non-Metal', 'Ni - Metal']","[3.44, 1.88, 2.18, 1.91]",4,"{'O': 1.0, 'Co': 1.0, 'As': 2.0, 'Ni': 6.0}",FALSE
+SiZn2Dy2Pd3Po4,"['Si', 'Zn', 'Dy', 'Pd', 'Po']","['Si - Non-Metal', 'Zn - Metal', 'Dy - Metal', 'Pd - Metal', 'Po - Non-Metal']","[1.9, 1.65, 1.22, 2.2, 2.0]",5,"{'Si': 1.0, 'Zn': 2.0, 'Dy': 2.0, 'Pd': 3.0, 'Po': 4.0}",TRUE
+PoC6,"['Po', 'C']","['Po - Non-Metal', 'C - Non-Metal']","[2.0, 2.55]",2,"{'Po': 1.0, 'C': 6.0}",FALSE
+UFe3O4,"['U', 'Fe', 'O']","['U - Metal', 'Fe - Metal', 'O - Non-Metal']","[1.38, 1.83, 3.44]",3,"{'U': 1.0, 'Fe': 3.0, 'O': 4.0}",FALSE
+GeYbB2,"['Ge', 'Yb', 'B']","['Ge - Non-Metal', 'Yb - Metal', 'B - Non-Metal']","[2.01, 1.1, 2.04]",3,"{'Ge': 1.0, 'Yb': 1.0, 'B': 2.0}",TRUE
+PAs,"['P', 'As']","['P - Non-Metal', 'As - Non-Metal']","[2.19, 2.18]",2,"{'P': 1.0, 'As': 1.0}",FALSE
+ClTa3,"['Cl', 'Ta']","['Cl - Non-Metal', 'Ta - Metal']","[3.16, 1.5]",2,"{'Cl': 1.0, 'Ta': 3.0}",FALSE
+LiRe2Rh3Te4,"['Li', 'Re', 'Rh', 'Te']","['Li - Metal', 'Re - Metal', 'Rh - Metal', 'Te - Non-Metal']","[0.98, 1.9, 2.28, 2.1]",4,"{'Li': 1.0, 'Re': 2.0, 'Rh': 3.0, 'Te': 4.0}",TRUE
+Mn2Po5,"['Mn', 'Po']","['Mn - Metal', 'Po - Non-Metal']","[1.55, 2.0]",2,"{'Mn': 2.0, 'Po': 5.0}",TRUE
+Lu2B3O3V6,"['Lu', 'B', 'O', 'V']","['Lu - Metal', 'B - Non-Metal', 'O - Non-Metal', 'V - Metal']","[1.27, 2.04, 3.44, 1.63]",4,"{'Lu': 2.0, 'B': 3.0, 'O': 3.0, 'V': 6.0}",TRUE
+CaFe2Ni2I5,"['Ca', 'Fe', 'Ni', 'I']","['Ca - Metal', 'Fe - Metal', 'Ni - Metal', 'I - Non-Metal']","[1.0, 1.83, 1.91, 2.66]",4,"{'Ca': 1.0, 'Fe': 2.0, 'Ni': 2.0, 'I': 5.0}",TRUE
+AuAtPd3Fe6,"['Au', 'At', 'Pd', 'Fe']","['Au - Metal', 'At - Non-Metal', 'Pd - Metal', 'Fe - Metal']","[2.54, 2.2, 2.2, 1.83]",4,"{'Au': 1.0, 'At': 1.0, 'Pd': 3.0, 'Fe': 6.0}",FALSE
+NiReGe3Po5,"['Ni', 'Re', 'Ge', 'Po']","['Ni - Metal', 'Re - Metal', 'Ge - Non-Metal', 'Po - Non-Metal']","[1.91, 1.9, 2.01, 2.0]",4,"{'Ni': 1.0, 'Re': 1.0, 'Ge': 3.0, 'Po': 5.0}",TRUE
+SbRe,"['Sb', 'Re']","['Sb - Non-Metal', 'Re - Metal']","[2.05, 1.9]",2,"{'Sb': 1.0, 'Re': 1.0}",TRUE
+BrGe7,"['Br', 'Ge']","['Br - Non-Metal', 'Ge - Non-Metal']","[2.96, 2.01]",2,"{'Br': 1.0, 'Ge': 7.0}",FALSE
+PdXe2W6,"['Pd', 'Xe', 'W']","['Pd - Metal', 'Xe - Non-Metal', 'W - Metal']","[2.2, 2.6, 2.36]",3,"{'Pd': 1.0, 'Xe': 2.0, 'W': 6.0}",FALSE
+Tc2Rn2Sn3,"['Tc', 'Rn', 'Sn']","['Tc - Metal', 'Rn - Non-Metal', 'Sn - Metal']","[1.9, 2.2, 1.96]",3,"{'Tc': 2.0, 'Rn': 2.0, 'Sn': 3.0}",TRUE
+TcPo2Pr3Sb4,"['Tc', 'Po', 'Pr', 'Sb']","['Tc - Metal', 'Po - Non-Metal', 'Pr - Metal', 'Sb - Non-Metal']","[1.9, 2.0, 1.13, 2.05]",4,"{'Tc': 1.0, 'Po': 2.0, 'Pr': 3.0, 'Sb': 4.0}",TRUE
+RhBr3Re6,"['Rh', 'Br', 'Re']","['Rh - Metal', 'Br - Non-Metal', 'Re - Metal']","[2.28, 2.96, 1.9]",3,"{'Rh': 1.0, 'Br': 3.0, 'Re': 6.0}",FALSE
+Se2Ru2Mn7,"['Se', 'Ru', 'Mn']","['Se - Non-Metal', 'Ru - Metal', 'Mn - Metal']","[2.55, 2.2, 1.55]",3,"{'Se': 2.0, 'Ru': 2.0, 'Mn': 7.0}",TRUE
+InO2,"['In', 'O']","['In - Metal', 'O - Non-Metal']","[1.78, 3.44]",2,"{'In': 1.0, 'O': 2.0}",FALSE
+Bi2Mo3,"['Bi', 'Mo']","['Bi - Metal', 'Mo - Metal']","[2.02, 2.16]",2,"{'Bi': 2.0, 'Mo': 3.0}",TRUE
+YZr2Se4,"['Y', 'Zr', 'Se']","['Y - Metal', 'Zr - Metal', 'Se - Non-Metal']","[1.22, 1.33, 2.55]",3,"{'Y': 1.0, 'Zr': 2.0, 'Se': 4.0}",TRUE
+Br2S5,"['Br', 'S']","['Br - Non-Metal', 'S - Non-Metal']","[2.96, 2.58]",2,"{'Br': 2.0, 'S': 5.0}",FALSE
+YbAs2Se4,"['Yb', 'As', 'Se']","['Yb - Metal', 'As - Non-Metal', 'Se - Non-Metal']","[1.1, 2.18, 2.55]",3,"{'Yb': 1.0, 'As': 2.0, 'Se': 4.0}",TRUE
+ITh3S4,"['I', 'Th', 'S']","['I - Non-Metal', 'Th - Metal', 'S - Non-Metal']","[2.66, 1.3, 2.58]",3,"{'I': 1.0, 'Th': 3.0, 'S': 4.0}",FALSE
+KrCo2,"['Kr', 'Co']","['Kr - Non-Metal', 'Co - Metal']","[3.0, 1.88]",2,"{'Kr': 1.0, 'Co': 2.0}",FALSE
+Sb2Rn3,"['Sb', 'Rn']","['Sb - Non-Metal', 'Rn - Non-Metal']","[2.05, 2.2]",2,"{'Sb': 2.0, 'Rn': 3.0}",FALSE
+N2Ac2Br3Mn7,"['N', 'Ac', 'Br', 'Mn']","['N - Non-Metal', 'Ac - Metal', 'Br - Non-Metal', 'Mn - Metal']","[3.04, 1.1, 2.96, 1.55]",4,"{'N': 2.0, 'Ac': 2.0, 'Br': 3.0, 'Mn': 7.0}",FALSE
+Ti2Fe3Xe4,"['Ti', 'Fe', 'Xe']","['Ti - Metal', 'Fe - Metal', 'Xe - Non-Metal']","[1.54, 1.83, 2.6]",3,"{'Ti': 2.0, 'Fe': 3.0, 'Xe': 4.0}",TRUE
+PtAt3,"['Pt', 'At']","['Pt - Metal', 'At - Non-Metal']","[2.28, 2.2]",2,"{'Pt': 1.0, 'At': 3.0}",FALSE
+Pt2Ho3As5,"['Pt', 'Ho', 'As']","['Pt - Metal', 'Ho - Metal', 'As - Non-Metal']","[2.28, 1.23, 2.18]",3,"{'Pt': 2.0, 'Ho': 3.0, 'As': 5.0}",TRUE
+BrH3,"['Br', 'H']","['Br - Non-Metal', 'H - Unknown']","[2.96, 2.2]",2,"{'Br': 1.0, 'H': 3.0}",FALSE
+PoBe2Mo4,"['Po', 'Be', 'Mo']","['Po - Non-Metal', 'Be - Metal', 'Mo - Metal']","[2.0, 1.57, 2.16]",3,"{'Po': 1.0, 'Be': 2.0, 'Mo': 4.0}",TRUE
+Mo2Xe2Os5,"['Mo', 'Xe', 'Os']","['Mo - Metal', 'Xe - Non-Metal', 'Os - Metal']","[2.16, 2.6, 2.2]",3,"{'Mo': 2.0, 'Xe': 2.0, 'Os': 5.0}",FALSE
+Rh2Br5Cr6,"['Rh', 'Br', 'Cr']","['Rh - Metal', 'Br - Non-Metal', 'Cr - Metal']","[2.28, 2.96, 1.66]",3,"{'Rh': 2.0, 'Br': 5.0, 'Cr': 6.0}",FALSE
+Zn2Eu2S5,"['Zn', 'Eu', 'S']","['Zn - Metal', 'Eu - Metal', 'S - Non-Metal']","[1.65, 1.2, 2.58]",3,"{'Zn': 2.0, 'Eu': 2.0, 'S': 5.0}",TRUE
+Li2Ag2Na3Br3,"['Li', 'Ag', 'Na', 'Br']","['Li - Metal', 'Ag - Metal', 'Na - Metal', 'Br - Non-Metal']","[0.98, 1.93, 0.93, 2.96]",4,"{'Li': 2.0, 'Ag': 2.0, 'Na': 3.0, 'Br': 3.0}",TRUE
+CSeCd5,"['C', 'Se', 'Cd']","['C - Non-Metal', 'Se - Non-Metal', 'Cd - Metal']","[2.55, 2.55, 1.69]",3,"{'C': 1.0, 'Se': 1.0, 'Cd': 5.0}",FALSE
+IrS4Cd7,"['Ir', 'S', 'Cd']","['Ir - Metal', 'S - Non-Metal', 'Cd - Metal']","[2.2, 2.58, 1.69]",3,"{'Ir': 1.0, 'S': 4.0, 'Cd': 7.0}",FALSE
+CAu,"['C', 'Au']","['C - Non-Metal', 'Au - Metal']","[2.55, 2.54]",2,"{'C': 1.0, 'Au': 1.0}",FALSE
+PrXe2Os3,"['Pr', 'Xe', 'Os']","['Pr - Metal', 'Xe - Non-Metal', 'Os - Metal']","[1.13, 2.6, 2.2]",3,"{'Pr': 1.0, 'Xe': 2.0, 'Os': 3.0}",TRUE
+I2Sc4Fe5,"['I', 'Sc', 'Fe']","['I - Non-Metal', 'Sc - Metal', 'Fe - Metal']","[2.66, 1.36, 1.83]",3,"{'I': 2.0, 'Sc': 4.0, 'Fe': 5.0}",TRUE
+Cr2Po3Ti5,"['Cr', 'Po', 'Ti']","['Cr - Metal', 'Po - Non-Metal', 'Ti - Metal']","[1.66, 2.0, 1.54]",3,"{'Cr': 2.0, 'Po': 3.0, 'Ti': 5.0}",TRUE
+MgBr4Co5,"['Mg', 'Br', 'Co']","['Mg - Metal', 'Br - Non-Metal', 'Co - Metal']","[1.31, 2.96, 1.88]",3,"{'Mg': 1.0, 'Br': 4.0, 'Co': 5.0}",TRUE
+GeSmTc3Ir3Se4,"['Ge', 'Sm', 'Tc', 'Ir', 'Se']","['Ge - Non-Metal', 'Sm - Metal', 'Tc - Metal', 'Ir - Metal', 'Se - Non-Metal']","[2.01, 1.17, 1.9, 2.2, 2.55]",5,"{'Ge': 1.0, 'Sm': 1.0, 'Tc': 3.0, 'Ir': 3.0, 'Se': 4.0}",TRUE
+RePb,"['Re', 'Pb']","['Re - Metal', 'Pb - Metal']","[1.9, 2.33]",2,"{'Re': 1.0, 'Pb': 1.0}",FALSE
+ZrHf2Rh3Sb3,"['Zr', 'Hf', 'Rh', 'Sb']","['Zr - Metal', 'Hf - Metal', 'Rh - Metal', 'Sb - Non-Metal']","[1.33, 1.3, 2.28, 2.05]",4,"{'Zr': 1.0, 'Hf': 2.0, 'Rh': 3.0, 'Sb': 3.0}",TRUE
+HgNb4Po6,"['Hg', 'Nb', 'Po']","['Hg - Metal', 'Nb - Metal', 'Po - Non-Metal']","[2.0, 1.6, 2.0]",3,"{'Hg': 1.0, 'Nb': 4.0, 'Po': 6.0}",TRUE
+PuCmBi2,"['Pu', 'Cm', 'Bi']","['Pu - Metal', 'Cm - Metal', 'Bi - Metal']","[1.28, 1.3, 2.02]",3,"{'Pu': 1.0, 'Cm': 1.0, 'Bi': 2.0}",TRUE
+BiO2Zn7,"['Bi', 'O', 'Zn']","['Bi - Metal', 'O - Non-Metal', 'Zn - Metal']","[2.02, 3.44, 1.65]",3,"{'Bi': 1.0, 'O': 2.0, 'Zn': 7.0}",FALSE
+IrCfSe3Hg6,"['Ir', 'Cf', 'Se', 'Hg']","['Ir - Metal', 'Cf - Metal', 'Se - Non-Metal', 'Hg - Metal']","[2.2, 1.3, 2.55, 2.0]",4,"{'Ir': 1.0, 'Cf': 1.0, 'Se': 3.0, 'Hg': 6.0}",TRUE
+BrIrRh2Ge3,"['Br', 'Ir', 'Rh', 'Ge']","['Br - Non-Metal', 'Ir - Metal', 'Rh - Metal', 'Ge - Non-Metal']","[2.96, 2.2, 2.28, 2.01]",4,"{'Br': 1.0, 'Ir': 1.0, 'Rh': 2.0, 'Ge': 3.0}",FALSE
+IAu,"['I', 'Au']","['I - Non-Metal', 'Au - Metal']","[2.66, 2.54]",2,"{'I': 1.0, 'Au': 1.0}",FALSE
+CrBi,"['Cr', 'Bi']","['Cr - Metal', 'Bi - Metal']","[1.66, 2.02]",2,"{'Cr': 1.0, 'Bi': 1.0}",TRUE
+NTe2Tl3Co4,"['N', 'Te', 'Tl', 'Co']","['N - Non-Metal', 'Te - Non-Metal', 'Tl - Metal', 'Co - Metal']","[3.04, 2.1, 1.62, 1.88]",4,"{'N': 1.0, 'Te': 2.0, 'Tl': 3.0, 'Co': 4.0}",FALSE
+KrBe3V5,"['Kr', 'Be', 'V']","['Kr - Non-Metal', 'Be - Metal', 'V - Metal']","[3.0, 1.57, 1.63]",3,"{'Kr': 1.0, 'Be': 3.0, 'V': 5.0}",TRUE
+CmHo2Sb3,"['Cm', 'Ho', 'Sb']","['Cm - Metal', 'Ho - Metal', 'Sb - Non-Metal']","[1.3, 1.23, 2.05]",3,"{'Cm': 1.0, 'Ho': 2.0, 'Sb': 3.0}",TRUE
+Sc3Po3Ir5,"['Sc', 'Po', 'Ir']","['Sc - Metal', 'Po - Non-Metal', 'Ir - Metal']","[1.36, 2.0, 2.2]",3,"{'Sc': 3.0, 'Po': 3.0, 'Ir': 5.0}",TRUE
+AsS5V6,"['As', 'S', 'V']","['As - Non-Metal', 'S - Non-Metal', 'V - Metal']","[2.18, 2.58, 1.63]",3,"{'As': 1.0, 'S': 5.0, 'V': 6.0}",FALSE
+CeCl3Ir3,"['Ce', 'Cl', 'Ir']","['Ce - Metal', 'Cl - Non-Metal', 'Ir - Metal']","[1.12, 3.16, 2.2]",3,"{'Ce': 1.0, 'Cl': 3.0, 'Ir': 3.0}",FALSE
+NPoBr2Fe5,"['N', 'Po', 'Br', 'Fe']","['N - Non-Metal', 'Po - Non-Metal', 'Br - Non-Metal', 'Fe - Metal']","[3.04, 2.0, 2.96, 1.83]",4,"{'N': 1.0, 'Po': 1.0, 'Br': 2.0, 'Fe': 5.0}",FALSE
+HgIr2F3Fe6,"['Hg', 'Ir', 'F', 'Fe']","['Hg - Metal', 'Ir - Metal', 'F - Non-Metal', 'Fe - Metal']","[2.0, 2.2, 3.98, 1.83]",4,"{'Hg': 1.0, 'Ir': 2.0, 'F': 3.0, 'Fe': 6.0}",FALSE
+HNo2I5,"['H', 'No', 'I']","['H - Unknown', 'No - Metal', 'I - Non-Metal']","[2.2, 1.3, 2.66]",3,"{'H': 1.0, 'No': 2.0, 'I': 5.0}",TRUE
+TcP2Mo2,"['Tc', 'P', 'Mo']","['Tc - Metal', 'P - Non-Metal', 'Mo - Metal']","[1.9, 2.19, 2.16]",3,"{'Tc': 1.0, 'P': 2.0, 'Mo': 2.0}",TRUE
+GePo2Fe6,"['Ge', 'Po', 'Fe']","['Ge - Non-Metal', 'Po - Non-Metal', 'Fe - Metal']","[2.01, 2.0, 1.83]",3,"{'Ge': 1.0, 'Po': 2.0, 'Fe': 6.0}",TRUE
+NiTe2,"['Ni', 'Te']","['Ni - Metal', 'Te - Non-Metal']","[1.91, 2.1]",2,"{'Ni': 1.0, 'Te': 2.0}",TRUE
+IrBkSc3S4,"['Ir', 'Bk', 'Sc', 'S']","['Ir - Metal', 'Bk - Metal', 'Sc - Metal', 'S - Non-Metal']","[2.2, 1.3, 1.36, 2.58]",4,"{'Ir': 1.0, 'Bk': 1.0, 'Sc': 3.0, 'S': 4.0}",TRUE
+As2Po3,"['As', 'Po']","['As - Non-Metal', 'Po - Non-Metal']","[2.18, 2.0]",2,"{'As': 2.0, 'Po': 3.0}",TRUE
+Ni2At2Pt7,"['Ni', 'At', 'Pt']","['Ni - Metal', 'At - Non-Metal', 'Pt - Metal']","[1.91, 2.2, 2.28]",3,"{'Ni': 2.0, 'At': 2.0, 'Pt': 7.0}",FALSE
+OsN3,"['Os', 'N']","['Os - Metal', 'N - Non-Metal']","[2.2, 3.04]",2,"{'Os': 1.0, 'N': 3.0}",FALSE
+SeZrNi6Re6,"['Se', 'Zr', 'Ni', 'Re']","['Se - Non-Metal', 'Zr - Metal', 'Ni - Metal', 'Re - Metal']","[2.55, 1.33, 1.91, 1.9]",4,"{'Se': 1.0, 'Zr': 1.0, 'Ni': 6.0, 'Re': 6.0}",TRUE
+LiCoZrBi2Sn4,"['Li', 'Co', 'Zr', 'Bi', 'Sn']","['Li - Metal', 'Co - Metal', 'Zr - Metal', 'Bi - Metal', 'Sn - Metal']","[0.98, 1.88, 1.33, 2.02, 1.96]",5,"{'Li': 1.0, 'Co': 1.0, 'Zr': 1.0, 'Bi': 2.0, 'Sn': 4.0}",TRUE
+PoO6,"['Po', 'O']","['Po - Non-Metal', 'O - Non-Metal']","[2.0, 3.44]",2,"{'Po': 1.0, 'O': 6.0}",FALSE
+As2Dy3Ge5,"['As', 'Dy', 'Ge']","['As - Non-Metal', 'Dy - Metal', 'Ge - Non-Metal']","[2.18, 1.22, 2.01]",3,"{'As': 2.0, 'Dy': 3.0, 'Ge': 5.0}",TRUE
+TlPo2S3,"['Tl', 'Po', 'S']","['Tl - Metal', 'Po - Non-Metal', 'S - Non-Metal']","[1.62, 2.0, 2.58]",3,"{'Tl': 1.0, 'Po': 2.0, 'S': 3.0}",TRUE
+BCl,"['B', 'Cl']","['B - Non-Metal', 'Cl - Non-Metal']","[2.04, 3.16]",2,"{'B': 1.0, 'Cl': 1.0}",FALSE
+Cr2Zr2Po2V3Cd3,"['Cr', 'Zr', 'Po', 'V', 'Cd']","['Cr - Metal', 'Zr - Metal', 'Po - Non-Metal', 'V - Metal', 'Cd - Metal']","[1.66, 1.33, 2.0, 1.63, 1.69]",5,"{'Cr': 2.0, 'Zr': 2.0, 'Po': 2.0, 'V': 3.0, 'Cd': 3.0}",TRUE
+CrAsRh3,"['Cr', 'As', 'Rh']","['Cr - Metal', 'As - Non-Metal', 'Rh - Metal']","[1.66, 2.18, 2.28]",3,"{'Cr': 1.0, 'As': 1.0, 'Rh': 3.0}",TRUE
+Cl2Si3Sc4,"['Cl', 'Si', 'Sc']","['Cl - Non-Metal', 'Si - Non-Metal', 'Sc - Metal']","[3.16, 1.9, 1.36]",3,"{'Cl': 2.0, 'Si': 3.0, 'Sc': 4.0}",FALSE
+SLu2Mg4Fe6,"['S', 'Lu', 'Mg', 'Fe']","['S - Non-Metal', 'Lu - Metal', 'Mg - Metal', 'Fe - Metal']","[2.58, 1.27, 1.31, 1.83]",4,"{'S': 1.0, 'Lu': 2.0, 'Mg': 4.0, 'Fe': 6.0}",TRUE
+CRe2S3,"['C', 'Re', 'S']","['C - Non-Metal', 'Re - Metal', 'S - Non-Metal']","[2.55, 1.9, 2.58]",3,"{'C': 1.0, 'Re': 2.0, 'S': 3.0}",FALSE
+Si2Sc3I3,"['Si', 'Sc', 'I']","['Si - Non-Metal', 'Sc - Metal', 'I - Non-Metal']","[1.9, 1.36, 2.66]",3,"{'Si': 2.0, 'Sc': 3.0, 'I': 3.0}",TRUE
+Pd2Ge3,"['Pd', 'Ge']","['Pd - Metal', 'Ge - Non-Metal']","[2.2, 2.01]",2,"{'Pd': 2.0, 'Ge': 3.0}",FALSE
+Ge2Kr3Ta8,"['Ge', 'Kr', 'Ta']","['Ge - Non-Metal', 'Kr - Non-Metal', 'Ta - Metal']","[2.01, 3.0, 1.5]",3,"{'Ge': 2.0, 'Kr': 3.0, 'Ta': 8.0}",FALSE
+RnRh2O5,"['Rn', 'Rh', 'O']","['Rn - Non-Metal', 'Rh - Metal', 'O - Non-Metal']","[2.2, 2.28, 3.44]",3,"{'Rn': 1.0, 'Rh': 2.0, 'O': 5.0}",FALSE
+Nb2S5,"['Nb', 'S']","['Nb - Metal', 'S - Non-Metal']","[1.6, 2.58]",2,"{'Nb': 2.0, 'S': 5.0}",TRUE
+InP3,"['In', 'P']","['In - Metal', 'P - Non-Metal']","[1.78, 2.19]",2,"{'In': 1.0, 'P': 3.0}",TRUE
+ZnGaSe4Au4,"['Zn', 'Ga', 'Se', 'Au']","['Zn - Metal', 'Ga - Metal', 'Se - Non-Metal', 'Au - Metal']","[1.65, 1.81, 2.55, 2.54]",4,"{'Zn': 1.0, 'Ga': 1.0, 'Se': 4.0, 'Au': 4.0}",FALSE
+HoO3Sb3Ta4,"['Ho', 'O', 'Sb', 'Ta']","['Ho - Metal', 'O - Non-Metal', 'Sb - Non-Metal', 'Ta - Metal']","[1.23, 3.44, 2.05, 1.5]",4,"{'Ho': 1.0, 'O': 3.0, 'Sb': 3.0, 'Ta': 4.0}",TRUE
+HoPa2Se4,"['Ho', 'Pa', 'Se']","['Ho - Metal', 'Pa - Metal', 'Se - Non-Metal']","[1.23, 1.5, 2.55]",3,"{'Ho': 1.0, 'Pa': 2.0, 'Se': 4.0}",TRUE
+ClAu5,"['Cl', 'Au']","['Cl - Non-Metal', 'Au - Metal']","[3.16, 2.54]",2,"{'Cl': 1.0, 'Au': 5.0}",FALSE
+SSbV8,"['S', 'Sb', 'V']","['S - Non-Metal', 'Sb - Non-Metal', 'V - Metal']","[2.58, 2.05, 1.63]",3,"{'S': 1.0, 'Sb': 1.0, 'V': 8.0}",TRUE
+P3Sb4,"['P', 'Sb']","['P - Non-Metal', 'Sb - Non-Metal']","[2.19, 2.05]",2,"{'P': 3.0, 'Sb': 4.0}",FALSE
+Xe2Co3Mo7,"['Xe', 'Co', 'Mo']","['Xe - Non-Metal', 'Co - Metal', 'Mo - Metal']","[2.6, 1.88, 2.16]",3,"{'Xe': 2.0, 'Co': 3.0, 'Mo': 7.0}",FALSE
+IrAs2,"['Ir', 'As']","['Ir - Metal', 'As - Non-Metal']","[2.2, 2.18]",2,"{'Ir': 1.0, 'As': 2.0}",FALSE
+IFe4,"['I', 'Fe']","['I - Non-Metal', 'Fe - Metal']","[2.66, 1.83]",2,"{'I': 1.0, 'Fe': 4.0}",FALSE
+BrH4,"['Br', 'H']","['Br - Non-Metal', 'H - Unknown']","[2.96, 2.2]",2,"{'Br': 1.0, 'H': 4.0}",FALSE
+Tl2Ge3,"['Tl', 'Ge']","['Tl - Metal', 'Ge - Non-Metal']","[1.62, 2.01]",2,"{'Tl': 2.0, 'Ge': 3.0}",TRUE
+IrS6,"['Ir', 'S']","['Ir - Metal', 'S - Non-Metal']","[2.2, 2.58]",2,"{'Ir': 1.0, 'S': 6.0}",FALSE
+UN3,"['U', 'N']","['U - Metal', 'N - Non-Metal']","[1.38, 3.04]",2,"{'U': 1.0, 'N': 3.0}",FALSE
+MnAs3,"['Mn', 'As']","['Mn - Metal', 'As - Non-Metal']","[1.55, 2.18]",2,"{'Mn': 1.0, 'As': 3.0}",TRUE
+SeSi4,"['Se', 'Si']","['Se - Non-Metal', 'Si - Non-Metal']","[2.55, 1.9]",2,"{'Se': 1.0, 'Si': 4.0}",FALSE
+BrTb,"['Br', 'Tb']","['Br - Non-Metal', 'Tb - Metal']","[2.96, 1.1]",2,"{'Br': 1.0, 'Tb': 1.0}",TRUE
+FeBi3As4,"['Fe', 'Bi', 'As']","['Fe - Metal', 'Bi - Metal', 'As - Non-Metal']","[1.83, 2.02, 2.18]",3,"{'Fe': 1.0, 'Bi': 3.0, 'As': 4.0}",TRUE
+MnF3Hg4,"['Mn', 'F', 'Hg']","['Mn - Metal', 'F - Non-Metal', 'Hg - Metal']","[1.55, 3.98, 2.0]",3,"{'Mn': 1.0, 'F': 3.0, 'Hg': 4.0}",FALSE
+AsLaGe2Cl4Hf4,"['As', 'La', 'Ge', 'Cl', 'Hf']","['As - Non-Metal', 'La - Metal', 'Ge - Non-Metal', 'Cl - Non-Metal', 'Hf - Metal']","[2.18, 1.1, 2.01, 3.16, 1.3]",5,"{'As': 1.0, 'La': 1.0, 'Ge': 2.0, 'Cl': 4.0, 'Hf': 4.0}",TRUE
+BiN3Ge4,"['Bi', 'N', 'Ge']","['Bi - Metal', 'N - Non-Metal', 'Ge - Non-Metal']","[2.02, 3.04, 2.01]",3,"{'Bi': 1.0, 'N': 3.0, 'Ge': 4.0}",FALSE
+BrCr3,"['Br', 'Cr']","['Br - Non-Metal', 'Cr - Metal']","[2.96, 1.66]",2,"{'Br': 1.0, 'Cr': 3.0}",FALSE
+XePr2Tc7,"['Xe', 'Pr', 'Tc']","['Xe - Non-Metal', 'Pr - Metal', 'Tc - Metal']","[2.6, 1.13, 1.9]",3,"{'Xe': 1.0, 'Pr': 2.0, 'Tc': 7.0}",TRUE
+CaILu2C4Ga5,"['Ca', 'I', 'Lu', 'C', 'Ga']","['Ca - Metal', 'I - Non-Metal', 'Lu - Metal', 'C - Non-Metal', 'Ga - Metal']","[1.0, 2.66, 1.27, 2.55, 1.81]",5,"{'Ca': 1.0, 'I': 1.0, 'Lu': 2.0, 'C': 4.0, 'Ga': 5.0}",TRUE
+Fe2Te5,"['Fe', 'Te']","['Fe - Metal', 'Te - Non-Metal']","[1.83, 2.1]",2,"{'Fe': 2.0, 'Te': 5.0}",TRUE
+W3As4,"['W', 'As']","['W - Metal', 'As - Non-Metal']","[2.36, 2.18]",2,"{'W': 3.0, 'As': 4.0}",FALSE
+YbSi3,"['Yb', 'Si']","['Yb - Metal', 'Si - Non-Metal']","[1.1, 1.9]",2,"{'Yb': 1.0, 'Si': 3.0}",TRUE
+SmS3,"['Sm', 'S']","['Sm - Metal', 'S - Non-Metal']","[1.17, 2.58]",2,"{'Sm': 1.0, 'S': 3.0}",TRUE
+XeHg3Fe7,"['Xe', 'Hg', 'Fe']","['Xe - Non-Metal', 'Hg - Metal', 'Fe - Metal']","[2.6, 2.0, 1.83]",3,"{'Xe': 1.0, 'Hg': 3.0, 'Fe': 7.0}",FALSE
+SRh,"['S', 'Rh']","['S - Non-Metal', 'Rh - Metal']","[2.58, 2.28]",2,"{'S': 1.0, 'Rh': 1.0}",FALSE
+SMn3,"['S', 'Mn']","['S - Non-Metal', 'Mn - Metal']","[2.58, 1.55]",2,"{'S': 1.0, 'Mn': 3.0}",TRUE
+HfFe3Se3,"['Hf', 'Fe', 'Se']","['Hf - Metal', 'Fe - Metal', 'Se - Non-Metal']","[1.3, 1.83, 2.55]",3,"{'Hf': 1.0, 'Fe': 3.0, 'Se': 3.0}",TRUE
+DyC3,"['Dy', 'C']","['Dy - Metal', 'C - Non-Metal']","[1.22, 2.55]",2,"{'Dy': 1.0, 'C': 3.0}",TRUE
+PoRu2Sb5,"['Po', 'Ru', 'Sb']","['Po - Non-Metal', 'Ru - Metal', 'Sb - Non-Metal']","[2.0, 2.2, 2.05]",3,"{'Po': 1.0, 'Ru': 2.0, 'Sb': 5.0}",TRUE
+TeTc2Ir2At3,"['Te', 'Tc', 'Ir', 'At']","['Te - Non-Metal', 'Tc - Metal', 'Ir - Metal', 'At - Non-Metal']","[2.1, 1.9, 2.2, 2.2]",4,"{'Te': 1.0, 'Tc': 2.0, 'Ir': 2.0, 'At': 3.0}",TRUE
+ClCuTa6,"['Cl', 'Cu', 'Ta']","['Cl - Non-Metal', 'Cu - Metal', 'Ta - Metal']","[3.16, 1.9, 1.5]",3,"{'Cl': 1.0, 'Cu': 1.0, 'Ta': 6.0}",FALSE
+PoCo4,"['Po', 'Co']","['Po - Non-Metal', 'Co - Metal']","[2.0, 1.88]",2,"{'Po': 1.0, 'Co': 4.0}",TRUE
+PdXeOs7,"['Pd', 'Xe', 'Os']","['Pd - Metal', 'Xe - Non-Metal', 'Os - Metal']","[2.2, 2.6, 2.2]",3,"{'Pd': 1.0, 'Xe': 1.0, 'Os': 7.0}",FALSE
+Si2Cu2Po3Au4,"['Si', 'Cu', 'Po', 'Au']","['Si - Non-Metal', 'Cu - Metal', 'Po - Non-Metal', 'Au - Metal']","[1.9, 1.9, 2.0, 2.54]",4,"{'Si': 2.0, 'Cu': 2.0, 'Po': 3.0, 'Au': 4.0}",TRUE
+IIrTi7,"['I', 'Ir', 'Ti']","['I - Non-Metal', 'Ir - Metal', 'Ti - Metal']","[2.66, 2.2, 1.54]",3,"{'I': 1.0, 'Ir': 1.0, 'Ti': 7.0}",FALSE
+ClPdTm3Pb4,"['Cl', 'Pd', 'Tm', 'Pb']","['Cl - Non-Metal', 'Pd - Metal', 'Tm - Metal', 'Pb - Metal']","[3.16, 2.2, 1.25, 2.33]",4,"{'Cl': 1.0, 'Pd': 1.0, 'Tm': 3.0, 'Pb': 4.0}",FALSE
+SeTa6,"['Se', 'Ta']","['Se - Non-Metal', 'Ta - Metal']","[2.55, 1.5]",2,"{'Se': 1.0, 'Ta': 6.0}",TRUE
+TcF2,"['Tc', 'F']","['Tc - Metal', 'F - Non-Metal']","[1.9, 3.98]",2,"{'Tc': 1.0, 'F': 2.0}",FALSE
+F2Mo5Mg7,"['F', 'Mo', 'Mg']","['F - Non-Metal', 'Mo - Metal', 'Mg - Metal']","[3.98, 2.16, 1.31]",3,"{'F': 2.0, 'Mo': 5.0, 'Mg': 7.0}",FALSE
+EsS3Zr3,"['Es', 'S', 'Zr']","['Es - Metal', 'S - Non-Metal', 'Zr - Metal']","[1.3, 2.58, 1.33]",3,"{'Es': 1.0, 'S': 3.0, 'Zr': 3.0}",TRUE
+Ir2P5,"['Ir', 'P']","['Ir - Metal', 'P - Non-Metal']","[2.2, 2.19]",2,"{'Ir': 2.0, 'P': 5.0}",FALSE
+BrHf5Tc6,"['Br', 'Hf', 'Tc']","['Br - Non-Metal', 'Hf - Metal', 'Tc - Metal']","[2.96, 1.3, 1.9]",3,"{'Br': 1.0, 'Hf': 5.0, 'Tc': 6.0}",TRUE
+XeSi8,"['Xe', 'Si']","['Xe - Non-Metal', 'Si - Non-Metal']","[2.6, 1.9]",2,"{'Xe': 1.0, 'Si': 8.0}",FALSE
+MoTe2Au2,"['Mo', 'Te', 'Au']","['Mo - Metal', 'Te - Non-Metal', 'Au - Metal']","[2.16, 2.1, 2.54]",3,"{'Mo': 1.0, 'Te': 2.0, 'Au': 2.0}",FALSE
+GaSb,"['Ga', 'Sb']","['Ga - Metal', 'Sb - Non-Metal']","[1.81, 2.05]",2,"{'Ga': 1.0, 'Sb': 1.0}",TRUE
+RhSi2,"['Rh', 'Si']","['Rh - Metal', 'Si - Non-Metal']","[2.28, 1.9]",2,"{'Rh': 1.0, 'Si': 2.0}",TRUE
+Li2C2Po3,"['Li', 'C', 'Po']","['Li - Metal', 'C - Non-Metal', 'Po - Non-Metal']","[0.98, 2.55, 2.0]",3,"{'Li': 2.0, 'C': 2.0, 'Po': 3.0}",TRUE
+Ge3Si4,"['Ge', 'Si']","['Ge - Non-Metal', 'Si - Non-Metal']","[2.01, 1.9]",2,"{'Ge': 3.0, 'Si': 4.0}",TRUE
+TaSi2Br2Se5,"['Ta', 'Si', 'Br', 'Se']","['Ta - Metal', 'Si - Non-Metal', 'Br - Non-Metal', 'Se - Non-Metal']","[1.5, 1.9, 2.96, 2.55]",4,"{'Ta': 1.0, 'Si': 2.0, 'Br': 2.0, 'Se': 5.0}",FALSE
+HMgBr2Pd3Ir5,"['H', 'Mg', 'Br', 'Pd', 'Ir']","['H - Unknown', 'Mg - Metal', 'Br - Non-Metal', 'Pd - Metal', 'Ir - Metal']","[2.2, 1.31, 2.96, 2.2, 2.2]",5,"{'H': 1.0, 'Mg': 1.0, 'Br': 2.0, 'Pd': 3.0, 'Ir': 5.0}",FALSE
+AsTl5,"['As', 'Tl']","['As - Non-Metal', 'Tl - Metal']","[2.18, 1.62]",2,"{'As': 1.0, 'Tl': 5.0}",TRUE
+TeGe2Sb3,"['Te', 'Ge', 'Sb']","['Te - Non-Metal', 'Ge - Non-Metal', 'Sb - Non-Metal']","[2.1, 2.01, 2.05]",3,"{'Te': 1.0, 'Ge': 2.0, 'Sb': 3.0}",TRUE
+YbNi3Bi5,"['Yb', 'Ni', 'Bi']","['Yb - Metal', 'Ni - Metal', 'Bi - Metal']","[1.1, 1.91, 2.02]",3,"{'Yb': 1.0, 'Ni': 3.0, 'Bi': 5.0}",TRUE
+BrAu2Tc5,"['Br', 'Au', 'Tc']","['Br - Non-Metal', 'Au - Metal', 'Tc - Metal']","[2.96, 2.54, 1.9]",3,"{'Br': 1.0, 'Au': 2.0, 'Tc': 5.0}",FALSE
+PdDyI3Re6,"['Pd', 'Dy', 'I', 'Re']","['Pd - Metal', 'Dy - Metal', 'I - Non-Metal', 'Re - Metal']","[2.2, 1.22, 2.66, 1.9]",4,"{'Pd': 1.0, 'Dy': 1.0, 'I': 3.0, 'Re': 6.0}",TRUE
+SeLuLrI4,"['Se', 'Lu', 'Lr', 'I']","['Se - Non-Metal', 'Lu - Metal', 'Lr - Metal', 'I - Non-Metal']","[2.55, 1.27, 1.3, 2.66]",4,"{'Se': 1.0, 'Lu': 1.0, 'Lr': 1.0, 'I': 4.0}",TRUE
+CrAt4V5,"['Cr', 'At', 'V']","['Cr - Metal', 'At - Non-Metal', 'V - Metal']","[1.66, 2.2, 1.63]",3,"{'Cr': 1.0, 'At': 4.0, 'V': 5.0}",TRUE
+Ge2Hg3,"['Ge', 'Hg']","['Ge - Non-Metal', 'Hg - Metal']","[2.01, 2.0]",2,"{'Ge': 2.0, 'Hg': 3.0}",TRUE
+OCl2V7,"['O', 'Cl', 'V']","['O - Non-Metal', 'Cl - Non-Metal', 'V - Metal']","[3.44, 3.16, 1.63]",3,"{'O': 1.0, 'Cl': 2.0, 'V': 7.0}",FALSE
+H2Po4Bk5,"['H', 'Po', 'Bk']","['H - Unknown', 'Po - Non-Metal', 'Bk - Metal']","[2.2, 2.0, 1.3]",3,"{'H': 2.0, 'Po': 4.0, 'Bk': 5.0}",TRUE
+FeBr3Ca4,"['Fe', 'Br', 'Ca']","['Fe - Metal', 'Br - Non-Metal', 'Ca - Metal']","[1.83, 2.96, 1.0]",3,"{'Fe': 1.0, 'Br': 3.0, 'Ca': 4.0}",TRUE
+Be2Hg3Se5,"['Be', 'Hg', 'Se']","['Be - Metal', 'Hg - Metal', 'Se - Non-Metal']","[1.57, 2.0, 2.55]",3,"{'Be': 2.0, 'Hg': 3.0, 'Se': 5.0}",TRUE
+BrTi3Mn4,"['Br', 'Ti', 'Mn']","['Br - Non-Metal', 'Ti - Metal', 'Mn - Metal']","[2.96, 1.54, 1.55]",3,"{'Br': 1.0, 'Ti': 3.0, 'Mn': 4.0}",TRUE
+IMg2Tl3,"['I', 'Mg', 'Tl']","['I - Non-Metal', 'Mg - Metal', 'Tl - Metal']","[2.66, 1.31, 1.62]",3,"{'I': 1.0, 'Mg': 2.0, 'Tl': 3.0}",TRUE
+OsSe2,"['Os', 'Se']","['Os - Metal', 'Se - Non-Metal']","[2.2, 2.55]",2,"{'Os': 1.0, 'Se': 2.0}",FALSE
+NMnCdTe2Er2,"['N', 'Mn', 'Cd', 'Te', 'Er']","['N - Non-Metal', 'Mn - Metal', 'Cd - Metal', 'Te - Non-Metal', 'Er - Metal']","[3.04, 1.55, 1.69, 2.1, 1.24]",5,"{'N': 1.0, 'Mn': 1.0, 'Cd': 1.0, 'Te': 2.0, 'Er': 2.0}",TRUE
+PoAt2,"['Po', 'At']","['Po - Non-Metal', 'At - Non-Metal']","[2.0, 2.2]",2,"{'Po': 1.0, 'At': 2.0}",TRUE
+SePo2,"['Se', 'Po']","['Se - Non-Metal', 'Po - Non-Metal']","[2.55, 2.0]",2,"{'Se': 1.0, 'Po': 2.0}",FALSE
+Gd2Cl3V7,"['Gd', 'Cl', 'V']","['Gd - Metal', 'Cl - Non-Metal', 'V - Metal']","[1.2, 3.16, 1.63]",3,"{'Gd': 2.0, 'Cl': 3.0, 'V': 7.0}",TRUE
+NiSe3Tb5,"['Ni', 'Se', 'Tb']","['Ni - Metal', 'Se - Non-Metal', 'Tb - Metal']","[1.91, 2.55, 1.1]",3,"{'Ni': 1.0, 'Se': 3.0, 'Tb': 5.0}",TRUE
+ClGeMo2V8,"['Cl', 'Ge', 'Mo', 'V']","['Cl - Non-Metal', 'Ge - Non-Metal', 'Mo - Metal', 'V - Metal']","[3.16, 2.01, 2.16, 1.63]",4,"{'Cl': 1.0, 'Ge': 1.0, 'Mo': 2.0, 'V': 8.0}",FALSE
+NP2Al5,"['N', 'P', 'Al']","['N - Non-Metal', 'P - Non-Metal', 'Al - Metal']","[3.04, 2.19, 1.61]",3,"{'N': 1.0, 'P': 2.0, 'Al': 5.0}",FALSE
+TbW3Pt3Se5,"['Tb', 'W', 'Pt', 'Se']","['Tb - Metal', 'W - Metal', 'Pt - Metal', 'Se - Non-Metal']","[1.1, 2.36, 2.28, 2.55]",4,"{'Tb': 1.0, 'W': 3.0, 'Pt': 3.0, 'Se': 5.0}",TRUE
+Po2Os3Si4,"['Po', 'Os', 'Si']","['Po - Non-Metal', 'Os - Metal', 'Si - Non-Metal']","[2.0, 2.2, 1.9]",3,"{'Po': 2.0, 'Os': 3.0, 'Si': 4.0}",TRUE
+PaSe3Ti4,"['Pa', 'Se', 'Ti']","['Pa - Metal', 'Se - Non-Metal', 'Ti - Metal']","[1.5, 2.55, 1.54]",3,"{'Pa': 1.0, 'Se': 3.0, 'Ti': 4.0}",TRUE
+ClTi6,"['Cl', 'Ti']","['Cl - Non-Metal', 'Ti - Metal']","[3.16, 1.54]",2,"{'Cl': 1.0, 'Ti': 6.0}",FALSE
+SeF2Eu2,"['Se', 'F', 'Eu']","['Se - Non-Metal', 'F - Non-Metal', 'Eu - Metal']","[2.55, 3.98, 1.2]",3,"{'Se': 1.0, 'F': 2.0, 'Eu': 2.0}",FALSE
+XeY2C7,"['Xe', 'Y', 'C']","['Xe - Non-Metal', 'Y - Metal', 'C - Non-Metal']","[2.6, 1.22, 2.55]",3,"{'Xe': 1.0, 'Y': 2.0, 'C': 7.0}",FALSE
+Pt2Po3,"['Pt', 'Po']","['Pt - Metal', 'Po - Non-Metal']","[2.28, 2.0]",2,"{'Pt': 2.0, 'Po': 3.0}",FALSE
+GdAt,"['Gd', 'At']","['Gd - Metal', 'At - Non-Metal']","[1.2, 2.2]",2,"{'Gd': 1.0, 'At': 1.0}",TRUE
+TaGe5,"['Ta', 'Ge']","['Ta - Metal', 'Ge - Non-Metal']","[1.5, 2.01]",2,"{'Ta': 1.0, 'Ge': 5.0}",TRUE
+Ir2O5,"['Ir', 'O']","['Ir - Metal', 'O - Non-Metal']","[2.2, 3.44]",2,"{'Ir': 2.0, 'O': 5.0}",FALSE
+KrTc2W2Mo6,"['Kr', 'Tc', 'W', 'Mo']","['Kr - Non-Metal', 'Tc - Metal', 'W - Metal', 'Mo - Metal']","[3.0, 1.9, 2.36, 2.16]",4,"{'Kr': 1.0, 'Tc': 2.0, 'W': 2.0, 'Mo': 6.0}",FALSE
+OWTl5,"['O', 'W', 'Tl']","['O - Non-Metal', 'W - Metal', 'Tl - Metal']","[3.44, 2.36, 1.62]",3,"{'O': 1.0, 'W': 1.0, 'Tl': 5.0}",FALSE
+KFeRn,"['K', 'Fe', 'Rn']","['K - Metal', 'Fe - Metal', 'Rn - Non-Metal']","[0.82, 1.83, 2.2]",3,"{'K': 1.0, 'Fe': 1.0, 'Rn': 1.0}",TRUE
+OTbNi5,"['O', 'Tb', 'Ni']","['O - Non-Metal', 'Tb - Metal', 'Ni - Metal']","[3.44, 1.1, 1.91]",3,"{'O': 1.0, 'Tb': 1.0, 'Ni': 5.0}",FALSE
+YPbBi3,"['Y', 'Pb', 'Bi']","['Y - Metal', 'Pb - Metal', 'Bi - Metal']","[1.22, 2.33, 2.02]",3,"{'Y': 1.0, 'Pb': 1.0, 'Bi': 3.0}",TRUE
+AtZr2B3V6,"['At', 'Zr', 'B', 'V']","['At - Non-Metal', 'Zr - Metal', 'B - Non-Metal', 'V - Metal']","[2.2, 1.33, 2.04, 1.63]",4,"{'At': 1.0, 'Zr': 2.0, 'B': 3.0, 'V': 6.0}",TRUE
+UAt3,"['U', 'At']","['U - Metal', 'At - Non-Metal']","[1.38, 2.2]",2,"{'U': 1.0, 'At': 3.0}",TRUE
+O2La3Se5,"['O', 'La', 'Se']","['O - Non-Metal', 'La - Metal', 'Se - Non-Metal']","[3.44, 1.1, 2.55]",3,"{'O': 2.0, 'La': 3.0, 'Se': 5.0}",FALSE
+Cl2Os2Cr5,"['Cl', 'Os', 'Cr']","['Cl - Non-Metal', 'Os - Metal', 'Cr - Metal']","[3.16, 2.2, 1.66]",3,"{'Cl': 2.0, 'Os': 2.0, 'Cr': 5.0}",FALSE
+CmCl3,"['Cm', 'Cl']","['Cm - Metal', 'Cl - Non-Metal']","[1.3, 3.16]",2,"{'Cm': 1.0, 'Cl': 3.0}",FALSE
+EsS4,"['Es', 'S']","['Es - Metal', 'S - Non-Metal']","[1.3, 2.58]",2,"{'Es': 1.0, 'S': 4.0}",TRUE
+VPo5B6,"['V', 'Po', 'B']","['V - Metal', 'Po - Non-Metal', 'B - Non-Metal']","[1.63, 2.0, 2.04]",3,"{'V': 1.0, 'Po': 5.0, 'B': 6.0}",TRUE
+ClCuIr8,"['Cl', 'Cu', 'Ir']","['Cl - Non-Metal', 'Cu - Metal', 'Ir - Metal']","[3.16, 1.9, 2.2]",3,"{'Cl': 1.0, 'Cu': 1.0, 'Ir': 8.0}",FALSE
+RnN3,"['Rn', 'N']","['Rn - Non-Metal', 'N - Non-Metal']","[2.2, 3.04]",2,"{'Rn': 1.0, 'N': 3.0}",FALSE
+CIYb3V7,"['C', 'I', 'Yb', 'V']","['C - Non-Metal', 'I - Non-Metal', 'Yb - Metal', 'V - Metal']","[2.55, 2.66, 1.1, 1.63]",4,"{'C': 1.0, 'I': 1.0, 'Yb': 3.0, 'V': 7.0}",TRUE
+ORh3Si4,"['O', 'Rh', 'Si']","['O - Non-Metal', 'Rh - Metal', 'Si - Non-Metal']","[3.44, 2.28, 1.9]",3,"{'O': 1.0, 'Rh': 3.0, 'Si': 4.0}",FALSE
+CoN4,"['Co', 'N']","['Co - Metal', 'N - Non-Metal']","[1.88, 3.04]",2,"{'Co': 1.0, 'N': 4.0}",FALSE
+COs,"['C', 'Os']","['C - Non-Metal', 'Os - Metal']","[2.55, 2.2]",2,"{'C': 1.0, 'Os': 1.0}",FALSE
+SeOsMn2Cm2B4,"['Se', 'Os', 'Mn', 'Cm', 'B']","['Se - Non-Metal', 'Os - Metal', 'Mn - Metal', 'Cm - Metal', 'B - Non-Metal']","[2.55, 2.2, 1.55, 1.3, 2.04]",5,"{'Se': 1.0, 'Os': 1.0, 'Mn': 2.0, 'Cm': 2.0, 'B': 4.0}",TRUE
+U2O3,"['U', 'O']","['U - Metal', 'O - Non-Metal']","[1.38, 3.44]",2,"{'U': 2.0, 'O': 3.0}",FALSE
+As2Ir3P4,"['As', 'Ir', 'P']","['As - Non-Metal', 'Ir - Metal', 'P - Non-Metal']","[2.18, 2.2, 2.19]",3,"{'As': 2.0, 'Ir': 3.0, 'P': 4.0}",FALSE
+ICl3Ru4Ti5,"['I', 'Cl', 'Ru', 'Ti']","['I - Non-Metal', 'Cl - Non-Metal', 'Ru - Metal', 'Ti - Metal']","[2.66, 3.16, 2.2, 1.54]",4,"{'I': 1.0, 'Cl': 3.0, 'Ru': 4.0, 'Ti': 5.0}",FALSE
+RbI,"['Rb', 'I']","['Rb - Metal', 'I - Non-Metal']","[0.82, 2.66]",2,"{'Rb': 1.0, 'I': 1.0}",TRUE
+KrEr2Te4,"['Kr', 'Er', 'Te']","['Kr - Non-Metal', 'Er - Metal', 'Te - Non-Metal']","[3.0, 1.24, 2.1]",3,"{'Kr': 1.0, 'Er': 2.0, 'Te': 4.0}",FALSE
+P2Re2Ni3,"['P', 'Re', 'Ni']","['P - Non-Metal', 'Re - Metal', 'Ni - Metal']","[2.19, 1.9, 1.91]",3,"{'P': 2.0, 'Re': 2.0, 'Ni': 3.0}",TRUE
+InC3At3,"['In', 'C', 'At']","['In - Metal', 'C - Non-Metal', 'At - Non-Metal']","[1.78, 2.55, 2.2]",3,"{'In': 1.0, 'C': 3.0, 'At': 3.0}",FALSE
+SClSb4,"['S', 'Cl', 'Sb']","['S - Non-Metal', 'Cl - Non-Metal', 'Sb - Non-Metal']","[2.58, 3.16, 2.05]",3,"{'S': 1.0, 'Cl': 1.0, 'Sb': 4.0}",FALSE
+Mn2I3P5,"['Mn', 'I', 'P']","['Mn - Metal', 'I - Non-Metal', 'P - Non-Metal']","[1.55, 2.66, 2.19]",3,"{'Mn': 2.0, 'I': 3.0, 'P': 5.0}",FALSE
+ClCo2,"['Cl', 'Co']","['Cl - Non-Metal', 'Co - Metal']","[3.16, 1.88]",2,"{'Cl': 1.0, 'Co': 2.0}",FALSE
+BrAs3In6,"['Br', 'As', 'In']","['Br - Non-Metal', 'As - Non-Metal', 'In - Metal']","[2.96, 2.18, 1.78]",3,"{'Br': 1.0, 'As': 3.0, 'In': 6.0}",FALSE
+F2Mo4Co5,"['F', 'Mo', 'Co']","['F - Non-Metal', 'Mo - Metal', 'Co - Metal']","[3.98, 2.16, 1.88]",3,"{'F': 2.0, 'Mo': 4.0, 'Co': 5.0}",FALSE
+CoNiSn,"['Co', 'Ni', 'Sn']","['Co - Metal', 'Ni - Metal', 'Sn - Metal']","[1.88, 1.91, 1.96]",3,"{'Co': 1.0, 'Ni': 1.0, 'Sn': 1.0}",TRUE
+BrMg2Ir3Re8,"['Br', 'Mg', 'Ir', 'Re']","['Br - Non-Metal', 'Mg - Metal', 'Ir - Metal', 'Re - Metal']","[2.96, 1.31, 2.2, 1.9]",4,"{'Br': 1.0, 'Mg': 2.0, 'Ir': 3.0, 'Re': 8.0}",TRUE
+EsAt3,"['Es', 'At']","['Es - Metal', 'At - Non-Metal']","[1.3, 2.2]",2,"{'Es': 1.0, 'At': 3.0}",TRUE
+PCoOs2As6,"['P', 'Co', 'Os', 'As']","['P - Non-Metal', 'Co - Metal', 'Os - Metal', 'As - Non-Metal']","[2.19, 1.88, 2.2, 2.18]",4,"{'P': 1.0, 'Co': 1.0, 'Os': 2.0, 'As': 6.0}",FALSE
+XeTlCmFe3,"['Xe', 'Tl', 'Cm', 'Fe']","['Xe - Non-Metal', 'Tl - Metal', 'Cm - Metal', 'Fe - Metal']","[2.6, 1.62, 1.3, 1.83]",4,"{'Xe': 1.0, 'Tl': 1.0, 'Cm': 1.0, 'Fe': 3.0}",TRUE
+Ru2F5Mo5,"['Ru', 'F', 'Mo']","['Ru - Metal', 'F - Non-Metal', 'Mo - Metal']","[2.2, 3.98, 2.16]",3,"{'Ru': 2.0, 'F': 5.0, 'Mo': 5.0}",FALSE
+KSeGe2,"['K', 'Se', 'Ge']","['K - Metal', 'Se - Non-Metal', 'Ge - Non-Metal']","[0.82, 2.55, 2.01]",3,"{'K': 1.0, 'Se': 1.0, 'Ge': 2.0}",TRUE
+H2Zr3V4Cl5,"['H', 'Zr', 'V', 'Cl']","['H - Unknown', 'Zr - Metal', 'V - Metal', 'Cl - Non-Metal']","[2.2, 1.33, 1.63, 3.16]",4,"{'H': 2.0, 'Zr': 3.0, 'V': 4.0, 'Cl': 5.0}",TRUE
+RuAl5Po5,"['Ru', 'Al', 'Po']","['Ru - Metal', 'Al - Metal', 'Po - Non-Metal']","[2.2, 1.61, 2.0]",3,"{'Ru': 1.0, 'Al': 5.0, 'Po': 5.0}",TRUE
+Rn2Si3Tl5,"['Rn', 'Si', 'Tl']","['Rn - Non-Metal', 'Si - Non-Metal', 'Tl - Metal']","[2.2, 1.9, 1.62]",3,"{'Rn': 2.0, 'Si': 3.0, 'Tl': 5.0}",TRUE
+BMgTe3Mn7,"['B', 'Mg', 'Te', 'Mn']","['B - Non-Metal', 'Mg - Metal', 'Te - Non-Metal', 'Mn - Metal']","[2.04, 1.31, 2.1, 1.55]",4,"{'B': 1.0, 'Mg': 1.0, 'Te': 3.0, 'Mn': 7.0}",TRUE
+SrPt2At3,"['Sr', 'Pt', 'At']","['Sr - Metal', 'Pt - Metal', 'At - Non-Metal']","[0.95, 2.28, 2.2]",3,"{'Sr': 1.0, 'Pt': 2.0, 'At': 3.0}",TRUE
+Po2U2Mn3,"['Po', 'U', 'Mn']","['Po - Non-Metal', 'U - Metal', 'Mn - Metal']","[2.0, 1.38, 1.55]",3,"{'Po': 2.0, 'U': 2.0, 'Mn': 3.0}",TRUE
+TaCl3,"['Ta', 'Cl']","['Ta - Metal', 'Cl - Non-Metal']","[1.5, 3.16]",2,"{'Ta': 1.0, 'Cl': 3.0}",FALSE
+Ta2Po5,"['Ta', 'Po']","['Ta - Metal', 'Po - Non-Metal']","[1.5, 2.0]",2,"{'Ta': 2.0, 'Po': 5.0}",TRUE
+AcS3,"['Ac', 'S']","['Ac - Metal', 'S - Non-Metal']","[1.1, 2.58]",2,"{'Ac': 1.0, 'S': 3.0}",TRUE
+ClN2Te2,"['Cl', 'N', 'Te']","['Cl - Non-Metal', 'N - Non-Metal', 'Te - Non-Metal']","[3.16, 3.04, 2.1]",3,"{'Cl': 1.0, 'N': 2.0, 'Te': 2.0}",FALSE
+P2Po3Hg6,"['P', 'Po', 'Hg']","['P - Non-Metal', 'Po - Non-Metal', 'Hg - Metal']","[2.19, 2.0, 2.0]",3,"{'P': 2.0, 'Po': 3.0, 'Hg': 6.0}",TRUE
+ClSm3Ni8,"['Cl', 'Sm', 'Ni']","['Cl - Non-Metal', 'Sm - Metal', 'Ni - Metal']","[3.16, 1.17, 1.91]",3,"{'Cl': 1.0, 'Sm': 3.0, 'Ni': 8.0}",TRUE
+SePm,"['Se', 'Pm']","['Se - Non-Metal', 'Pm - Metal']","[2.55, 1.13]",2,"{'Se': 1.0, 'Pm': 1.0}",TRUE
+PuNb2O4,"['Pu', 'Nb', 'O']","['Pu - Metal', 'Nb - Metal', 'O - Non-Metal']","[1.28, 1.6, 3.44]",3,"{'Pu': 1.0, 'Nb': 2.0, 'O': 4.0}",FALSE
+RnBr2Te3,"['Rn', 'Br', 'Te']","['Rn - Non-Metal', 'Br - Non-Metal', 'Te - Non-Metal']","[2.2, 2.96, 2.1]",3,"{'Rn': 1.0, 'Br': 2.0, 'Te': 3.0}",FALSE
+InSb2Ta2,"['In', 'Sb', 'Ta']","['In - Metal', 'Sb - Non-Metal', 'Ta - Metal']","[1.78, 2.05, 1.5]",3,"{'In': 1.0, 'Sb': 2.0, 'Ta': 2.0}",TRUE
+OAl2Ti4,"['O', 'Al', 'Ti']","['O - Non-Metal', 'Al - Metal', 'Ti - Metal']","[3.44, 1.61, 1.54]",3,"{'O': 1.0, 'Al': 2.0, 'Ti': 4.0}",FALSE
+SbTeMg4Os5,"['Sb', 'Te', 'Mg', 'Os']","['Sb - Non-Metal', 'Te - Non-Metal', 'Mg - Metal', 'Os - Metal']","[2.05, 2.1, 1.31, 2.2]",4,"{'Sb': 1.0, 'Te': 1.0, 'Mg': 4.0, 'Os': 5.0}",TRUE
+SReMg3,"['S', 'Re', 'Mg']","['S - Non-Metal', 'Re - Metal', 'Mg - Metal']","[2.58, 1.9, 1.31]",3,"{'S': 1.0, 'Re': 1.0, 'Mg': 3.0}",TRUE
+Re3Ge4,"['Re', 'Ge']","['Re - Metal', 'Ge - Non-Metal']","[1.9, 2.01]",2,"{'Re': 3.0, 'Ge': 4.0}",TRUE
+Ho2O3,"['Ho', 'O']","['Ho - Metal', 'O - Non-Metal']","[1.23, 3.44]",2,"{'Ho': 2.0, 'O': 3.0}",FALSE
+Ru2Tm4S5,"['Ru', 'Tm', 'S']","['Ru - Metal', 'Tm - Metal', 'S - Non-Metal']","[2.2, 1.25, 2.58]",3,"{'Ru': 2.0, 'Tm': 4.0, 'S': 5.0}",TRUE
+XeSe2C4,"['Xe', 'Se', 'C']","['Xe - Non-Metal', 'Se - Non-Metal', 'C - Non-Metal']","[2.6, 2.55, 2.55]",3,"{'Xe': 1.0, 'Se': 2.0, 'C': 4.0}",FALSE
+FeAtTe4,"['Fe', 'At', 'Te']","['Fe - Metal', 'At - Non-Metal', 'Te - Non-Metal']","[1.83, 2.2, 2.1]",3,"{'Fe': 1.0, 'At': 1.0, 'Te': 4.0}",TRUE
+BN3,"['B', 'N']","['B - Non-Metal', 'N - Non-Metal']","[2.04, 3.04]",2,"{'B': 1.0, 'N': 3.0}",FALSE
+MdSi3S5,"['Md', 'Si', 'S']","['Md - Metal', 'Si - Non-Metal', 'S - Non-Metal']","[1.3, 1.9, 2.58]",3,"{'Md': 1.0, 'Si': 3.0, 'S': 5.0}",TRUE
+YbTl3,"['Yb', 'Tl']","['Yb - Metal', 'Tl - Metal']","[1.1, 1.62]",2,"{'Yb': 1.0, 'Tl': 3.0}",TRUE
+NiBr3C5,"['Ni', 'Br', 'C']","['Ni - Metal', 'Br - Non-Metal', 'C - Non-Metal']","[1.91, 2.96, 2.55]",3,"{'Ni': 1.0, 'Br': 3.0, 'C': 5.0}",FALSE
+NGe2Rh3,"['N', 'Ge', 'Rh']","['N - Non-Metal', 'Ge - Non-Metal', 'Rh - Metal']","[3.04, 2.01, 2.28]",3,"{'N': 1.0, 'Ge': 2.0, 'Rh': 3.0}",FALSE
+TmZr4Sb6,"['Tm', 'Zr', 'Sb']","['Tm - Metal', 'Zr - Metal', 'Sb - Non-Metal']","[1.25, 1.33, 2.05]",3,"{'Tm': 1.0, 'Zr': 4.0, 'Sb': 6.0}",TRUE
+Ru2Te3Co8,"['Ru', 'Te', 'Co']","['Ru - Metal', 'Te - Non-Metal', 'Co - Metal']","[2.2, 2.1, 1.88]",3,"{'Ru': 2.0, 'Te': 3.0, 'Co': 8.0}",TRUE
+ClMd2Co7,"['Cl', 'Md', 'Co']","['Cl - Non-Metal', 'Md - Metal', 'Co - Metal']","[3.16, 1.3, 1.88]",3,"{'Cl': 1.0, 'Md': 2.0, 'Co': 7.0}",FALSE
+S2Au4Os5,"['S', 'Au', 'Os']","['S - Non-Metal', 'Au - Metal', 'Os - Metal']","[2.58, 2.54, 2.2]",3,"{'S': 2.0, 'Au': 4.0, 'Os': 5.0}",FALSE
+TbPtPo2Au4,"['Tb', 'Pt', 'Po', 'Au']","['Tb - Metal', 'Pt - Metal', 'Po - Non-Metal', 'Au - Metal']","[1.1, 2.28, 2.0, 2.54]",4,"{'Tb': 1.0, 'Pt': 1.0, 'Po': 2.0, 'Au': 4.0}",TRUE
+VSn,"['V', 'Sn']","['V - Metal', 'Sn - Metal']","[1.63, 1.96]",2,"{'V': 1.0, 'Sn': 1.0}",TRUE
+ScPtNa2Se3,"['Sc', 'Pt', 'Na', 'Se']","['Sc - Metal', 'Pt - Metal', 'Na - Metal', 'Se - Non-Metal']","[1.36, 2.28, 0.93, 2.55]",4,"{'Sc': 1.0, 'Pt': 1.0, 'Na': 2.0, 'Se': 3.0}",TRUE
+FAm3Tc5,"['F', 'Am', 'Tc']","['F - Non-Metal', 'Am - Metal', 'Tc - Metal']","[3.98, 1.3, 1.9]",3,"{'F': 1.0, 'Am': 3.0, 'Tc': 5.0}",FALSE
+PdRh3S6,"['Pd', 'Rh', 'S']","['Pd - Metal', 'Rh - Metal', 'S - Non-Metal']","[2.2, 2.28, 2.58]",3,"{'Pd': 1.0, 'Rh': 3.0, 'S': 6.0}",FALSE
+NRu2,"['N', 'Ru']","['N - Non-Metal', 'Ru - Metal']","[3.04, 2.2]",2,"{'N': 1.0, 'Ru': 2.0}",FALSE
+TlCl3,"['Tl', 'Cl']","['Tl - Metal', 'Cl - Non-Metal']","[1.62, 3.16]",2,"{'Tl': 1.0, 'Cl': 3.0}",FALSE
+TiReLu3Se6,"['Ti', 'Re', 'Lu', 'Se']","['Ti - Metal', 'Re - Metal', 'Lu - Metal', 'Se - Non-Metal']","[1.54, 1.9, 1.27, 2.55]",4,"{'Ti': 1.0, 'Re': 1.0, 'Lu': 3.0, 'Se': 6.0}",TRUE
+SiMdNoI4Tc5,"['Si', 'Md', 'No', 'I', 'Tc']","['Si - Non-Metal', 'Md - Metal', 'No - Metal', 'I - Non-Metal', 'Tc - Metal']","[1.9, 1.3, 1.3, 2.66, 1.9]",5,"{'Si': 1.0, 'Md': 1.0, 'No': 1.0, 'I': 4.0, 'Tc': 5.0}",TRUE
+Pb2Mn3Cl4,"['Pb', 'Mn', 'Cl']","['Pb - Metal', 'Mn - Metal', 'Cl - Non-Metal']","[2.33, 1.55, 3.16]",3,"{'Pb': 2.0, 'Mn': 3.0, 'Cl': 4.0}",FALSE
+No2Cl3Si4Nb4,"['No', 'Cl', 'Si', 'Nb']","['No - Metal', 'Cl - Non-Metal', 'Si - Non-Metal', 'Nb - Metal']","[1.3, 3.16, 1.9, 1.6]",4,"{'No': 2.0, 'Cl': 3.0, 'Si': 4.0, 'Nb': 4.0}",TRUE
+CoTeW3Au5,"['Co', 'Te', 'W', 'Au']","['Co - Metal', 'Te - Non-Metal', 'W - Metal', 'Au - Metal']","[1.88, 2.1, 2.36, 2.54]",4,"{'Co': 1.0, 'Te': 1.0, 'W': 3.0, 'Au': 5.0}",FALSE
+C2Mo3Se5,"['C', 'Mo', 'Se']","['C - Non-Metal', 'Mo - Metal', 'Se - Non-Metal']","[2.55, 2.16, 2.55]",3,"{'C': 2.0, 'Mo': 3.0, 'Se': 5.0}",FALSE
+KrIEsYb3W7,"['Kr', 'I', 'Es', 'Yb', 'W']","['Kr - Non-Metal', 'I - Non-Metal', 'Es - Metal', 'Yb - Metal', 'W - Metal']","[3.0, 2.66, 1.3, 1.1, 2.36]",5,"{'Kr': 1.0, 'I': 1.0, 'Es': 1.0, 'Yb': 3.0, 'W': 7.0}",TRUE
+SSeTmAu7,"['S', 'Se', 'Tm', 'Au']","['S - Non-Metal', 'Se - Non-Metal', 'Tm - Metal', 'Au - Metal']","[2.58, 2.55, 1.25, 2.54]",4,"{'S': 1.0, 'Se': 1.0, 'Tm': 1.0, 'Au': 7.0}",FALSE
+KrPa2Cr5,"['Kr', 'Pa', 'Cr']","['Kr - Non-Metal', 'Pa - Metal', 'Cr - Metal']","[3.0, 1.5, 1.66]",3,"{'Kr': 1.0, 'Pa': 2.0, 'Cr': 5.0}",TRUE
+IP7,"['I', 'P']","['I - Non-Metal', 'P - Non-Metal']","[2.66, 2.19]",2,"{'I': 1.0, 'P': 7.0}",FALSE
+Tl2Es2Cl3Ir4,"['Tl', 'Es', 'Cl', 'Ir']","['Tl - Metal', 'Es - Metal', 'Cl - Non-Metal', 'Ir - Metal']","[1.62, 1.3, 3.16, 2.2]",4,"{'Tl': 2.0, 'Es': 2.0, 'Cl': 3.0, 'Ir': 4.0}",TRUE
+CmCl2H4,"['Cm', 'Cl', 'H']","['Cm - Metal', 'Cl - Non-Metal', 'H - Unknown']","[1.3, 3.16, 2.2]",3,"{'Cm': 1.0, 'Cl': 2.0, 'H': 4.0}",FALSE
+PuS4,"['Pu', 'S']","['Pu - Metal', 'S - Non-Metal']","[1.28, 2.58]",2,"{'Pu': 1.0, 'S': 4.0}",TRUE
+BrGe5,"['Br', 'Ge']","['Br - Non-Metal', 'Ge - Non-Metal']","[2.96, 2.01]",2,"{'Br': 1.0, 'Ge': 5.0}",FALSE
+Br2Fe5Ti7,"['Br', 'Fe', 'Ti']","['Br - Non-Metal', 'Fe - Metal', 'Ti - Metal']","[2.96, 1.83, 1.54]",3,"{'Br': 2.0, 'Fe': 5.0, 'Ti': 7.0}",FALSE
+Au2Tc3S4,"['Au', 'Tc', 'S']","['Au - Metal', 'Tc - Metal', 'S - Non-Metal']","[2.54, 1.9, 2.58]",3,"{'Au': 2.0, 'Tc': 3.0, 'S': 4.0}",FALSE
+N3As4,"['N', 'As']","['N - Non-Metal', 'As - Non-Metal']","[3.04, 2.18]",2,"{'N': 3.0, 'As': 4.0}",FALSE
+NdGd3S4,"['Nd', 'Gd', 'S']","['Nd - Metal', 'Gd - Metal', 'S - Non-Metal']","[1.14, 1.2, 2.58]",3,"{'Nd': 1.0, 'Gd': 3.0, 'S': 4.0}",TRUE
+TiS2Cr3Co4Po4,"['Ti', 'S', 'Cr', 'Co', 'Po']","['Ti - Metal', 'S - Non-Metal', 'Cr - Metal', 'Co - Metal', 'Po - Non-Metal']","[1.54, 2.58, 1.66, 1.88, 2.0]",5,"{'Ti': 1.0, 'S': 2.0, 'Cr': 3.0, 'Co': 4.0, 'Po': 4.0}",TRUE
+PoRu2,"['Po', 'Ru']","['Po - Non-Metal', 'Ru - Metal']","[2.0, 2.2]",2,"{'Po': 1.0, 'Ru': 2.0}",TRUE
+CfSb3Se6,"['Cf', 'Sb', 'Se']","['Cf - Metal', 'Sb - Non-Metal', 'Se - Non-Metal']","[1.3, 2.05, 2.55]",3,"{'Cf': 1.0, 'Sb': 3.0, 'Se': 6.0}",TRUE
+BrC3Pr5,"['Br', 'C', 'Pr']","['Br - Non-Metal', 'C - Non-Metal', 'Pr - Metal']","[2.96, 2.55, 1.13]",3,"{'Br': 1.0, 'C': 3.0, 'Pr': 5.0}",FALSE
+Te3Os3Er4,"['Te', 'Os', 'Er']","['Te - Non-Metal', 'Os - Metal', 'Er - Metal']","[2.1, 2.2, 1.24]",3,"{'Te': 3.0, 'Os': 3.0, 'Er': 4.0}",TRUE
+NiRuI2,"['Ni', 'Ru', 'I']","['Ni - Metal', 'Ru - Metal', 'I - Non-Metal']","[1.91, 2.2, 2.66]",3,"{'Ni': 1.0, 'Ru': 1.0, 'I': 2.0}",FALSE
+Sn2Au2Po2C3,"['Sn', 'Au', 'Po', 'C']","['Sn - Metal', 'Au - Metal', 'Po - Non-Metal', 'C - Non-Metal']","[1.96, 2.54, 2.0, 2.55]",4,"{'Sn': 2.0, 'Au': 2.0, 'Po': 2.0, 'C': 3.0}",FALSE
+SClGaPt2Md2,"['S', 'Cl', 'Ga', 'Pt', 'Md']","['S - Non-Metal', 'Cl - Non-Metal', 'Ga - Metal', 'Pt - Metal', 'Md - Metal']","[2.58, 3.16, 1.81, 2.28, 1.3]",5,"{'S': 1.0, 'Cl': 1.0, 'Ga': 1.0, 'Pt': 2.0, 'Md': 2.0}",FALSE
+OC3Rh4,"['O', 'C', 'Rh']","['O - Non-Metal', 'C - Non-Metal', 'Rh - Metal']","[3.44, 2.55, 2.28]",3,"{'O': 1.0, 'C': 3.0, 'Rh': 4.0}",FALSE
+PbSe4,"['Pb', 'Se']","['Pb - Metal', 'Se - Non-Metal']","[2.33, 2.55]",2,"{'Pb': 1.0, 'Se': 4.0}",FALSE
+BePb2Th2Si3I3,"['Be', 'Pb', 'Th', 'Si', 'I']","['Be - Metal', 'Pb - Metal', 'Th - Metal', 'Si - Non-Metal', 'I - Non-Metal']","[1.57, 2.33, 1.3, 1.9, 2.66]",5,"{'Be': 1.0, 'Pb': 2.0, 'Th': 2.0, 'Si': 3.0, 'I': 3.0}",TRUE
+AlBr3Ir3,"['Al', 'Br', 'Ir']","['Al - Metal', 'Br - Non-Metal', 'Ir - Metal']","[1.61, 2.96, 2.2]",3,"{'Al': 1.0, 'Br': 3.0, 'Ir': 3.0}",FALSE
+ReCl3,"['Re', 'Cl']","['Re - Metal', 'Cl - Non-Metal']","[1.9, 3.16]",2,"{'Re': 1.0, 'Cl': 3.0}",FALSE
+RaF2,"['Ra', 'F']","['Ra - Metal', 'F - Non-Metal']","[0.9, 3.98]",2,"{'Ra': 1.0, 'F': 2.0}",FALSE
+U2Se3,"['U', 'Se']","['U - Metal', 'Se - Non-Metal']","[1.38, 2.55]",2,"{'U': 2.0, 'Se': 3.0}",TRUE
+HoF2W4Re5,"['Ho', 'F', 'W', 'Re']","['Ho - Metal', 'F - Non-Metal', 'W - Metal', 'Re - Metal']","[1.23, 3.98, 2.36, 1.9]",4,"{'Ho': 1.0, 'F': 2.0, 'W': 4.0, 'Re': 5.0}",FALSE
+Mn3At3Re5,"['Mn', 'At', 'Re']","['Mn - Metal', 'At - Non-Metal', 'Re - Metal']","[1.55, 2.2, 1.9]",3,"{'Mn': 3.0, 'At': 3.0, 'Re': 5.0}",TRUE
+FeNiWCl2Ag2,"['Fe', 'Ni', 'W', 'Cl', 'Ag']","['Fe - Metal', 'Ni - Metal', 'W - Metal', 'Cl - Non-Metal', 'Ag - Metal']","[1.83, 1.91, 2.36, 3.16, 1.93]",5,"{'Fe': 1.0, 'Ni': 1.0, 'W': 1.0, 'Cl': 2.0, 'Ag': 2.0}",FALSE
+KrOsTe2,"['Kr', 'Os', 'Te']","['Kr - Non-Metal', 'Os - Metal', 'Te - Non-Metal']","[3.0, 2.2, 2.1]",3,"{'Kr': 1.0, 'Os': 1.0, 'Te': 2.0}",FALSE
+ScCl3,"['Sc', 'Cl']","['Sc - Metal', 'Cl - Non-Metal']","[1.36, 3.16]",2,"{'Sc': 1.0, 'Cl': 3.0}",FALSE
+MgGdBe2Re2Br3,"['Mg', 'Gd', 'Be', 'Re', 'Br']","['Mg - Metal', 'Gd - Metal', 'Be - Metal', 'Re - Metal', 'Br - Non-Metal']","[1.31, 1.2, 1.57, 1.9, 2.96]",5,"{'Mg': 1.0, 'Gd': 1.0, 'Be': 2.0, 'Re': 2.0, 'Br': 3.0}",TRUE
+ThBr2P7,"['Th', 'Br', 'P']","['Th - Metal', 'Br - Non-Metal', 'P - Non-Metal']","[1.3, 2.96, 2.19]",3,"{'Th': 1.0, 'Br': 2.0, 'P': 7.0}",FALSE
+TeAu6,"['Te', 'Au']","['Te - Non-Metal', 'Au - Metal']","[2.1, 2.54]",2,"{'Te': 1.0, 'Au': 6.0}",FALSE
+NW3,"['N', 'W']","['N - Non-Metal', 'W - Metal']","[3.04, 2.36]",2,"{'N': 1.0, 'W': 3.0}",FALSE
+TePt2,"['Te', 'Pt']","['Te - Non-Metal', 'Pt - Metal']","[2.1, 2.28]",2,"{'Te': 1.0, 'Pt': 2.0}",FALSE
+ClInRe3Mo4C5,"['Cl', 'In', 'Re', 'Mo', 'C']","['Cl - Non-Metal', 'In - Metal', 'Re - Metal', 'Mo - Metal', 'C - Non-Metal']","[3.16, 1.78, 1.9, 2.16, 2.55]",5,"{'Cl': 1.0, 'In': 1.0, 'Re': 3.0, 'Mo': 4.0, 'C': 5.0}",FALSE
+Fe2Re3At3,"['Fe', 'Re', 'At']","['Fe - Metal', 'Re - Metal', 'At - Non-Metal']","[1.83, 1.9, 2.2]",3,"{'Fe': 2.0, 'Re': 3.0, 'At': 3.0}",TRUE
+Os2C3,"['Os', 'C']","['Os - Metal', 'C - Non-Metal']","[2.2, 2.55]",2,"{'Os': 2.0, 'C': 3.0}",FALSE
+DyMn2As2P4,"['Dy', 'Mn', 'As', 'P']","['Dy - Metal', 'Mn - Metal', 'As - Non-Metal', 'P - Non-Metal']","[1.22, 1.55, 2.18, 2.19]",4,"{'Dy': 1.0, 'Mn': 2.0, 'As': 2.0, 'P': 4.0}",TRUE
+TaRnC2Ge7,"['Ta', 'Rn', 'C', 'Ge']","['Ta - Metal', 'Rn - Non-Metal', 'C - Non-Metal', 'Ge - Non-Metal']","[1.5, 2.2, 2.55, 2.01]",4,"{'Ta': 1.0, 'Rn': 1.0, 'C': 2.0, 'Ge': 7.0}",TRUE
+AmP3,"['Am', 'P']","['Am - Metal', 'P - Non-Metal']","[1.3, 2.19]",2,"{'Am': 1.0, 'P': 3.0}",TRUE
+SRe3,"['S', 'Re']","['S - Non-Metal', 'Re - Metal']","[2.58, 1.9]",2,"{'S': 1.0, 'Re': 3.0}",FALSE
+FLu2Mn5,"['F', 'Lu', 'Mn']","['F - Non-Metal', 'Lu - Metal', 'Mn - Metal']","[3.98, 1.27, 1.55]",3,"{'F': 1.0, 'Lu': 2.0, 'Mn': 5.0}",FALSE
+P2Cd2Se3,"['P', 'Cd', 'Se']","['P - Non-Metal', 'Cd - Metal', 'Se - Non-Metal']","[2.19, 1.69, 2.55]",3,"{'P': 2.0, 'Cd': 2.0, 'Se': 3.0}",FALSE
+PaTe2,"['Pa', 'Te']","['Pa - Metal', 'Te - Non-Metal']","[1.5, 2.1]",2,"{'Pa': 1.0, 'Te': 2.0}",TRUE
+PtSi2,"['Pt', 'Si']","['Pt - Metal', 'Si - Non-Metal']","[2.28, 1.9]",2,"{'Pt': 1.0, 'Si': 2.0}",TRUE
+OAs2Ti5,"['O', 'As', 'Ti']","['O - Non-Metal', 'As - Non-Metal', 'Ti - Metal']","[3.44, 2.18, 1.54]",3,"{'O': 1.0, 'As': 2.0, 'Ti': 5.0}",FALSE
+SmSe3Ru3,"['Sm', 'Se', 'Ru']","['Sm - Metal', 'Se - Non-Metal', 'Ru - Metal']","[1.17, 2.55, 2.2]",3,"{'Sm': 1.0, 'Se': 3.0, 'Ru': 3.0}",TRUE
+WP4,"['W', 'P']","['W - Metal', 'P - Non-Metal']","[2.36, 2.19]",2,"{'W': 1.0, 'P': 4.0}",FALSE
+AmAt2Ir6,"['Am', 'At', 'Ir']","['Am - Metal', 'At - Non-Metal', 'Ir - Metal']","[1.3, 2.2, 2.2]",3,"{'Am': 1.0, 'At': 2.0, 'Ir': 6.0}",TRUE
+FeK2At4,"['Fe', 'K', 'At']","['Fe - Metal', 'K - Metal', 'At - Non-Metal']","[1.83, 0.82, 2.2]",3,"{'Fe': 1.0, 'K': 2.0, 'At': 4.0}",TRUE
+KrB2Tl4,"['Kr', 'B', 'Tl']","['Kr - Non-Metal', 'B - Non-Metal', 'Tl - Metal']","[3.0, 2.04, 1.62]",3,"{'Kr': 1.0, 'B': 2.0, 'Tl': 4.0}",FALSE
+AtV7,"['At', 'V']","['At - Non-Metal', 'V - Metal']","[2.2, 1.63]",2,"{'At': 1.0, 'V': 7.0}",TRUE
+S2Ge3Te4,"['S', 'Ge', 'Te']","['S - Non-Metal', 'Ge - Non-Metal', 'Te - Non-Metal']","[2.58, 2.01, 2.1]",3,"{'S': 2.0, 'Ge': 3.0, 'Te': 4.0}",FALSE
+BeMnGd2Co4Br4,"['Be', 'Mn', 'Gd', 'Co', 'Br']","['Be - Metal', 'Mn - Metal', 'Gd - Metal', 'Co - Metal', 'Br - Non-Metal']","[1.57, 1.55, 1.2, 1.88, 2.96]",5,"{'Be': 1.0, 'Mn': 1.0, 'Gd': 2.0, 'Co': 4.0, 'Br': 4.0}",TRUE
+PWBi,"['P', 'W', 'Bi']","['P - Non-Metal', 'W - Metal', 'Bi - Metal']","[2.19, 2.36, 2.02]",3,"{'P': 1.0, 'W': 1.0, 'Bi': 1.0}",FALSE
+Cl2Pt7,"['Cl', 'Pt']","['Cl - Non-Metal', 'Pt - Metal']","[3.16, 2.28]",2,"{'Cl': 2.0, 'Pt': 7.0}",FALSE
+S2Pu3Si4,"['S', 'Pu', 'Si']","['S - Non-Metal', 'Pu - Metal', 'Si - Non-Metal']","[2.58, 1.28, 1.9]",3,"{'S': 2.0, 'Pu': 3.0, 'Si': 4.0}",TRUE
+GaCo2Pb3S4,"['Ga', 'Co', 'Pb', 'S']","['Ga - Metal', 'Co - Metal', 'Pb - Metal', 'S - Non-Metal']","[1.81, 1.88, 2.33, 2.58]",4,"{'Ga': 1.0, 'Co': 2.0, 'Pb': 3.0, 'S': 4.0}",FALSE
+AsCo2,"['As', 'Co']","['As - Non-Metal', 'Co - Metal']","[2.18, 1.88]",2,"{'As': 1.0, 'Co': 2.0}",TRUE
+AsAt3,"['As', 'At']","['As - Non-Metal', 'At - Non-Metal']","[2.18, 2.2]",2,"{'As': 1.0, 'At': 3.0}",FALSE
+PtSe3Tb4,"['Pt', 'Se', 'Tb']","['Pt - Metal', 'Se - Non-Metal', 'Tb - Metal']","[2.28, 2.55, 1.1]",3,"{'Pt': 1.0, 'Se': 3.0, 'Tb': 4.0}",TRUE
+AmC3,"['Am', 'C']","['Am - Metal', 'C - Non-Metal']","[1.3, 2.55]",2,"{'Am': 1.0, 'C': 3.0}",TRUE
+FeN4,"['Fe', 'N']","['Fe - Metal', 'N - Non-Metal']","[1.83, 3.04]",2,"{'Fe': 1.0, 'N': 4.0}",FALSE
+BiN5,"['Bi', 'N']","['Bi - Metal', 'N - Non-Metal']","[2.02, 3.04]",2,"{'Bi': 1.0, 'N': 5.0}",FALSE
+PoMo5,"['Po', 'Mo']","['Po - Non-Metal', 'Mo - Metal']","[2.0, 2.16]",2,"{'Po': 1.0, 'Mo': 5.0}",TRUE
+SbGdMg3I3,"['Sb', 'Gd', 'Mg', 'I']","['Sb - Non-Metal', 'Gd - Metal', 'Mg - Metal', 'I - Non-Metal']","[2.05, 1.2, 1.31, 2.66]",4,"{'Sb': 1.0, 'Gd': 1.0, 'Mg': 3.0, 'I': 3.0}",TRUE
+SmBr3Ru4,"['Sm', 'Br', 'Ru']","['Sm - Metal', 'Br - Non-Metal', 'Ru - Metal']","[1.17, 2.96, 2.2]",3,"{'Sm': 1.0, 'Br': 3.0, 'Ru': 4.0}",FALSE
+TeOs3,"['Te', 'Os']","['Te - Non-Metal', 'Os - Metal']","[2.1, 2.2]",2,"{'Te': 1.0, 'Os': 3.0}",FALSE
+ZrRnFe3Tb3,"['Zr', 'Rn', 'Fe', 'Tb']","['Zr - Metal', 'Rn - Non-Metal', 'Fe - Metal', 'Tb - Metal']","[1.33, 2.2, 1.83, 1.1]",4,"{'Zr': 1.0, 'Rn': 1.0, 'Fe': 3.0, 'Tb': 3.0}",TRUE
+FKrNb,"['F', 'Kr', 'Nb']","['F - Non-Metal', 'Kr - Non-Metal', 'Nb - Metal']","[3.98, 3.0, 1.6]",3,"{'F': 1.0, 'Kr': 1.0, 'Nb': 1.0}",FALSE
+Po4Ge5,"['Po', 'Ge']","['Po - Non-Metal', 'Ge - Non-Metal']","[2.0, 2.01]",2,"{'Po': 4.0, 'Ge': 5.0}",TRUE
+AsO2,"['As', 'O']","['As - Non-Metal', 'O - Non-Metal']","[2.18, 3.44]",2,"{'As': 1.0, 'O': 2.0}",FALSE
+SbTm,"['Sb', 'Tm']","['Sb - Non-Metal', 'Tm - Metal']","[2.05, 1.25]",2,"{'Sb': 1.0, 'Tm': 1.0}",TRUE
+KrMdBr2Pt3Tl4,"['Kr', 'Md', 'Br', 'Pt', 'Tl']","['Kr - Non-Metal', 'Md - Metal', 'Br - Non-Metal', 'Pt - Metal', 'Tl - Metal']","[3.0, 1.3, 2.96, 2.28, 1.62]",5,"{'Kr': 1.0, 'Md': 1.0, 'Br': 2.0, 'Pt': 3.0, 'Tl': 4.0}",FALSE
+SeGe6,"['Se', 'Ge']","['Se - Non-Metal', 'Ge - Non-Metal']","[2.55, 2.01]",2,"{'Se': 1.0, 'Ge': 6.0}",FALSE
+TcP2Al5,"['Tc', 'P', 'Al']","['Tc - Metal', 'P - Non-Metal', 'Al - Metal']","[1.9, 2.19, 1.61]",3,"{'Tc': 1.0, 'P': 2.0, 'Al': 5.0}",TRUE
+IMo7,"['I', 'Mo']","['I - Non-Metal', 'Mo - Metal']","[2.66, 2.16]",2,"{'I': 1.0, 'Mo': 7.0}",FALSE
+XeP3Ni4,"['Xe', 'P', 'Ni']","['Xe - Non-Metal', 'P - Non-Metal', 'Ni - Metal']","[2.6, 2.19, 1.91]",3,"{'Xe': 1.0, 'P': 3.0, 'Ni': 4.0}",FALSE
+Cl2Pd2Ru7,"['Cl', 'Pd', 'Ru']","['Cl - Non-Metal', 'Pd - Metal', 'Ru - Metal']","[3.16, 2.2, 2.2]",3,"{'Cl': 2.0, 'Pd': 2.0, 'Ru': 7.0}",FALSE
+PoCl6,"['Po', 'Cl']","['Po - Non-Metal', 'Cl - Non-Metal']","[2.0, 3.16]",2,"{'Po': 1.0, 'Cl': 6.0}",FALSE
+AsC2Bi6,"['As', 'C', 'Bi']","['As - Non-Metal', 'C - Non-Metal', 'Bi - Metal']","[2.18, 2.55, 2.02]",3,"{'As': 1.0, 'C': 2.0, 'Bi': 6.0}",FALSE
+Ni2Ge3,"['Ni', 'Ge']","['Ni - Metal', 'Ge - Non-Metal']","[1.91, 2.01]",2,"{'Ni': 2.0, 'Ge': 3.0}",TRUE
+YC3As4,"['Y', 'C', 'As']","['Y - Metal', 'C - Non-Metal', 'As - Non-Metal']","[1.22, 2.55, 2.18]",3,"{'Y': 1.0, 'C': 3.0, 'As': 4.0}",TRUE
+FPt,"['F', 'Pt']","['F - Non-Metal', 'Pt - Metal']","[3.98, 2.28]",2,"{'F': 1.0, 'Pt': 1.0}",FALSE
+SrI3Nb5,"['Sr', 'I', 'Nb']","['Sr - Metal', 'I - Non-Metal', 'Nb - Metal']","[0.95, 2.66, 1.6]",3,"{'Sr': 1.0, 'I': 3.0, 'Nb': 5.0}",TRUE
+CoSeTe4,"['Co', 'Se', 'Te']","['Co - Metal', 'Se - Non-Metal', 'Te - Non-Metal']","[1.88, 2.55, 2.1]",3,"{'Co': 1.0, 'Se': 1.0, 'Te': 4.0}",FALSE
+IrGe2,"['Ir', 'Ge']","['Ir - Metal', 'Ge - Non-Metal']","[2.2, 2.01]",2,"{'Ir': 1.0, 'Ge': 2.0}",FALSE
+AlFeI6,"['Al', 'Fe', 'I']","['Al - Metal', 'Fe - Metal', 'I - Non-Metal']","[1.61, 1.83, 2.66]",3,"{'Al': 1.0, 'Fe': 1.0, 'I': 6.0}",TRUE
+CI2P3Ho5,"['C', 'I', 'P', 'Ho']","['C - Non-Metal', 'I - Non-Metal', 'P - Non-Metal', 'Ho - Metal']","[2.55, 2.66, 2.19, 1.23]",4,"{'C': 1.0, 'I': 2.0, 'P': 3.0, 'Ho': 5.0}",FALSE
+Mn2S4Re5,"['Mn', 'S', 'Re']","['Mn - Metal', 'S - Non-Metal', 'Re - Metal']","[1.55, 2.58, 1.9]",3,"{'Mn': 2.0, 'S': 4.0, 'Re': 5.0}",TRUE
+CeTl3,"['Ce', 'Tl']","['Ce - Metal', 'Tl - Metal']","[1.12, 1.62]",2,"{'Ce': 1.0, 'Tl': 3.0}",TRUE
+Al2Xe3Mo8,"['Al', 'Xe', 'Mo']","['Al - Metal', 'Xe - Non-Metal', 'Mo - Metal']","[1.61, 2.6, 2.16]",3,"{'Al': 2.0, 'Xe': 3.0, 'Mo': 8.0}",FALSE
+XeRe4,"['Xe', 'Re']","['Xe - Non-Metal', 'Re - Metal']","[2.6, 1.9]",2,"{'Xe': 1.0, 'Re': 4.0}",FALSE
+PoFe5,"['Po', 'Fe']","['Po - Non-Metal', 'Fe - Metal']","[2.0, 1.83]",2,"{'Po': 1.0, 'Fe': 5.0}",TRUE
+PoSn3Gd3,"['Po', 'Sn', 'Gd']","['Po - Non-Metal', 'Sn - Metal', 'Gd - Metal']","[2.0, 1.96, 1.2]",3,"{'Po': 1.0, 'Sn': 3.0, 'Gd': 3.0}",TRUE
+BeGaGeI4,"['Be', 'Ga', 'Ge', 'I']","['Be - Metal', 'Ga - Metal', 'Ge - Non-Metal', 'I - Non-Metal']","[1.57, 1.81, 2.01, 2.66]",4,"{'Be': 1.0, 'Ga': 1.0, 'Ge': 1.0, 'I': 4.0}",TRUE
+GdBk2S4Ir6,"['Gd', 'Bk', 'S', 'Ir']","['Gd - Metal', 'Bk - Metal', 'S - Non-Metal', 'Ir - Metal']","[1.2, 1.3, 2.58, 2.2]",4,"{'Gd': 1.0, 'Bk': 2.0, 'S': 4.0, 'Ir': 6.0}",TRUE
+NaSSr2Br4Ta6,"['Na', 'S', 'Sr', 'Br', 'Ta']","['Na - Metal', 'S - Non-Metal', 'Sr - Metal', 'Br - Non-Metal', 'Ta - Metal']","[0.93, 2.58, 0.95, 2.96, 1.5]",5,"{'Na': 1.0, 'S': 1.0, 'Sr': 2.0, 'Br': 4.0, 'Ta': 6.0}",TRUE
+ZnMg3Te4,"['Zn', 'Mg', 'Te']","['Zn - Metal', 'Mg - Metal', 'Te - Non-Metal']","[1.65, 1.31, 2.1]",3,"{'Zn': 1.0, 'Mg': 3.0, 'Te': 4.0}",TRUE
+Na2S2Po5,"['Na', 'S', 'Po']","['Na - Metal', 'S - Non-Metal', 'Po - Non-Metal']","[0.93, 2.58, 2.0]",3,"{'Na': 2.0, 'S': 2.0, 'Po': 5.0}",TRUE
+Zn2Ru3Te4,"['Zn', 'Ru', 'Te']","['Zn - Metal', 'Ru - Metal', 'Te - Non-Metal']","[1.65, 2.2, 2.1]",3,"{'Zn': 2.0, 'Ru': 3.0, 'Te': 4.0}",TRUE
+OVCm2C5,"['O', 'V', 'Cm', 'C']","['O - Non-Metal', 'V - Metal', 'Cm - Metal', 'C - Non-Metal']","[3.44, 1.63, 1.3, 2.55]",4,"{'O': 1.0, 'V': 1.0, 'Cm': 2.0, 'C': 5.0}",FALSE
+WP2,"['W', 'P']","['W - Metal', 'P - Non-Metal']","[2.36, 2.19]",2,"{'W': 1.0, 'P': 2.0}",FALSE
+RuAgBr2,"['Ru', 'Ag', 'Br']","['Ru - Metal', 'Ag - Metal', 'Br - Non-Metal']","[2.2, 1.93, 2.96]",3,"{'Ru': 1.0, 'Ag': 1.0, 'Br': 2.0}",FALSE
+Rh2Pu3Po5,"['Rh', 'Pu', 'Po']","['Rh - Metal', 'Pu - Metal', 'Po - Non-Metal']","[2.28, 1.28, 2.0]",3,"{'Rh': 2.0, 'Pu': 3.0, 'Po': 5.0}",TRUE
+FTiFmRu2Sn2,"['F', 'Ti', 'Fm', 'Ru', 'Sn']","['F - Non-Metal', 'Ti - Metal', 'Fm - Metal', 'Ru - Metal', 'Sn - Metal']","[3.98, 1.54, 1.3, 2.2, 1.96]",5,"{'F': 1.0, 'Ti': 1.0, 'Fm': 1.0, 'Ru': 2.0, 'Sn': 2.0}",FALSE
+HoI2Hf2C4,"['Ho', 'I', 'Hf', 'C']","['Ho - Metal', 'I - Non-Metal', 'Hf - Metal', 'C - Non-Metal']","[1.23, 2.66, 1.3, 2.55]",4,"{'Ho': 1.0, 'I': 2.0, 'Hf': 2.0, 'C': 4.0}",TRUE
+NpZr2At5,"['Np', 'Zr', 'At']","['Np - Metal', 'Zr - Metal', 'At - Non-Metal']","[1.36, 1.33, 2.2]",3,"{'Np': 1.0, 'Zr': 2.0, 'At': 5.0}",TRUE
+EuNa2Br2Se6,"['Eu', 'Na', 'Br', 'Se']","['Eu - Metal', 'Na - Metal', 'Br - Non-Metal', 'Se - Non-Metal']","[1.2, 0.93, 2.96, 2.55]",4,"{'Eu': 1.0, 'Na': 2.0, 'Br': 2.0, 'Se': 6.0}",TRUE
+IrMn5Br5,"['Ir', 'Mn', 'Br']","['Ir - Metal', 'Mn - Metal', 'Br - Non-Metal']","[2.2, 1.55, 2.96]",3,"{'Ir': 1.0, 'Mn': 5.0, 'Br': 5.0}",FALSE
+GdLa2Br6,"['Gd', 'La', 'Br']","['Gd - Metal', 'La - Metal', 'Br - Non-Metal']","[1.2, 1.1, 2.96]",3,"{'Gd': 1.0, 'La': 2.0, 'Br': 6.0}",TRUE
+BiS2Pt3,"['Bi', 'S', 'Pt']","['Bi - Metal', 'S - Non-Metal', 'Pt - Metal']","[2.02, 2.58, 2.28]",3,"{'Bi': 1.0, 'S': 2.0, 'Pt': 3.0}",FALSE
+GaBrPuH4,"['Ga', 'Br', 'Pu', 'H']","['Ga - Metal', 'Br - Non-Metal', 'Pu - Metal', 'H - Unknown']","[1.81, 2.96, 1.28, 2.2]",4,"{'Ga': 1.0, 'Br': 1.0, 'Pu': 1.0, 'H': 4.0}",TRUE
+YbMn2S4,"['Yb', 'Mn', 'S']","['Yb - Metal', 'Mn - Metal', 'S - Non-Metal']","[1.1, 1.55, 2.58]",3,"{'Yb': 1.0, 'Mn': 2.0, 'S': 4.0}",TRUE
+SeCo3Ru6,"['Se', 'Co', 'Ru']","['Se - Non-Metal', 'Co - Metal', 'Ru - Metal']","[2.55, 1.88, 2.2]",3,"{'Se': 1.0, 'Co': 3.0, 'Ru': 6.0}",FALSE
+TiILaAm2P5,"['Ti', 'I', 'La', 'Am', 'P']","['Ti - Metal', 'I - Non-Metal', 'La - Metal', 'Am - Metal', 'P - Non-Metal']","[1.54, 2.66, 1.1, 1.3, 2.19]",5,"{'Ti': 1.0, 'I': 1.0, 'La': 1.0, 'Am': 2.0, 'P': 5.0}",TRUE
+OsCl4,"['Os', 'Cl']","['Os - Metal', 'Cl - Non-Metal']","[2.2, 3.16]",2,"{'Os': 1.0, 'Cl': 4.0}",FALSE
+ReI2Fe3As4,"['Re', 'I', 'Fe', 'As']","['Re - Metal', 'I - Non-Metal', 'Fe - Metal', 'As - Non-Metal']","[1.9, 2.66, 1.83, 2.18]",4,"{'Re': 1.0, 'I': 2.0, 'Fe': 3.0, 'As': 4.0}",FALSE
+Te2F3C5Co5,"['Te', 'F', 'C', 'Co']","['Te - Non-Metal', 'F - Non-Metal', 'C - Non-Metal', 'Co - Metal']","[2.1, 3.98, 2.55, 1.88]",4,"{'Te': 2.0, 'F': 3.0, 'C': 5.0, 'Co': 5.0}",FALSE
+Ir2S3Ti4,"['Ir', 'S', 'Ti']","['Ir - Metal', 'S - Non-Metal', 'Ti - Metal']","[2.2, 2.58, 1.54]",3,"{'Ir': 2.0, 'S': 3.0, 'Ti': 4.0}",FALSE
+Br3P4,"['Br', 'P']","['Br - Non-Metal', 'P - Non-Metal']","[2.96, 2.19]",2,"{'Br': 3.0, 'P': 4.0}",FALSE
+CdTaCl3Mo4,"['Cd', 'Ta', 'Cl', 'Mo']","['Cd - Metal', 'Ta - Metal', 'Cl - Non-Metal', 'Mo - Metal']","[1.69, 1.5, 3.16, 2.16]",4,"{'Cd': 1.0, 'Ta': 1.0, 'Cl': 3.0, 'Mo': 4.0}",FALSE
+At3Os4Cd5,"['At', 'Os', 'Cd']","['At - Non-Metal', 'Os - Metal', 'Cd - Metal']","[2.2, 2.2, 1.69]",3,"{'At': 3.0, 'Os': 4.0, 'Cd': 5.0}",TRUE
+CoZr4Sb6,"['Co', 'Zr', 'Sb']","['Co - Metal', 'Zr - Metal', 'Sb - Non-Metal']","[1.88, 1.33, 2.05]",3,"{'Co': 1.0, 'Zr': 4.0, 'Sb': 6.0}",TRUE
+NbCd3P5,"['Nb', 'Cd', 'P']","['Nb - Metal', 'Cd - Metal', 'P - Non-Metal']","[1.6, 1.69, 2.19]",3,"{'Nb': 1.0, 'Cd': 3.0, 'P': 5.0}",TRUE
+BkSe2Mn8,"['Bk', 'Se', 'Mn']","['Bk - Metal', 'Se - Non-Metal', 'Mn - Metal']","[1.3, 2.55, 1.55]",3,"{'Bk': 1.0, 'Se': 2.0, 'Mn': 8.0}",TRUE
+Mo2Er3Po6,"['Mo', 'Er', 'Po']","['Mo - Metal', 'Er - Metal', 'Po - Non-Metal']","[2.16, 1.24, 2.0]",3,"{'Mo': 2.0, 'Er': 3.0, 'Po': 6.0}",TRUE
+VP5,"['V', 'P']","['V - Metal', 'P - Non-Metal']","[1.63, 2.19]",2,"{'V': 1.0, 'P': 5.0}",TRUE
+F2Re3Fe4Cr5,"['F', 'Re', 'Fe', 'Cr']","['F - Non-Metal', 'Re - Metal', 'Fe - Metal', 'Cr - Metal']","[3.98, 1.9, 1.83, 1.66]",4,"{'F': 2.0, 'Re': 3.0, 'Fe': 4.0, 'Cr': 5.0}",FALSE
+GdN2Ru2O3,"['Gd', 'N', 'Ru', 'O']","['Gd - Metal', 'N - Non-Metal', 'Ru - Metal', 'O - Non-Metal']","[1.2, 3.04, 2.2, 3.44]",4,"{'Gd': 1.0, 'N': 2.0, 'Ru': 2.0, 'O': 3.0}",FALSE
+CaEs2Ti4At4,"['Ca', 'Es', 'Ti', 'At']","['Ca - Metal', 'Es - Metal', 'Ti - Metal', 'At - Non-Metal']","[1.0, 1.3, 1.54, 2.2]",4,"{'Ca': 1.0, 'Es': 2.0, 'Ti': 4.0, 'At': 4.0}",TRUE
+NGaPt3,"['N', 'Ga', 'Pt']","['N - Non-Metal', 'Ga - Metal', 'Pt - Metal']","[3.04, 1.81, 2.28]",3,"{'N': 1.0, 'Ga': 1.0, 'Pt': 3.0}",FALSE
+Rh2Lr2Ni3I3W5,"['Rh', 'Lr', 'Ni', 'I', 'W']","['Rh - Metal', 'Lr - Metal', 'Ni - Metal', 'I - Non-Metal', 'W - Metal']","[2.28, 1.3, 1.91, 2.66, 2.36]",5,"{'Rh': 2.0, 'Lr': 2.0, 'Ni': 3.0, 'I': 3.0, 'W': 5.0}",FALSE
+BrV4,"['Br', 'V']","['Br - Non-Metal', 'V - Metal']","[2.96, 1.63]",2,"{'Br': 1.0, 'V': 4.0}",FALSE
+ClOs3,"['Cl', 'Os']","['Cl - Non-Metal', 'Os - Metal']","[3.16, 2.2]",2,"{'Cl': 1.0, 'Os': 3.0}",FALSE
+KBr3Tb4,"['K', 'Br', 'Tb']","['K - Metal', 'Br - Non-Metal', 'Tb - Metal']","[0.82, 2.96, 1.1]",3,"{'K': 1.0, 'Br': 3.0, 'Tb': 4.0}",TRUE
+SVSeTb2,"['S', 'V', 'Se', 'Tb']","['S - Non-Metal', 'V - Metal', 'Se - Non-Metal', 'Tb - Metal']","[2.58, 1.63, 2.55, 1.1]",4,"{'S': 1.0, 'V': 1.0, 'Se': 1.0, 'Tb': 2.0}",TRUE
+YS3,"['Y', 'S']","['Y - Metal', 'S - Non-Metal']","[1.22, 2.58]",2,"{'Y': 1.0, 'S': 3.0}",TRUE
+YP2,"['Y', 'P']","['Y - Metal', 'P - Non-Metal']","[1.22, 2.19]",2,"{'Y': 1.0, 'P': 2.0}",TRUE
+EsPo2,"['Es', 'Po']","['Es - Metal', 'Po - Non-Metal']","[1.3, 2.0]",2,"{'Es': 1.0, 'Po': 2.0}",TRUE
+CoMoOs2Br3W7,"['Co', 'Mo', 'Os', 'Br', 'W']","['Co - Metal', 'Mo - Metal', 'Os - Metal', 'Br - Non-Metal', 'W - Metal']","[1.88, 2.16, 2.2, 2.96, 2.36]",5,"{'Co': 1.0, 'Mo': 1.0, 'Os': 2.0, 'Br': 3.0, 'W': 7.0}",FALSE
+ICr5Sb6,"['I', 'Cr', 'Sb']","['I - Non-Metal', 'Cr - Metal', 'Sb - Non-Metal']","[2.66, 1.66, 2.05]",3,"{'I': 1.0, 'Cr': 5.0, 'Sb': 6.0}",FALSE
+CCo,"['C', 'Co']","['C - Non-Metal', 'Co - Metal']","[2.55, 1.88]",2,"{'C': 1.0, 'Co': 1.0}",FALSE
+V2Cr2Rn3Os6,"['V', 'Cr', 'Rn', 'Os']","['V - Metal', 'Cr - Metal', 'Rn - Non-Metal', 'Os - Metal']","[1.63, 1.66, 2.2, 2.2]",4,"{'V': 2.0, 'Cr': 2.0, 'Rn': 3.0, 'Os': 6.0}",TRUE
+Tc2N3Si3,"['Tc', 'N', 'Si']","['Tc - Metal', 'N - Non-Metal', 'Si - Non-Metal']","[1.9, 3.04, 1.9]",3,"{'Tc': 2.0, 'N': 3.0, 'Si': 3.0}",FALSE
+EsB2Br5,"['Es', 'B', 'Br']","['Es - Metal', 'B - Non-Metal', 'Br - Non-Metal']","[1.3, 2.04, 2.96]",3,"{'Es': 1.0, 'B': 2.0, 'Br': 5.0}",TRUE
+XeCu3As4,"['Xe', 'Cu', 'As']","['Xe - Non-Metal', 'Cu - Metal', 'As - Non-Metal']","[2.6, 1.9, 2.18]",3,"{'Xe': 1.0, 'Cu': 3.0, 'As': 4.0}",FALSE
+UNb3Te4Co5,"['U', 'Nb', 'Te', 'Co']","['U - Metal', 'Nb - Metal', 'Te - Non-Metal', 'Co - Metal']","[1.38, 1.6, 2.1, 1.88]",4,"{'U': 1.0, 'Nb': 3.0, 'Te': 4.0, 'Co': 5.0}",TRUE
+FNb2I3,"['F', 'Nb', 'I']","['F - Non-Metal', 'Nb - Metal', 'I - Non-Metal']","[3.98, 1.6, 2.66]",3,"{'F': 1.0, 'Nb': 2.0, 'I': 3.0}",FALSE
+TaPb,"['Ta', 'Pb']","['Ta - Metal', 'Pb - Metal']","[1.5, 2.33]",2,"{'Ta': 1.0, 'Pb': 1.0}",TRUE
+POsMo2S3Lu4,"['P', 'Os', 'Mo', 'S', 'Lu']","['P - Non-Metal', 'Os - Metal', 'Mo - Metal', 'S - Non-Metal', 'Lu - Metal']","[2.19, 2.2, 2.16, 2.58, 1.27]",5,"{'P': 1.0, 'Os': 1.0, 'Mo': 2.0, 'S': 3.0, 'Lu': 4.0}",TRUE
+YbSe3I4,"['Yb', 'Se', 'I']","['Yb - Metal', 'Se - Non-Metal', 'I - Non-Metal']","[1.1, 2.55, 2.66]",3,"{'Yb': 1.0, 'Se': 3.0, 'I': 4.0}",FALSE
+Ga2Mg3Te4,"['Ga', 'Mg', 'Te']","['Ga - Metal', 'Mg - Metal', 'Te - Non-Metal']","[1.81, 1.31, 2.1]",3,"{'Ga': 2.0, 'Mg': 3.0, 'Te': 4.0}",TRUE
+CoGe3,"['Co', 'Ge']","['Co - Metal', 'Ge - Non-Metal']","[1.88, 2.01]",2,"{'Co': 1.0, 'Ge': 3.0}",TRUE
+Sc3S4Ta5,"['Sc', 'S', 'Ta']","['Sc - Metal', 'S - Non-Metal', 'Ta - Metal']","[1.36, 2.58, 1.5]",3,"{'Sc': 3.0, 'S': 4.0, 'Ta': 5.0}",TRUE
+Sb2As3,"['Sb', 'As']","['Sb - Non-Metal', 'As - Non-Metal']","[2.05, 2.18]",2,"{'Sb': 2.0, 'As': 3.0}",FALSE
+SRn3Bi4,"['S', 'Rn', 'Bi']","['S - Non-Metal', 'Rn - Non-Metal', 'Bi - Metal']","[2.58, 2.2, 2.02]",3,"{'S': 1.0, 'Rn': 3.0, 'Bi': 4.0}",FALSE
+ICr2,"['I', 'Cr']","['I - Non-Metal', 'Cr - Metal']","[2.66, 1.66]",2,"{'I': 1.0, 'Cr': 2.0}",FALSE
+PbO3Ru4,"['Pb', 'O', 'Ru']","['Pb - Metal', 'O - Non-Metal', 'Ru - Metal']","[2.33, 3.44, 2.2]",3,"{'Pb': 1.0, 'O': 3.0, 'Ru': 4.0}",FALSE
+SbTl5,"['Sb', 'Tl']","['Sb - Non-Metal', 'Tl - Metal']","[2.05, 1.62]",2,"{'Sb': 1.0, 'Tl': 5.0}",TRUE
+OBi2,"['O', 'Bi']","['O - Non-Metal', 'Bi - Metal']","[3.44, 2.02]",2,"{'O': 1.0, 'Bi': 2.0}",FALSE
+ClV4Se4Ir4,"['Cl', 'V', 'Se', 'Ir']","['Cl - Non-Metal', 'V - Metal', 'Se - Non-Metal', 'Ir - Metal']","[3.16, 1.63, 2.55, 2.2]",4,"{'Cl': 1.0, 'V': 4.0, 'Se': 4.0, 'Ir': 4.0}",FALSE
+AmF4Tc4Os4,"['Am', 'F', 'Tc', 'Os']","['Am - Metal', 'F - Non-Metal', 'Tc - Metal', 'Os - Metal']","[1.3, 3.98, 1.9, 2.2]",4,"{'Am': 1.0, 'F': 4.0, 'Tc': 4.0, 'Os': 4.0}",FALSE
+Zn2Pu4Te5,"['Zn', 'Pu', 'Te']","['Zn - Metal', 'Pu - Metal', 'Te - Non-Metal']","[1.65, 1.28, 2.1]",3,"{'Zn': 2.0, 'Pu': 4.0, 'Te': 5.0}",TRUE
+BiCo3,"['Bi', 'Co']","['Bi - Metal', 'Co - Metal']","[2.02, 1.88]",2,"{'Bi': 1.0, 'Co': 3.0}",TRUE
+NiCl2Mg4W6,"['Ni', 'Cl', 'Mg', 'W']","['Ni - Metal', 'Cl - Non-Metal', 'Mg - Metal', 'W - Metal']","[1.91, 3.16, 1.31, 2.36]",4,"{'Ni': 1.0, 'Cl': 2.0, 'Mg': 4.0, 'W': 6.0}",FALSE
+TaAmGe2,"['Ta', 'Am', 'Ge']","['Ta - Metal', 'Am - Metal', 'Ge - Non-Metal']","[1.5, 1.3, 2.01]",3,"{'Ta': 1.0, 'Am': 1.0, 'Ge': 2.0}",TRUE
+PO2Ni6,"['P', 'O', 'Ni']","['P - Non-Metal', 'O - Non-Metal', 'Ni - Metal']","[2.19, 3.44, 1.91]",3,"{'P': 1.0, 'O': 2.0, 'Ni': 6.0}",FALSE
+RnSb2,"['Rn', 'Sb']","['Rn - Non-Metal', 'Sb - Non-Metal']","[2.2, 2.05]",2,"{'Rn': 1.0, 'Sb': 2.0}",FALSE
+CeCl4,"['Ce', 'Cl']","['Ce - Metal', 'Cl - Non-Metal']","[1.12, 3.16]",2,"{'Ce': 1.0, 'Cl': 4.0}",FALSE
+MoSbTl7,"['Mo', 'Sb', 'Tl']","['Mo - Metal', 'Sb - Non-Metal', 'Tl - Metal']","[2.16, 2.05, 1.62]",3,"{'Mo': 1.0, 'Sb': 1.0, 'Tl': 7.0}",TRUE
+PMn2Bi4,"['P', 'Mn', 'Bi']","['P - Non-Metal', 'Mn - Metal', 'Bi - Metal']","[2.19, 1.55, 2.02]",3,"{'P': 1.0, 'Mn': 2.0, 'Bi': 4.0}",TRUE
+NKrSi4Yb4,"['N', 'Kr', 'Si', 'Yb']","['N - Non-Metal', 'Kr - Non-Metal', 'Si - Non-Metal', 'Yb - Metal']","[3.04, 3.0, 1.9, 1.1]",4,"{'N': 1.0, 'Kr': 1.0, 'Si': 4.0, 'Yb': 4.0}",FALSE
+OAsCo4,"['O', 'As', 'Co']","['O - Non-Metal', 'As - Non-Metal', 'Co - Metal']","[3.44, 2.18, 1.88]",3,"{'O': 1.0, 'As': 1.0, 'Co': 4.0}",FALSE
+CuCdPoMn5,"['Cu', 'Cd', 'Po', 'Mn']","['Cu - Metal', 'Cd - Metal', 'Po - Non-Metal', 'Mn - Metal']","[1.9, 1.69, 2.0, 1.55]",4,"{'Cu': 1.0, 'Cd': 1.0, 'Po': 1.0, 'Mn': 5.0}",TRUE
+S2Tc4Ru5,"['S', 'Tc', 'Ru']","['S - Non-Metal', 'Tc - Metal', 'Ru - Metal']","[2.58, 1.9, 2.2]",3,"{'S': 2.0, 'Tc': 4.0, 'Ru': 5.0}",FALSE
+TeCl2Fm2,"['Te', 'Cl', 'Fm']","['Te - Non-Metal', 'Cl - Non-Metal', 'Fm - Metal']","[2.1, 3.16, 1.3]",3,"{'Te': 1.0, 'Cl': 2.0, 'Fm': 2.0}",FALSE
+UIn2Cl4,"['U', 'In', 'Cl']","['U - Metal', 'In - Metal', 'Cl - Non-Metal']","[1.38, 1.78, 3.16]",3,"{'U': 1.0, 'In': 2.0, 'Cl': 4.0}",FALSE
+CPu3Po4Mo5,"['C', 'Pu', 'Po', 'Mo']","['C - Non-Metal', 'Pu - Metal', 'Po - Non-Metal', 'Mo - Metal']","[2.55, 1.28, 2.0, 2.16]",4,"{'C': 1.0, 'Pu': 3.0, 'Po': 4.0, 'Mo': 5.0}",TRUE
+RnGa2Sn3,"['Rn', 'Ga', 'Sn']","['Rn - Non-Metal', 'Ga - Metal', 'Sn - Metal']","[2.2, 1.81, 1.96]",3,"{'Rn': 1.0, 'Ga': 2.0, 'Sn': 3.0}",TRUE
+Pa2P5,"['Pa', 'P']","['Pa - Metal', 'P - Non-Metal']","[1.5, 2.19]",2,"{'Pa': 2.0, 'P': 5.0}",TRUE
+PrAt3,"['Pr', 'At']","['Pr - Metal', 'At - Non-Metal']","[1.13, 2.2]",2,"{'Pr': 1.0, 'At': 3.0}",TRUE
+BkF4,"['Bk', 'F']","['Bk - Metal', 'F - Non-Metal']","[1.3, 3.98]",2,"{'Bk': 1.0, 'F': 4.0}",FALSE
+CeF2,"['Ce', 'F']","['Ce - Metal', 'F - Non-Metal']","[1.12, 3.98]",2,"{'Ce': 1.0, 'F': 2.0}",FALSE
+PdBkS5,"['Pd', 'Bk', 'S']","['Pd - Metal', 'Bk - Metal', 'S - Non-Metal']","[2.2, 1.3, 2.58]",3,"{'Pd': 1.0, 'Bk': 1.0, 'S': 5.0}",TRUE
+TeGa2Br3Mo6,"['Te', 'Ga', 'Br', 'Mo']","['Te - Non-Metal', 'Ga - Metal', 'Br - Non-Metal', 'Mo - Metal']","[2.1, 1.81, 2.96, 2.16]",4,"{'Te': 1.0, 'Ga': 2.0, 'Br': 3.0, 'Mo': 6.0}",FALSE
+ONb2,"['O', 'Nb']","['O - Non-Metal', 'Nb - Metal']","[3.44, 1.6]",2,"{'O': 1.0, 'Nb': 2.0}",FALSE
+TcS2,"['Tc', 'S']","['Tc - Metal', 'S - Non-Metal']","[1.9, 2.58]",2,"{'Tc': 1.0, 'S': 2.0}",FALSE
+Ga2Te3,"['Ga', 'Te']","['Ga - Metal', 'Te - Non-Metal']","[1.81, 2.1]",2,"{'Ga': 2.0, 'Te': 3.0}",TRUE
+RnGe3,"['Rn', 'Ge']","['Rn - Non-Metal', 'Ge - Non-Metal']","[2.2, 2.01]",2,"{'Rn': 1.0, 'Ge': 3.0}",FALSE
+PoP2,"['Po', 'P']","['Po - Non-Metal', 'P - Non-Metal']","[2.0, 2.19]",2,"{'Po': 1.0, 'P': 2.0}",TRUE
+P2Sc3Ge3Po3,"['P', 'Sc', 'Ge', 'Po']","['P - Non-Metal', 'Sc - Metal', 'Ge - Non-Metal', 'Po - Non-Metal']","[2.19, 1.36, 2.01, 2.0]",4,"{'P': 2.0, 'Sc': 3.0, 'Ge': 3.0, 'Po': 3.0}",TRUE
+OsEr4Te5,"['Os', 'Er', 'Te']","['Os - Metal', 'Er - Metal', 'Te - Non-Metal']","[2.2, 1.24, 2.1]",3,"{'Os': 1.0, 'Er': 4.0, 'Te': 5.0}",TRUE
+ClAg,"['Cl', 'Ag']","['Cl - Non-Metal', 'Ag - Metal']","[3.16, 1.93]",2,"{'Cl': 1.0, 'Ag': 1.0}",FALSE
+Br3Si5,"['Br', 'Si']","['Br - Non-Metal', 'Si - Non-Metal']","[2.96, 1.9]",2,"{'Br': 3.0, 'Si': 5.0}",FALSE
+Cu3Bi4,"['Cu', 'Bi']","['Cu - Metal', 'Bi - Metal']","[1.9, 2.02]",2,"{'Cu': 3.0, 'Bi': 4.0}",TRUE
+P2Te2Ir3Re7,"['P', 'Te', 'Ir', 'Re']","['P - Non-Metal', 'Te - Non-Metal', 'Ir - Metal', 'Re - Metal']","[2.19, 2.1, 2.2, 1.9]",4,"{'P': 2.0, 'Te': 2.0, 'Ir': 3.0, 'Re': 7.0}",TRUE
+INa2Ti2Bi3,"['I', 'Na', 'Ti', 'Bi']","['I - Non-Metal', 'Na - Metal', 'Ti - Metal', 'Bi - Metal']","[2.66, 0.93, 1.54, 2.02]",4,"{'I': 1.0, 'Na': 2.0, 'Ti': 2.0, 'Bi': 3.0}",TRUE
+CfXe4Os7,"['Cf', 'Xe', 'Os']","['Cf - Metal', 'Xe - Non-Metal', 'Os - Metal']","[1.3, 2.6, 2.2]",3,"{'Cf': 1.0, 'Xe': 4.0, 'Os': 7.0}",TRUE
+CAs2,"['C', 'As']","['C - Non-Metal', 'As - Non-Metal']","[2.55, 2.18]",2,"{'C': 1.0, 'As': 2.0}",FALSE
+CrPdNdS2N4,"['Cr', 'Pd', 'Nd', 'S', 'N']","['Cr - Metal', 'Pd - Metal', 'Nd - Metal', 'S - Non-Metal', 'N - Non-Metal']","[1.66, 2.2, 1.14, 2.58, 3.04]",5,"{'Cr': 1.0, 'Pd': 1.0, 'Nd': 1.0, 'S': 2.0, 'N': 4.0}",FALSE
+BrTc3,"['Br', 'Tc']","['Br - Non-Metal', 'Tc - Metal']","[2.96, 1.9]",2,"{'Br': 1.0, 'Tc': 3.0}",FALSE
+GeAt4,"['Ge', 'At']","['Ge - Non-Metal', 'At - Non-Metal']","[2.01, 2.2]",2,"{'Ge': 1.0, 'At': 4.0}",FALSE
+S3Po3Hf4,"['S', 'Po', 'Hf']","['S - Non-Metal', 'Po - Non-Metal', 'Hf - Metal']","[2.58, 2.0, 1.3]",3,"{'S': 3.0, 'Po': 3.0, 'Hf': 4.0}",TRUE
+MdC2At2,"['Md', 'C', 'At']","['Md - Metal', 'C - Non-Metal', 'At - Non-Metal']","[1.3, 2.55, 2.2]",3,"{'Md': 1.0, 'C': 2.0, 'At': 2.0}",TRUE
+ThS3,"['Th', 'S']","['Th - Metal', 'S - Non-Metal']","[1.3, 2.58]",2,"{'Th': 1.0, 'S': 3.0}",TRUE
+PPbRe2,"['P', 'Pb', 'Re']","['P - Non-Metal', 'Pb - Metal', 'Re - Metal']","[2.19, 2.33, 1.9]",3,"{'P': 1.0, 'Pb': 1.0, 'Re': 2.0}",FALSE
+InSr3Te4,"['In', 'Sr', 'Te']","['In - Metal', 'Sr - Metal', 'Te - Non-Metal']","[1.78, 0.95, 2.1]",3,"{'In': 1.0, 'Sr': 3.0, 'Te': 4.0}",TRUE
+S3As5,"['S', 'As']","['S - Non-Metal', 'As - Non-Metal']","[2.58, 2.18]",2,"{'S': 3.0, 'As': 5.0}",FALSE
+MgPo,"['Mg', 'Po']","['Mg - Metal', 'Po - Non-Metal']","[1.31, 2.0]",2,"{'Mg': 1.0, 'Po': 1.0}",TRUE
+RnTc6Fm6,"['Rn', 'Tc', 'Fm']","['Rn - Non-Metal', 'Tc - Metal', 'Fm - Metal']","[2.2, 1.9, 1.3]",3,"{'Rn': 1.0, 'Tc': 6.0, 'Fm': 6.0}",TRUE
+SMdSe3Pt4,"['S', 'Md', 'Se', 'Pt']","['S - Non-Metal', 'Md - Metal', 'Se - Non-Metal', 'Pt - Metal']","[2.58, 1.3, 2.55, 2.28]",4,"{'S': 1.0, 'Md': 1.0, 'Se': 3.0, 'Pt': 4.0}",FALSE
+AsGa2Xe2Tm3C6,"['As', 'Ga', 'Xe', 'Tm', 'C']","['As - Non-Metal', 'Ga - Metal', 'Xe - Non-Metal', 'Tm - Metal', 'C - Non-Metal']","[2.18, 1.81, 2.6, 1.25, 2.55]",5,"{'As': 1.0, 'Ga': 2.0, 'Xe': 2.0, 'Tm': 3.0, 'C': 6.0}",TRUE
+CXe2,"['C', 'Xe']","['C - Non-Metal', 'Xe - Non-Metal']","[2.55, 2.6]",2,"{'C': 1.0, 'Xe': 2.0}",FALSE
+IrRn2Au5,"['Ir', 'Rn', 'Au']","['Ir - Metal', 'Rn - Non-Metal', 'Au - Metal']","[2.2, 2.2, 2.54]",3,"{'Ir': 1.0, 'Rn': 2.0, 'Au': 5.0}",FALSE
+GeH2Cu2Ti6,"['Ge', 'H', 'Cu', 'Ti']","['Ge - Non-Metal', 'H - Unknown', 'Cu - Metal', 'Ti - Metal']","[2.01, 2.2, 1.9, 1.54]",4,"{'Ge': 1.0, 'H': 2.0, 'Cu': 2.0, 'Ti': 6.0}",TRUE
+FeN3,"['Fe', 'N']","['Fe - Metal', 'N - Non-Metal']","[1.83, 3.04]",2,"{'Fe': 1.0, 'N': 3.0}",FALSE
+PoV5,"['Po', 'V']","['Po - Non-Metal', 'V - Metal']","[2.0, 1.63]",2,"{'Po': 1.0, 'V': 5.0}",TRUE
+AmGe2,"['Am', 'Ge']","['Am - Metal', 'Ge - Non-Metal']","[1.3, 2.01]",2,"{'Am': 1.0, 'Ge': 2.0}",TRUE
+BrIr4,"['Br', 'Ir']","['Br - Non-Metal', 'Ir - Metal']","[2.96, 2.2]",2,"{'Br': 1.0, 'Ir': 4.0}",FALSE
+BrNb5,"['Br', 'Nb']","['Br - Non-Metal', 'Nb - Metal']","[2.96, 1.6]",2,"{'Br': 1.0, 'Nb': 5.0}",FALSE
+Lu2Si3P3,"['Lu', 'Si', 'P']","['Lu - Metal', 'Si - Non-Metal', 'P - Non-Metal']","[1.27, 1.9, 2.19]",3,"{'Lu': 2.0, 'Si': 3.0, 'P': 3.0}",TRUE
+ClFe2,"['Cl', 'Fe']","['Cl - Non-Metal', 'Fe - Metal']","[3.16, 1.83]",2,"{'Cl': 1.0, 'Fe': 2.0}",FALSE
+Hf3Rn4C5,"['Hf', 'Rn', 'C']","['Hf - Metal', 'Rn - Non-Metal', 'C - Non-Metal']","[1.3, 2.2, 2.55]",3,"{'Hf': 3.0, 'Rn': 4.0, 'C': 5.0}",TRUE
+ClTl4,"['Cl', 'Tl']","['Cl - Non-Metal', 'Tl - Metal']","[3.16, 1.62]",2,"{'Cl': 1.0, 'Tl': 4.0}",FALSE
+TiBr3,"['Ti', 'Br']","['Ti - Metal', 'Br - Non-Metal']","[1.54, 2.96]",2,"{'Ti': 1.0, 'Br': 3.0}",FALSE
+TeBe4Bi4,"['Te', 'Be', 'Bi']","['Te - Non-Metal', 'Be - Metal', 'Bi - Metal']","[2.1, 1.57, 2.02]",3,"{'Te': 1.0, 'Be': 4.0, 'Bi': 4.0}",TRUE
+Br3Tc3Fm4Mn7,"['Br', 'Tc', 'Fm', 'Mn']","['Br - Non-Metal', 'Tc - Metal', 'Fm - Metal', 'Mn - Metal']","[2.96, 1.9, 1.3, 1.55]",4,"{'Br': 3.0, 'Tc': 3.0, 'Fm': 4.0, 'Mn': 7.0}",TRUE
+CoKrSmRe4,"['Co', 'Kr', 'Sm', 'Re']","['Co - Metal', 'Kr - Non-Metal', 'Sm - Metal', 'Re - Metal']","[1.88, 3.0, 1.17, 1.9]",4,"{'Co': 1.0, 'Kr': 1.0, 'Sm': 1.0, 'Re': 4.0}",TRUE
+AtSi5,"['At', 'Si']","['At - Non-Metal', 'Si - Non-Metal']","[2.2, 1.9]",2,"{'At': 1.0, 'Si': 5.0}",TRUE
+Au2Al3I5,"['Au', 'Al', 'I']","['Au - Metal', 'Al - Metal', 'I - Non-Metal']","[2.54, 1.61, 2.66]",3,"{'Au': 2.0, 'Al': 3.0, 'I': 5.0}",FALSE
+Br2Te5,"['Br', 'Te']","['Br - Non-Metal', 'Te - Non-Metal']","[2.96, 2.1]",2,"{'Br': 2.0, 'Te': 5.0}",FALSE
+CoWI2Sn5,"['Co', 'W', 'I', 'Sn']","['Co - Metal', 'W - Metal', 'I - Non-Metal', 'Sn - Metal']","[1.88, 2.36, 2.66, 1.96]",4,"{'Co': 1.0, 'W': 1.0, 'I': 2.0, 'Sn': 5.0}",FALSE
+CTe,"['C', 'Te']","['C - Non-Metal', 'Te - Non-Metal']","[2.55, 2.1]",2,"{'C': 1.0, 'Te': 1.0}",FALSE
+AuF5,"['Au', 'F']","['Au - Metal', 'F - Non-Metal']","[2.54, 3.98]",2,"{'Au': 1.0, 'F': 5.0}",FALSE
+STaSb2,"['S', 'Ta', 'Sb']","['S - Non-Metal', 'Ta - Metal', 'Sb - Non-Metal']","[2.58, 1.5, 2.05]",3,"{'S': 1.0, 'Ta': 1.0, 'Sb': 2.0}",TRUE
+ClV2At3Fe6,"['Cl', 'V', 'At', 'Fe']","['Cl - Non-Metal', 'V - Metal', 'At - Non-Metal', 'Fe - Metal']","[3.16, 1.63, 2.2, 1.83]",4,"{'Cl': 1.0, 'V': 2.0, 'At': 3.0, 'Fe': 6.0}",FALSE
+SDyCl2Rh3Sn5,"['S', 'Dy', 'Cl', 'Rh', 'Sn']","['S - Non-Metal', 'Dy - Metal', 'Cl - Non-Metal', 'Rh - Metal', 'Sn - Metal']","[2.58, 1.22, 3.16, 2.28, 1.96]",5,"{'S': 1.0, 'Dy': 1.0, 'Cl': 2.0, 'Rh': 3.0, 'Sn': 5.0}",FALSE
+Zr2Te3Re4,"['Zr', 'Te', 'Re']","['Zr - Metal', 'Te - Non-Metal', 'Re - Metal']","[1.33, 2.1, 1.9]",3,"{'Zr': 2.0, 'Te': 3.0, 'Re': 4.0}",TRUE
+PuCl3Tc7,"['Pu', 'Cl', 'Tc']","['Pu - Metal', 'Cl - Non-Metal', 'Tc - Metal']","[1.28, 3.16, 1.9]",3,"{'Pu': 1.0, 'Cl': 3.0, 'Tc': 7.0}",FALSE
+GeRn3Ni5,"['Ge', 'Rn', 'Ni']","['Ge - Non-Metal', 'Rn - Non-Metal', 'Ni - Metal']","[2.01, 2.2, 1.91]",3,"{'Ge': 1.0, 'Rn': 3.0, 'Ni': 5.0}",TRUE
+PaS3Co3,"['Pa', 'S', 'Co']","['Pa - Metal', 'S - Non-Metal', 'Co - Metal']","[1.5, 2.58, 1.88]",3,"{'Pa': 1.0, 'S': 3.0, 'Co': 3.0}",TRUE
+Am3P5,"['Am', 'P']","['Am - Metal', 'P - Non-Metal']","[1.3, 2.19]",2,"{'Am': 3.0, 'P': 5.0}",TRUE
+Zr2Os4Se5,"['Zr', 'Os', 'Se']","['Zr - Metal', 'Os - Metal', 'Se - Non-Metal']","[1.33, 2.2, 2.55]",3,"{'Zr': 2.0, 'Os': 4.0, 'Se': 5.0}",TRUE
+BrC3,"['Br', 'C']","['Br - Non-Metal', 'C - Non-Metal']","[2.96, 2.55]",2,"{'Br': 1.0, 'C': 3.0}",FALSE
+IHg,"['I', 'Hg']","['I - Non-Metal', 'Hg - Metal']","[2.66, 2.0]",2,"{'I': 1.0, 'Hg': 1.0}",FALSE
+GaO2Fe4,"['Ga', 'O', 'Fe']","['Ga - Metal', 'O - Non-Metal', 'Fe - Metal']","[1.81, 3.44, 1.83]",3,"{'Ga': 1.0, 'O': 2.0, 'Fe': 4.0}",FALSE
+Pb2Po3W4,"['Pb', 'Po', 'W']","['Pb - Metal', 'Po - Non-Metal', 'W - Metal']","[2.33, 2.0, 2.36]",3,"{'Pb': 2.0, 'Po': 3.0, 'W': 4.0}",FALSE
+CXeRu3At3Sr4,"['C', 'Xe', 'Ru', 'At', 'Sr']","['C - Non-Metal', 'Xe - Non-Metal', 'Ru - Metal', 'At - Non-Metal', 'Sr - Metal']","[2.55, 2.6, 2.2, 2.2, 0.95]",5,"{'C': 1.0, 'Xe': 1.0, 'Ru': 3.0, 'At': 3.0, 'Sr': 4.0}",TRUE
+SI4,"['S', 'I']","['S - Non-Metal', 'I - Non-Metal']","[2.58, 2.66]",2,"{'S': 1.0, 'I': 4.0}",FALSE
+W2Rn2C3P4Sc4,"['W', 'Rn', 'C', 'P', 'Sc']","['W - Metal', 'Rn - Non-Metal', 'C - Non-Metal', 'P - Non-Metal', 'Sc - Metal']","[2.36, 2.2, 2.55, 2.19, 1.36]",5,"{'W': 2.0, 'Rn': 2.0, 'C': 3.0, 'P': 4.0, 'Sc': 4.0}",FALSE
+SeCl4,"['Se', 'Cl']","['Se - Non-Metal', 'Cl - Non-Metal']","[2.55, 3.16]",2,"{'Se': 1.0, 'Cl': 4.0}",FALSE
+TeEsMo2Ir3B4,"['Te', 'Es', 'Mo', 'Ir', 'B']","['Te - Non-Metal', 'Es - Metal', 'Mo - Metal', 'Ir - Metal', 'B - Non-Metal']","[2.1, 1.3, 2.16, 2.2, 2.04]",5,"{'Te': 1.0, 'Es': 1.0, 'Mo': 2.0, 'Ir': 3.0, 'B': 4.0}",TRUE
+Cl2Mn3W6,"['Cl', 'Mn', 'W']","['Cl - Non-Metal', 'Mn - Metal', 'W - Metal']","[3.16, 1.55, 2.36]",3,"{'Cl': 2.0, 'Mn': 3.0, 'W': 6.0}",FALSE
+Pr2Gd2S5,"['Pr', 'Gd', 'S']","['Pr - Metal', 'Gd - Metal', 'S - Non-Metal']","[1.13, 1.2, 2.58]",3,"{'Pr': 2.0, 'Gd': 2.0, 'S': 5.0}",TRUE
+P2Mo2Ge3,"['P', 'Mo', 'Ge']","['P - Non-Metal', 'Mo - Metal', 'Ge - Non-Metal']","[2.19, 2.16, 2.01]",3,"{'P': 2.0, 'Mo': 2.0, 'Ge': 3.0}",FALSE
+IGdNi2,"['I', 'Gd', 'Ni']","['I - Non-Metal', 'Gd - Metal', 'Ni - Metal']","[2.66, 1.2, 1.91]",3,"{'I': 1.0, 'Gd': 1.0, 'Ni': 2.0}",TRUE
+ClRa2At5,"['Cl', 'Ra', 'At']","['Cl - Non-Metal', 'Ra - Metal', 'At - Non-Metal']","[3.16, 0.9, 2.2]",3,"{'Cl': 1.0, 'Ra': 2.0, 'At': 5.0}",TRUE
+CuTl3,"['Cu', 'Tl']","['Cu - Metal', 'Tl - Metal']","[1.9, 1.62]",2,"{'Cu': 1.0, 'Tl': 3.0}",TRUE
+FeSi4,"['Fe', 'Si']","['Fe - Metal', 'Si - Non-Metal']","[1.83, 1.9]",2,"{'Fe': 1.0, 'Si': 4.0}",TRUE
+TcBr3Ir7,"['Tc', 'Br', 'Ir']","['Tc - Metal', 'Br - Non-Metal', 'Ir - Metal']","[1.9, 2.96, 2.2]",3,"{'Tc': 1.0, 'Br': 3.0, 'Ir': 7.0}",FALSE
+I2Ti3Ge3Sn3,"['I', 'Ti', 'Ge', 'Sn']","['I - Non-Metal', 'Ti - Metal', 'Ge - Non-Metal', 'Sn - Metal']","[2.66, 1.54, 2.01, 1.96]",4,"{'I': 2.0, 'Ti': 3.0, 'Ge': 3.0, 'Sn': 3.0}",TRUE
+HoCl3Mo3,"['Ho', 'Cl', 'Mo']","['Ho - Metal', 'Cl - Non-Metal', 'Mo - Metal']","[1.23, 3.16, 2.16]",3,"{'Ho': 1.0, 'Cl': 3.0, 'Mo': 3.0}",FALSE
+KrSmCo4,"['Kr', 'Sm', 'Co']","['Kr - Non-Metal', 'Sm - Metal', 'Co - Metal']","[3.0, 1.17, 1.88]",3,"{'Kr': 1.0, 'Sm': 1.0, 'Co': 4.0}",TRUE
+TcC2Sb5,"['Tc', 'C', 'Sb']","['Tc - Metal', 'C - Non-Metal', 'Sb - Non-Metal']","[1.9, 2.55, 2.05]",3,"{'Tc': 1.0, 'C': 2.0, 'Sb': 5.0}",FALSE
+BeReS4In6,"['Be', 'Re', 'S', 'In']","['Be - Metal', 'Re - Metal', 'S - Non-Metal', 'In - Metal']","[1.57, 1.9, 2.58, 1.78]",4,"{'Be': 1.0, 'Re': 1.0, 'S': 4.0, 'In': 6.0}",TRUE
+CeP2,"['Ce', 'P']","['Ce - Metal', 'P - Non-Metal']","[1.12, 2.19]",2,"{'Ce': 1.0, 'P': 2.0}",TRUE
+AsIrCf3I4,"['As', 'Ir', 'Cf', 'I']","['As - Non-Metal', 'Ir - Metal', 'Cf - Metal', 'I - Non-Metal']","[2.18, 2.2, 1.3, 2.66]",4,"{'As': 1.0, 'Ir': 1.0, 'Cf': 3.0, 'I': 4.0}",TRUE
+AsW3,"['As', 'W']","['As - Non-Metal', 'W - Metal']","[2.18, 2.36]",2,"{'As': 1.0, 'W': 3.0}",FALSE
+NGaZn2,"['N', 'Ga', 'Zn']","['N - Non-Metal', 'Ga - Metal', 'Zn - Metal']","[3.04, 1.81, 1.65]",3,"{'N': 1.0, 'Ga': 1.0, 'Zn': 2.0}",FALSE
+InPo2Bi4,"['In', 'Po', 'Bi']","['In - Metal', 'Po - Non-Metal', 'Bi - Metal']","[1.78, 2.0, 2.02]",3,"{'In': 1.0, 'Po': 2.0, 'Bi': 4.0}",TRUE
+CGa4,"['C', 'Ga']","['C - Non-Metal', 'Ga - Metal']","[2.55, 1.81]",2,"{'C': 1.0, 'Ga': 4.0}",FALSE
+Xe2At3Mn5,"['Xe', 'At', 'Mn']","['Xe - Non-Metal', 'At - Non-Metal', 'Mn - Metal']","[2.6, 2.2, 1.55]",3,"{'Xe': 2.0, 'At': 3.0, 'Mn': 5.0}",FALSE
+Nd2Te3,"['Nd', 'Te']","['Nd - Metal', 'Te - Non-Metal']","[1.14, 2.1]",2,"{'Nd': 2.0, 'Te': 3.0}",TRUE
+FPa2Rh5,"['F', 'Pa', 'Rh']","['F - Non-Metal', 'Pa - Metal', 'Rh - Metal']","[3.98, 1.5, 2.28]",3,"{'F': 1.0, 'Pa': 2.0, 'Rh': 5.0}",FALSE
+ClIr4,"['Cl', 'Ir']","['Cl - Non-Metal', 'Ir - Metal']","[3.16, 2.2]",2,"{'Cl': 1.0, 'Ir': 4.0}",FALSE
+Lu2Ti3I3W3,"['Lu', 'Ti', 'I', 'W']","['Lu - Metal', 'Ti - Metal', 'I - Non-Metal', 'W - Metal']","[1.27, 1.54, 2.66, 2.36]",4,"{'Lu': 2.0, 'Ti': 3.0, 'I': 3.0, 'W': 3.0}",TRUE
+XeAl2Re5,"['Xe', 'Al', 'Re']","['Xe - Non-Metal', 'Al - Metal', 'Re - Metal']","[2.6, 1.61, 1.9]",3,"{'Xe': 1.0, 'Al': 2.0, 'Re': 5.0}",TRUE
+AsNi3Zn3,"['As', 'Ni', 'Zn']","['As - Non-Metal', 'Ni - Metal', 'Zn - Metal']","[2.18, 1.91, 1.65]",3,"{'As': 1.0, 'Ni': 3.0, 'Zn': 3.0}",TRUE
+Cr2Pb2O3,"['Cr', 'Pb', 'O']","['Cr - Metal', 'Pb - Metal', 'O - Non-Metal']","[1.66, 2.33, 3.44]",3,"{'Cr': 2.0, 'Pb': 2.0, 'O': 3.0}",FALSE
+PaAmI4,"['Pa', 'Am', 'I']","['Pa - Metal', 'Am - Metal', 'I - Non-Metal']","[1.5, 1.3, 2.66]",3,"{'Pa': 1.0, 'Am': 1.0, 'I': 4.0}",TRUE
+S3Sb4,"['S', 'Sb']","['S - Non-Metal', 'Sb - Non-Metal']","[2.58, 2.05]",2,"{'S': 3.0, 'Sb': 4.0}",FALSE
+HoAmAt3Au4,"['Ho', 'Am', 'At', 'Au']","['Ho - Metal', 'Am - Metal', 'At - Non-Metal', 'Au - Metal']","[1.23, 1.3, 2.2, 2.54]",4,"{'Ho': 1.0, 'Am': 1.0, 'At': 3.0, 'Au': 4.0}",TRUE
+NaBr,"['Na', 'Br']","['Na - Metal', 'Br - Non-Metal']","[0.93, 2.96]",2,"{'Na': 1.0, 'Br': 1.0}",TRUE
+AlCl2Cr2Fe7,"['Al', 'Cl', 'Cr', 'Fe']","['Al - Metal', 'Cl - Non-Metal', 'Cr - Metal', 'Fe - Metal']","[1.61, 3.16, 1.66, 1.83]",4,"{'Al': 1.0, 'Cl': 2.0, 'Cr': 2.0, 'Fe': 7.0}",TRUE
+Re3Bi4,"['Re', 'Bi']","['Re - Metal', 'Bi - Metal']","[1.9, 2.02]",2,"{'Re': 3.0, 'Bi': 4.0}",TRUE
+HMnO4,"['H', 'Mn', 'O']","['H - Unknown', 'Mn - Metal', 'O - Non-Metal']","[2.2, 1.55, 3.44]",3,"{'H': 1.0, 'Mn': 1.0, 'O': 4.0}",FALSE
+TeLaNd2Sb4,"['Te', 'La', 'Nd', 'Sb']","['Te - Non-Metal', 'La - Metal', 'Nd - Metal', 'Sb - Non-Metal']","[2.1, 1.1, 1.14, 2.05]",4,"{'Te': 1.0, 'La': 1.0, 'Nd': 2.0, 'Sb': 4.0}",TRUE
+Ge2In3,"['Ge', 'In']","['Ge - Non-Metal', 'In - Metal']","[2.01, 1.78]",2,"{'Ge': 2.0, 'In': 3.0}",TRUE
+KI,"['K', 'I']","['K - Metal', 'I - Non-Metal']","[0.82, 2.66]",2,"{'K': 1.0, 'I': 1.0}",TRUE
+Ir3N5,"['Ir', 'N']","['Ir - Metal', 'N - Non-Metal']","[2.2, 3.04]",2,"{'Ir': 3.0, 'N': 5.0}",FALSE
+NaHgPuP4,"['Na', 'Hg', 'Pu', 'P']","['Na - Metal', 'Hg - Metal', 'Pu - Metal', 'P - Non-Metal']","[0.93, 2.0, 1.28, 2.19]",4,"{'Na': 1.0, 'Hg': 1.0, 'Pu': 1.0, 'P': 4.0}",TRUE
+FCmRe3P4,"['F', 'Cm', 'Re', 'P']","['F - Non-Metal', 'Cm - Metal', 'Re - Metal', 'P - Non-Metal']","[3.98, 1.3, 1.9, 2.19]",4,"{'F': 1.0, 'Cm': 1.0, 'Re': 3.0, 'P': 4.0}",FALSE
+ClPt2,"['Cl', 'Pt']","['Cl - Non-Metal', 'Pt - Metal']","[3.16, 2.28]",2,"{'Cl': 1.0, 'Pt': 2.0}",FALSE
+Zr2O5Cr7,"['Zr', 'O', 'Cr']","['Zr - Metal', 'O - Non-Metal', 'Cr - Metal']","[1.33, 3.44, 1.66]",3,"{'Zr': 2.0, 'O': 5.0, 'Cr': 7.0}",FALSE
+B2Xe3Es4Mo8,"['B', 'Xe', 'Es', 'Mo']","['B - Non-Metal', 'Xe - Non-Metal', 'Es - Metal', 'Mo - Metal']","[2.04, 2.6, 1.3, 2.16]",4,"{'B': 2.0, 'Xe': 3.0, 'Es': 4.0, 'Mo': 8.0}",TRUE
+Mn2Kr3Y3Fe4,"['Mn', 'Kr', 'Y', 'Fe']","['Mn - Metal', 'Kr - Non-Metal', 'Y - Metal', 'Fe - Metal']","[1.55, 3.0, 1.22, 1.83]",4,"{'Mn': 2.0, 'Kr': 3.0, 'Y': 3.0, 'Fe': 4.0}",TRUE
+GeTcEuPo3Zn4,"['Ge', 'Tc', 'Eu', 'Po', 'Zn']","['Ge - Non-Metal', 'Tc - Metal', 'Eu - Metal', 'Po - Non-Metal', 'Zn - Metal']","[2.01, 1.9, 1.2, 2.0, 1.65]",5,"{'Ge': 1.0, 'Tc': 1.0, 'Eu': 1.0, 'Po': 3.0, 'Zn': 4.0}",TRUE
+MnCl4,"['Mn', 'Cl']","['Mn - Metal', 'Cl - Non-Metal']","[1.55, 3.16]",2,"{'Mn': 1.0, 'Cl': 4.0}",FALSE
+KCo3Se4,"['K', 'Co', 'Se']","['K - Metal', 'Co - Metal', 'Se - Non-Metal']","[0.82, 1.88, 2.55]",3,"{'K': 1.0, 'Co': 3.0, 'Se': 4.0}",TRUE
+DyF2,"['Dy', 'F']","['Dy - Metal', 'F - Non-Metal']","[1.22, 3.98]",2,"{'Dy': 1.0, 'F': 2.0}",FALSE
+SFe2Zr3Bi5,"['S', 'Fe', 'Zr', 'Bi']","['S - Non-Metal', 'Fe - Metal', 'Zr - Metal', 'Bi - Metal']","[2.58, 1.83, 1.33, 2.02]",4,"{'S': 1.0, 'Fe': 2.0, 'Zr': 3.0, 'Bi': 5.0}",TRUE
+NbAt4,"['Nb', 'At']","['Nb - Metal', 'At - Non-Metal']","[1.6, 2.2]",2,"{'Nb': 1.0, 'At': 4.0}",TRUE
+VAs2At2Ge3,"['V', 'As', 'At', 'Ge']","['V - Metal', 'As - Non-Metal', 'At - Non-Metal', 'Ge - Non-Metal']","[1.63, 2.18, 2.2, 2.01]",4,"{'V': 1.0, 'As': 2.0, 'At': 2.0, 'Ge': 3.0}",TRUE
+VI4,"['V', 'I']","['V - Metal', 'I - Non-Metal']","[1.63, 2.66]",2,"{'V': 1.0, 'I': 4.0}",FALSE
+NSe2Sc5,"['N', 'Se', 'Sc']","['N - Non-Metal', 'Se - Non-Metal', 'Sc - Metal']","[3.04, 2.55, 1.36]",3,"{'N': 1.0, 'Se': 2.0, 'Sc': 5.0}",FALSE
+PdCl2I2,"['Pd', 'Cl', 'I']","['Pd - Metal', 'Cl - Non-Metal', 'I - Non-Metal']","[2.2, 3.16, 2.66]",3,"{'Pd': 1.0, 'Cl': 2.0, 'I': 2.0}",FALSE
+TaCa2Br3,"['Ta', 'Ca', 'Br']","['Ta - Metal', 'Ca - Metal', 'Br - Non-Metal']","[1.5, 1.0, 2.96]",3,"{'Ta': 1.0, 'Ca': 2.0, 'Br': 3.0}",TRUE
+CdC2,"['Cd', 'C']","['Cd - Metal', 'C - Non-Metal']","[1.69, 2.55]",2,"{'Cd': 1.0, 'C': 2.0}",FALSE
+SeGe2Re3,"['Se', 'Ge', 'Re']","['Se - Non-Metal', 'Ge - Non-Metal', 'Re - Metal']","[2.55, 2.01, 1.9]",3,"{'Se': 1.0, 'Ge': 2.0, 'Re': 3.0}",FALSE
+RnSi5Rh6,"['Rn', 'Si', 'Rh']","['Rn - Non-Metal', 'Si - Non-Metal', 'Rh - Metal']","[2.2, 1.9, 2.28]",3,"{'Rn': 1.0, 'Si': 5.0, 'Rh': 6.0}",FALSE
+CNb2Te2,"['C', 'Nb', 'Te']","['C - Non-Metal', 'Nb - Metal', 'Te - Non-Metal']","[2.55, 1.6, 2.1]",3,"{'C': 1.0, 'Nb': 2.0, 'Te': 2.0}",TRUE
+GdAm3Po4,"['Gd', 'Am', 'Po']","['Gd - Metal', 'Am - Metal', 'Po - Non-Metal']","[1.2, 1.3, 2.0]",3,"{'Gd': 1.0, 'Am': 3.0, 'Po': 4.0}",TRUE
+Bi2Hg3,"['Bi', 'Hg']","['Bi - Metal', 'Hg - Metal']","[2.02, 2.0]",2,"{'Bi': 2.0, 'Hg': 3.0}",TRUE
+MnF4,"['Mn', 'F']","['Mn - Metal', 'F - Non-Metal']","[1.55, 3.98]",2,"{'Mn': 1.0, 'F': 4.0}",FALSE
+AsISc4Ni5,"['As', 'I', 'Sc', 'Ni']","['As - Non-Metal', 'I - Non-Metal', 'Sc - Metal', 'Ni - Metal']","[2.18, 2.66, 1.36, 1.91]",4,"{'As': 1.0, 'I': 1.0, 'Sc': 4.0, 'Ni': 5.0}",TRUE
+CAl2,"['C', 'Al']","['C - Non-Metal', 'Al - Metal']","[2.55, 1.61]",2,"{'C': 1.0, 'Al': 2.0}",TRUE
+NpTe3,"['Np', 'Te']","['Np - Metal', 'Te - Non-Metal']","[1.36, 2.1]",2,"{'Np': 1.0, 'Te': 3.0}",TRUE
+PoTc4Ge5,"['Po', 'Tc', 'Ge']","['Po - Non-Metal', 'Tc - Metal', 'Ge - Non-Metal']","[2.0, 1.9, 2.01]",3,"{'Po': 1.0, 'Tc': 4.0, 'Ge': 5.0}",TRUE
+HfF3,"['Hf', 'F']","['Hf - Metal', 'F - Non-Metal']","[1.3, 3.98]",2,"{'Hf': 1.0, 'F': 3.0}",FALSE
+SnXe2,"['Sn', 'Xe']","['Sn - Metal', 'Xe - Non-Metal']","[1.96, 2.6]",2,"{'Sn': 1.0, 'Xe': 2.0}",FALSE
+GaAs2Tm2,"['Ga', 'As', 'Tm']","['Ga - Metal', 'As - Non-Metal', 'Tm - Metal']","[1.81, 2.18, 1.25]",3,"{'Ga': 1.0, 'As': 2.0, 'Tm': 2.0}",TRUE
+Br3Mn4,"['Br', 'Mn']","['Br - Non-Metal', 'Mn - Metal']","[2.96, 1.55]",2,"{'Br': 3.0, 'Mn': 4.0}",FALSE
+BiXe3,"['Bi', 'Xe']","['Bi - Metal', 'Xe - Non-Metal']","[2.02, 2.6]",2,"{'Bi': 1.0, 'Xe': 3.0}",FALSE
+SnN2Kr2Pt3,"['Sn', 'N', 'Kr', 'Pt']","['Sn - Metal', 'N - Non-Metal', 'Kr - Non-Metal', 'Pt - Metal']","[1.96, 3.04, 3.0, 2.28]",4,"{'Sn': 1.0, 'N': 2.0, 'Kr': 2.0, 'Pt': 3.0}",FALSE
+AtNoW3H4Hf4,"['At', 'No', 'W', 'H', 'Hf']","['At - Non-Metal', 'No - Metal', 'W - Metal', 'H - Unknown', 'Hf - Metal']","[2.2, 1.3, 2.36, 2.2, 1.3]",5,"{'At': 1.0, 'No': 1.0, 'W': 3.0, 'H': 4.0, 'Hf': 4.0}",TRUE
+SeLaAt2V3,"['Se', 'La', 'At', 'V']","['Se - Non-Metal', 'La - Metal', 'At - Non-Metal', 'V - Metal']","[2.55, 1.1, 2.2, 1.63]",4,"{'Se': 1.0, 'La': 1.0, 'At': 2.0, 'V': 3.0}",TRUE
+SBa3Br4,"['S', 'Ba', 'Br']","['S - Non-Metal', 'Ba - Metal', 'Br - Non-Metal']","[2.58, 0.89, 2.96]",3,"{'S': 1.0, 'Ba': 3.0, 'Br': 4.0}",FALSE
+Ge2Se3,"['Ge', 'Se']","['Ge - Non-Metal', 'Se - Non-Metal']","[2.01, 2.55]",2,"{'Ge': 2.0, 'Se': 3.0}",FALSE
+MoCl4Cr7,"['Mo', 'Cl', 'Cr']","['Mo - Metal', 'Cl - Non-Metal', 'Cr - Metal']","[2.16, 3.16, 1.66]",3,"{'Mo': 1.0, 'Cl': 4.0, 'Cr': 7.0}",FALSE
+SrSe2Mn3,"['Sr', 'Se', 'Mn']","['Sr - Metal', 'Se - Non-Metal', 'Mn - Metal']","[0.95, 2.55, 1.55]",3,"{'Sr': 1.0, 'Se': 2.0, 'Mn': 3.0}",TRUE
+ScBrN4Nb5,"['Sc', 'Br', 'N', 'Nb']","['Sc - Metal', 'Br - Non-Metal', 'N - Non-Metal', 'Nb - Metal']","[1.36, 2.96, 3.04, 1.6]",4,"{'Sc': 1.0, 'Br': 1.0, 'N': 4.0, 'Nb': 5.0}",FALSE
+HSPb2Ti8,"['H', 'S', 'Pb', 'Ti']","['H - Unknown', 'S - Non-Metal', 'Pb - Metal', 'Ti - Metal']","[2.2, 2.58, 2.33, 1.54]",4,"{'H': 1.0, 'S': 1.0, 'Pb': 2.0, 'Ti': 8.0}",FALSE
+GeSb3Te3Rh4,"['Ge', 'Sb', 'Te', 'Rh']","['Ge - Non-Metal', 'Sb - Non-Metal', 'Te - Non-Metal', 'Rh - Metal']","[2.01, 2.05, 2.1, 2.28]",4,"{'Ge': 1.0, 'Sb': 3.0, 'Te': 3.0, 'Rh': 4.0}",FALSE
+BrTcBi3Mn5Nb5,"['Br', 'Tc', 'Bi', 'Mn', 'Nb']","['Br - Non-Metal', 'Tc - Metal', 'Bi - Metal', 'Mn - Metal', 'Nb - Metal']","[2.96, 1.9, 2.02, 1.55, 1.6]",5,"{'Br': 1.0, 'Tc': 1.0, 'Bi': 3.0, 'Mn': 5.0, 'Nb': 5.0}",TRUE
+SRu3Tc7,"['S', 'Ru', 'Tc']","['S - Non-Metal', 'Ru - Metal', 'Tc - Metal']","[2.58, 2.2, 1.9]",3,"{'S': 1.0, 'Ru': 3.0, 'Tc': 7.0}",FALSE
+PbP2,"['Pb', 'P']","['Pb - Metal', 'P - Non-Metal']","[2.33, 2.19]",2,"{'Pb': 1.0, 'P': 2.0}",FALSE
+La2Ta2S7,"['La', 'Ta', 'S']","['La - Metal', 'Ta - Metal', 'S - Non-Metal']","[1.1, 1.5, 2.58]",3,"{'La': 2.0, 'Ta': 2.0, 'S': 7.0}",TRUE
+Mo2Xe2Ru3Tl5,"['Mo', 'Xe', 'Ru', 'Tl']","['Mo - Metal', 'Xe - Non-Metal', 'Ru - Metal', 'Tl - Metal']","[2.16, 2.6, 2.2, 1.62]",4,"{'Mo': 2.0, 'Xe': 2.0, 'Ru': 3.0, 'Tl': 5.0}",FALSE
+IFe2,"['I', 'Fe']","['I - Non-Metal', 'Fe - Metal']","[2.66, 1.83]",2,"{'I': 1.0, 'Fe': 2.0}",FALSE
+BKF3,"['B', 'K', 'F']","['B - Non-Metal', 'K - Metal', 'F - Non-Metal']","[2.04, 0.82, 3.98]",3,"{'B': 1.0, 'K': 1.0, 'F': 3.0}",FALSE
+TbSe5Tc8,"['Tb', 'Se', 'Tc']","['Tb - Metal', 'Se - Non-Metal', 'Tc - Metal']","[1.1, 2.55, 1.9]",3,"{'Tb': 1.0, 'Se': 5.0, 'Tc': 8.0}",TRUE
+ScTaTm2Kr3Os5,"['Sc', 'Ta', 'Tm', 'Kr', 'Os']","['Sc - Metal', 'Ta - Metal', 'Tm - Metal', 'Kr - Non-Metal', 'Os - Metal']","[1.36, 1.5, 1.25, 3.0, 2.2]",5,"{'Sc': 1.0, 'Ta': 1.0, 'Tm': 2.0, 'Kr': 3.0, 'Os': 5.0}",TRUE
+LuAg2F3Ni6,"['Lu', 'Ag', 'F', 'Ni']","['Lu - Metal', 'Ag - Metal', 'F - Non-Metal', 'Ni - Metal']","[1.27, 1.93, 3.98, 1.91]",4,"{'Lu': 1.0, 'Ag': 2.0, 'F': 3.0, 'Ni': 6.0}",FALSE
+Po3Tc4,"['Po', 'Tc']","['Po - Non-Metal', 'Tc - Metal']","[2.0, 1.9]",2,"{'Po': 3.0, 'Tc': 4.0}",TRUE
+PtRnMo3Pd5,"['Pt', 'Rn', 'Mo', 'Pd']","['Pt - Metal', 'Rn - Non-Metal', 'Mo - Metal', 'Pd - Metal']","[2.28, 2.2, 2.16, 2.2]",4,"{'Pt': 1.0, 'Rn': 1.0, 'Mo': 3.0, 'Pd': 5.0}",FALSE
+Fe2As3Re3,"['Fe', 'As', 'Re']","['Fe - Metal', 'As - Non-Metal', 'Re - Metal']","[1.83, 2.18, 1.9]",3,"{'Fe': 2.0, 'As': 3.0, 'Re': 3.0}",TRUE
+ITi2Rh5,"['I', 'Ti', 'Rh']","['I - Non-Metal', 'Ti - Metal', 'Rh - Metal']","[2.66, 1.54, 2.28]",3,"{'I': 1.0, 'Ti': 2.0, 'Rh': 5.0}",FALSE
+NaZn2Ir2Pu2I3,"['Na', 'Zn', 'Ir', 'Pu', 'I']","['Na - Metal', 'Zn - Metal', 'Ir - Metal', 'Pu - Metal', 'I - Non-Metal']","[0.93, 1.65, 2.2, 1.28, 2.66]",5,"{'Na': 1.0, 'Zn': 2.0, 'Ir': 2.0, 'Pu': 2.0, 'I': 3.0}",TRUE
+Os2Nd3S4,"['Os', 'Nd', 'S']","['Os - Metal', 'Nd - Metal', 'S - Non-Metal']","[2.2, 1.14, 2.58]",3,"{'Os': 2.0, 'Nd': 3.0, 'S': 4.0}",TRUE
+TcAtH6Cr8,"['Tc', 'At', 'H', 'Cr']","['Tc - Metal', 'At - Non-Metal', 'H - Unknown', 'Cr - Metal']","[1.9, 2.2, 2.2, 1.66]",4,"{'Tc': 1.0, 'At': 1.0, 'H': 6.0, 'Cr': 8.0}",TRUE
+Ho2Te3Fe6,"['Ho', 'Te', 'Fe']","['Ho - Metal', 'Te - Non-Metal', 'Fe - Metal']","[1.23, 2.1, 1.83]",3,"{'Ho': 2.0, 'Te': 3.0, 'Fe': 6.0}",TRUE
+HgCo2Sb3,"['Hg', 'Co', 'Sb']","['Hg - Metal', 'Co - Metal', 'Sb - Non-Metal']","[2.0, 1.88, 2.05]",3,"{'Hg': 1.0, 'Co': 2.0, 'Sb': 3.0}",TRUE
+GaC2Al3,"['Ga', 'C', 'Al']","['Ga - Metal', 'C - Non-Metal', 'Al - Metal']","[1.81, 2.55, 1.61]",3,"{'Ga': 1.0, 'C': 2.0, 'Al': 3.0}",TRUE
+N2Kr2Cr5,"['N', 'Kr', 'Cr']","['N - Non-Metal', 'Kr - Non-Metal', 'Cr - Metal']","[3.04, 3.0, 1.66]",3,"{'N': 2.0, 'Kr': 2.0, 'Cr': 5.0}",FALSE
+MnFe2Po4,"['Mn', 'Fe', 'Po']","['Mn - Metal', 'Fe - Metal', 'Po - Non-Metal']","[1.55, 1.83, 2.0]",3,"{'Mn': 1.0, 'Fe': 2.0, 'Po': 4.0}",TRUE
+TcY3Po6,"['Tc', 'Y', 'Po']","['Tc - Metal', 'Y - Metal', 'Po - Non-Metal']","[1.9, 1.22, 2.0]",3,"{'Tc': 1.0, 'Y': 3.0, 'Po': 6.0}",TRUE
+ClB2Ta5,"['Cl', 'B', 'Ta']","['Cl - Non-Metal', 'B - Non-Metal', 'Ta - Metal']","[3.16, 2.04, 1.5]",3,"{'Cl': 1.0, 'B': 2.0, 'Ta': 5.0}",FALSE
+OsIn2Te2Tl5,"['Os', 'In', 'Te', 'Tl']","['Os - Metal', 'In - Metal', 'Te - Non-Metal', 'Tl - Metal']","[2.2, 1.78, 2.1, 1.62]",4,"{'Os': 1.0, 'In': 2.0, 'Te': 2.0, 'Tl': 5.0}",TRUE
+MnP5,"['Mn', 'P']","['Mn - Metal', 'P - Non-Metal']","[1.55, 2.19]",2,"{'Mn': 1.0, 'P': 5.0}",TRUE
+RnAt4Pt5,"['Rn', 'At', 'Pt']","['Rn - Non-Metal', 'At - Non-Metal', 'Pt - Metal']","[2.2, 2.2, 2.28]",3,"{'Rn': 1.0, 'At': 4.0, 'Pt': 5.0}",FALSE
+OW2Os5,"['O', 'W', 'Os']","['O - Non-Metal', 'W - Metal', 'Os - Metal']","[3.44, 2.36, 2.2]",3,"{'O': 1.0, 'W': 2.0, 'Os': 5.0}",FALSE
+ErBa2Br3Tl3,"['Er', 'Ba', 'Br', 'Tl']","['Er - Metal', 'Ba - Metal', 'Br - Non-Metal', 'Tl - Metal']","[1.24, 0.89, 2.96, 1.62]",4,"{'Er': 1.0, 'Ba': 2.0, 'Br': 3.0, 'Tl': 3.0}",TRUE
+RhBk2S4,"['Rh', 'Bk', 'S']","['Rh - Metal', 'Bk - Metal', 'S - Non-Metal']","[2.28, 1.3, 2.58]",3,"{'Rh': 1.0, 'Bk': 2.0, 'S': 4.0}",TRUE
+NaO2Ni5,"['Na', 'O', 'Ni']","['Na - Metal', 'O - Non-Metal', 'Ni - Metal']","[0.93, 3.44, 1.91]",3,"{'Na': 1.0, 'O': 2.0, 'Ni': 5.0}",TRUE
+IrI2Ta5,"['Ir', 'I', 'Ta']","['Ir - Metal', 'I - Non-Metal', 'Ta - Metal']","[2.2, 2.66, 1.5]",3,"{'Ir': 1.0, 'I': 2.0, 'Ta': 5.0}",FALSE
+HoSb2Ir4,"['Ho', 'Sb', 'Ir']","['Ho - Metal', 'Sb - Non-Metal', 'Ir - Metal']","[1.23, 2.05, 2.2]",3,"{'Ho': 1.0, 'Sb': 2.0, 'Ir': 4.0}",TRUE
+PrHo3Se5,"['Pr', 'Ho', 'Se']","['Pr - Metal', 'Ho - Metal', 'Se - Non-Metal']","[1.13, 1.23, 2.55]",3,"{'Pr': 1.0, 'Ho': 3.0, 'Se': 5.0}",TRUE
+KrC2Ho4Ni6,"['Kr', 'C', 'Ho', 'Ni']","['Kr - Non-Metal', 'C - Non-Metal', 'Ho - Metal', 'Ni - Metal']","[3.0, 2.55, 1.23, 1.91]",4,"{'Kr': 1.0, 'C': 2.0, 'Ho': 4.0, 'Ni': 6.0}",FALSE
+BiKr2Pd3Re5,"['Bi', 'Kr', 'Pd', 'Re']","['Bi - Metal', 'Kr - Non-Metal', 'Pd - Metal', 'Re - Metal']","[2.02, 3.0, 2.2, 1.9]",4,"{'Bi': 1.0, 'Kr': 2.0, 'Pd': 3.0, 'Re': 5.0}",FALSE
+O2Lr2Xe3Tc7,"['O', 'Lr', 'Xe', 'Tc']","['O - Non-Metal', 'Lr - Metal', 'Xe - Non-Metal', 'Tc - Metal']","[3.44, 1.3, 2.6, 1.9]",4,"{'O': 2.0, 'Lr': 2.0, 'Xe': 3.0, 'Tc': 7.0}",FALSE
+BrHf4As7,"['Br', 'Hf', 'As']","['Br - Non-Metal', 'Hf - Metal', 'As - Non-Metal']","[2.96, 1.3, 2.18]",3,"{'Br': 1.0, 'Hf': 4.0, 'As': 7.0}",FALSE
+CfBr3,"['Cf', 'Br']","['Cf - Metal', 'Br - Non-Metal']","[1.3, 2.96]",2,"{'Cf': 1.0, 'Br': 3.0}",FALSE
+Cr3P4,"['Cr', 'P']","['Cr - Metal', 'P - Non-Metal']","[1.66, 2.19]",2,"{'Cr': 3.0, 'P': 4.0}",TRUE
+Ge2Xe3C4Lu5,"['Ge', 'Xe', 'C', 'Lu']","['Ge - Non-Metal', 'Xe - Non-Metal', 'C - Non-Metal', 'Lu - Metal']","[2.01, 2.6, 2.55, 1.27]",4,"{'Ge': 2.0, 'Xe': 3.0, 'C': 4.0, 'Lu': 5.0}",FALSE
+TiN2,"['Ti', 'N']","['Ti - Metal', 'N - Non-Metal']","[1.54, 3.04]",2,"{'Ti': 1.0, 'N': 2.0}",FALSE
+AsXeTc8,"['As', 'Xe', 'Tc']","['As - Non-Metal', 'Xe - Non-Metal', 'Tc - Metal']","[2.18, 2.6, 1.9]",3,"{'As': 1.0, 'Xe': 1.0, 'Tc': 8.0}",FALSE
+FP4Ga5,"['F', 'P', 'Ga']","['F - Non-Metal', 'P - Non-Metal', 'Ga - Metal']","[3.98, 2.19, 1.81]",3,"{'F': 1.0, 'P': 4.0, 'Ga': 5.0}",FALSE
+TeGe2Fe4,"['Te', 'Ge', 'Fe']","['Te - Non-Metal', 'Ge - Non-Metal', 'Fe - Metal']","[2.1, 2.01, 1.83]",3,"{'Te': 1.0, 'Ge': 2.0, 'Fe': 4.0}",TRUE
+MdW2I5,"['Md', 'W', 'I']","['Md - Metal', 'W - Metal', 'I - Non-Metal']","[1.3, 2.36, 2.66]",3,"{'Md': 1.0, 'W': 2.0, 'I': 5.0}",FALSE
+NpCl2H4,"['Np', 'Cl', 'H']","['Np - Metal', 'Cl - Non-Metal', 'H - Unknown']","[1.36, 3.16, 2.2]",3,"{'Np': 1.0, 'Cl': 2.0, 'H': 4.0}",FALSE
+PaSm2Te3,"['Pa', 'Sm', 'Te']","['Pa - Metal', 'Sm - Metal', 'Te - Non-Metal']","[1.5, 1.17, 2.1]",3,"{'Pa': 1.0, 'Sm': 2.0, 'Te': 3.0}",TRUE
+NiSrTe2,"['Ni', 'Sr', 'Te']","['Ni - Metal', 'Sr - Metal', 'Te - Non-Metal']","[1.91, 0.95, 2.1]",3,"{'Ni': 1.0, 'Sr': 1.0, 'Te': 2.0}",TRUE
+TePr,"['Te', 'Pr']","['Te - Non-Metal', 'Pr - Metal']","[2.1, 1.13]",2,"{'Te': 1.0, 'Pr': 1.0}",TRUE
+PoO5,"['Po', 'O']","['Po - Non-Metal', 'O - Non-Metal']","[2.0, 3.44]",2,"{'Po': 1.0, 'O': 5.0}",FALSE
+SiAs4,"['Si', 'As']","['Si - Non-Metal', 'As - Non-Metal']","[1.9, 2.18]",2,"{'Si': 1.0, 'As': 4.0}",TRUE
+RuRe2Er3At5,"['Ru', 'Re', 'Er', 'At']","['Ru - Metal', 'Re - Metal', 'Er - Metal', 'At - Non-Metal']","[2.2, 1.9, 1.24, 2.2]",4,"{'Ru': 1.0, 'Re': 2.0, 'Er': 3.0, 'At': 5.0}",TRUE
+O2Ru3Tl5,"['O', 'Ru', 'Tl']","['O - Non-Metal', 'Ru - Metal', 'Tl - Metal']","[3.44, 2.2, 1.62]",3,"{'O': 2.0, 'Ru': 3.0, 'Tl': 5.0}",FALSE
+CfIr2Au2Rn2S5,"['Cf', 'Ir', 'Au', 'Rn', 'S']","['Cf - Metal', 'Ir - Metal', 'Au - Metal', 'Rn - Non-Metal', 'S - Non-Metal']","[1.3, 2.2, 2.54, 2.2, 2.58]",5,"{'Cf': 1.0, 'Ir': 2.0, 'Au': 2.0, 'Rn': 2.0, 'S': 5.0}",FALSE
+V2Rh4Po5,"['V', 'Rh', 'Po']","['V - Metal', 'Rh - Metal', 'Po - Non-Metal']","[1.63, 2.28, 2.0]",3,"{'V': 2.0, 'Rh': 4.0, 'Po': 5.0}",TRUE
+C3At3Y4Rh4,"['C', 'At', 'Y', 'Rh']","['C - Non-Metal', 'At - Non-Metal', 'Y - Metal', 'Rh - Metal']","[2.55, 2.2, 1.22, 2.28]",4,"{'C': 3.0, 'At': 3.0, 'Y': 4.0, 'Rh': 4.0}",TRUE
+POs3Kr4,"['P', 'Os', 'Kr']","['P - Non-Metal', 'Os - Metal', 'Kr - Non-Metal']","[2.19, 2.2, 3.0]",3,"{'P': 1.0, 'Os': 3.0, 'Kr': 4.0}",FALSE
+OScN2Nd2,"['O', 'Sc', 'N', 'Nd']","['O - Non-Metal', 'Sc - Metal', 'N - Non-Metal', 'Nd - Metal']","[3.44, 1.36, 3.04, 1.14]",4,"{'O': 1.0, 'Sc': 1.0, 'N': 2.0, 'Nd': 2.0}",FALSE
+CeP3,"['Ce', 'P']","['Ce - Metal', 'P - Non-Metal']","[1.12, 2.19]",2,"{'Ce': 1.0, 'P': 3.0}",TRUE
+PbI2Cd3,"['Pb', 'I', 'Cd']","['Pb - Metal', 'I - Non-Metal', 'Cd - Metal']","[2.33, 2.66, 1.69]",3,"{'Pb': 1.0, 'I': 2.0, 'Cd': 3.0}",FALSE
+Ru3Bi7,"['Ru', 'Bi']","['Ru - Metal', 'Bi - Metal']","[2.2, 2.02]",2,"{'Ru': 3.0, 'Bi': 7.0}",FALSE
+XeP3Gd3Au3,"['Xe', 'P', 'Gd', 'Au']","['Xe - Non-Metal', 'P - Non-Metal', 'Gd - Metal', 'Au - Metal']","[2.6, 2.19, 1.2, 2.54]",4,"{'Xe': 1.0, 'P': 3.0, 'Gd': 3.0, 'Au': 3.0}",FALSE
+MoBi,"['Mo', 'Bi']","['Mo - Metal', 'Bi - Metal']","[2.16, 2.02]",2,"{'Mo': 1.0, 'Bi': 1.0}",TRUE
+I2Ho2Cr3,"['I', 'Ho', 'Cr']","['I - Non-Metal', 'Ho - Metal', 'Cr - Metal']","[2.66, 1.23, 1.66]",3,"{'I': 2.0, 'Ho': 2.0, 'Cr': 3.0}",TRUE
+NiEr2P4Hg4,"['Ni', 'Er', 'P', 'Hg']","['Ni - Metal', 'Er - Metal', 'P - Non-Metal', 'Hg - Metal']","[1.91, 1.24, 2.19, 2.0]",4,"{'Ni': 1.0, 'Er': 2.0, 'P': 4.0, 'Hg': 4.0}",TRUE
+ZnP2As2Os2,"['Zn', 'P', 'As', 'Os']","['Zn - Metal', 'P - Non-Metal', 'As - Non-Metal', 'Os - Metal']","[1.65, 2.19, 2.18, 2.2]",4,"{'Zn': 1.0, 'P': 2.0, 'As': 2.0, 'Os': 2.0}",TRUE
+MoCmTe4,"['Mo', 'Cm', 'Te']","['Mo - Metal', 'Cm - Metal', 'Te - Non-Metal']","[2.16, 1.3, 2.1]",3,"{'Mo': 1.0, 'Cm': 1.0, 'Te': 4.0}",TRUE
+CfCl2Rh4,"['Cf', 'Cl', 'Rh']","['Cf - Metal', 'Cl - Non-Metal', 'Rh - Metal']","[1.3, 3.16, 2.28]",3,"{'Cf': 1.0, 'Cl': 2.0, 'Rh': 4.0}",FALSE
+XeC2I2Pm3,"['Xe', 'C', 'I', 'Pm']","['Xe - Non-Metal', 'C - Non-Metal', 'I - Non-Metal', 'Pm - Metal']","[2.6, 2.55, 2.66, 1.13]",4,"{'Xe': 1.0, 'C': 2.0, 'I': 2.0, 'Pm': 3.0}",FALSE
+GeN3Lu4,"['Ge', 'N', 'Lu']","['Ge - Non-Metal', 'N - Non-Metal', 'Lu - Metal']","[2.01, 3.04, 1.27]",3,"{'Ge': 1.0, 'N': 3.0, 'Lu': 4.0}",FALSE
+I2Mn5,"['I', 'Mn']","['I - Non-Metal', 'Mn - Metal']","[2.66, 1.55]",2,"{'I': 2.0, 'Mn': 5.0}",FALSE
+CrI,"['Cr', 'I']","['Cr - Metal', 'I - Non-Metal']","[1.66, 2.66]",2,"{'Cr': 1.0, 'I': 1.0}",FALSE
+NiKr2Cr6,"['Ni', 'Kr', 'Cr']","['Ni - Metal', 'Kr - Non-Metal', 'Cr - Metal']","[1.91, 3.0, 1.66]",3,"{'Ni': 1.0, 'Kr': 2.0, 'Cr': 6.0}",FALSE
+MnTa4O6,"['Mn', 'Ta', 'O']","['Mn - Metal', 'Ta - Metal', 'O - Non-Metal']","[1.55, 1.5, 3.44]",3,"{'Mn': 1.0, 'Ta': 4.0, 'O': 6.0}",FALSE
+PmP2,"['Pm', 'P']","['Pm - Metal', 'P - Non-Metal']","[1.13, 2.19]",2,"{'Pm': 1.0, 'P': 2.0}",TRUE
+GeAs4,"['Ge', 'As']","['Ge - Non-Metal', 'As - Non-Metal']","[2.01, 2.18]",2,"{'Ge': 1.0, 'As': 4.0}",TRUE
+MnS6,"['Mn', 'S']","['Mn - Metal', 'S - Non-Metal']","[1.55, 2.58]",2,"{'Mn': 1.0, 'S': 6.0}",TRUE
+SiBi2,"['Si', 'Bi']","['Si - Non-Metal', 'Bi - Metal']","[1.9, 2.02]",2,"{'Si': 1.0, 'Bi': 2.0}",TRUE
+Cr2I5Nb7,"['Cr', 'I', 'Nb']","['Cr - Metal', 'I - Non-Metal', 'Nb - Metal']","[1.66, 2.66, 1.6]",3,"{'Cr': 2.0, 'I': 5.0, 'Nb': 7.0}",TRUE
+GaCl2,"['Ga', 'Cl']","['Ga - Metal', 'Cl - Non-Metal']","[1.81, 3.16]",2,"{'Ga': 1.0, 'Cl': 2.0}",FALSE
+NAt2,"['N', 'At']","['N - Non-Metal', 'At - Non-Metal']","[3.04, 2.2]",2,"{'N': 1.0, 'At': 2.0}",FALSE
+ScSnTe,"['Sc', 'Sn', 'Te']","['Sc - Metal', 'Sn - Metal', 'Te - Non-Metal']","[1.36, 1.96, 2.1]",3,"{'Sc': 1.0, 'Sn': 1.0, 'Te': 1.0}",TRUE
+C2H3Mo5,"['C', 'H', 'Mo']","['C - Non-Metal', 'H - Unknown', 'Mo - Metal']","[2.55, 2.2, 2.16]",3,"{'C': 2.0, 'H': 3.0, 'Mo': 5.0}",FALSE
+VPdSb3,"['V', 'Pd', 'Sb']","['V - Metal', 'Pd - Metal', 'Sb - Non-Metal']","[1.63, 2.2, 2.05]",3,"{'V': 1.0, 'Pd': 1.0, 'Sb': 3.0}",TRUE
+TePrPo4,"['Te', 'Pr', 'Po']","['Te - Non-Metal', 'Pr - Metal', 'Po - Non-Metal']","[2.1, 1.13, 2.0]",3,"{'Te': 1.0, 'Pr': 1.0, 'Po': 4.0}",TRUE
+Tc2K3At3,"['Tc', 'K', 'At']","['Tc - Metal', 'K - Metal', 'At - Non-Metal']","[1.9, 0.82, 2.2]",3,"{'Tc': 2.0, 'K': 3.0, 'At': 3.0}",TRUE
+Be2Po2S3,"['Be', 'Po', 'S']","['Be - Metal', 'Po - Non-Metal', 'S - Non-Metal']","[1.57, 2.0, 2.58]",3,"{'Be': 2.0, 'Po': 2.0, 'S': 3.0}",TRUE
+PtTe2Ce2F3,"['Pt', 'Te', 'Ce', 'F']","['Pt - Metal', 'Te - Non-Metal', 'Ce - Metal', 'F - Non-Metal']","[2.28, 2.1, 1.12, 3.98]",4,"{'Pt': 1.0, 'Te': 2.0, 'Ce': 2.0, 'F': 3.0}",FALSE
+Si3At4,"['Si', 'At']","['Si - Non-Metal', 'At - Non-Metal']","[1.9, 2.2]",2,"{'Si': 3.0, 'At': 4.0}",TRUE
+Md2Te3Tc7,"['Md', 'Te', 'Tc']","['Md - Metal', 'Te - Non-Metal', 'Tc - Metal']","[1.3, 2.1, 1.9]",3,"{'Md': 2.0, 'Te': 3.0, 'Tc': 7.0}",TRUE
+SeHo,"['Se', 'Ho']","['Se - Non-Metal', 'Ho - Metal']","[2.55, 1.23]",2,"{'Se': 1.0, 'Ho': 1.0}",TRUE
+SePt,"['Se', 'Pt']","['Se - Non-Metal', 'Pt - Metal']","[2.55, 2.28]",2,"{'Se': 1.0, 'Pt': 1.0}",FALSE
+Br2Ru7,"['Br', 'Ru']","['Br - Non-Metal', 'Ru - Metal']","[2.96, 2.2]",2,"{'Br': 2.0, 'Ru': 7.0}",FALSE
+As3P5,"['As', 'P']","['As - Non-Metal', 'P - Non-Metal']","[2.18, 2.19]",2,"{'As': 3.0, 'P': 5.0}",FALSE
+BKr2Tl4W5,"['B', 'Kr', 'Tl', 'W']","['B - Non-Metal', 'Kr - Non-Metal', 'Tl - Metal', 'W - Metal']","[2.04, 3.0, 1.62, 2.36]",4,"{'B': 1.0, 'Kr': 2.0, 'Tl': 4.0, 'W': 5.0}",FALSE
+IrCl5,"['Ir', 'Cl']","['Ir - Metal', 'Cl - Non-Metal']","[2.2, 3.16]",2,"{'Ir': 1.0, 'Cl': 5.0}",FALSE
+SbMn3Ga3,"['Sb', 'Mn', 'Ga']","['Sb - Non-Metal', 'Mn - Metal', 'Ga - Metal']","[2.05, 1.55, 1.81]",3,"{'Sb': 1.0, 'Mn': 3.0, 'Ga': 3.0}",TRUE
+XeP2Ta6,"['Xe', 'P', 'Ta']","['Xe - Non-Metal', 'P - Non-Metal', 'Ta - Metal']","[2.6, 2.19, 1.5]",3,"{'Xe': 1.0, 'P': 2.0, 'Ta': 6.0}",TRUE
+RuCl4,"['Ru', 'Cl']","['Ru - Metal', 'Cl - Non-Metal']","[2.2, 3.16]",2,"{'Ru': 1.0, 'Cl': 4.0}",FALSE
+OGe4Ir6,"['O', 'Ge', 'Ir']","['O - Non-Metal', 'Ge - Non-Metal', 'Ir - Metal']","[3.44, 2.01, 2.2]",3,"{'O': 1.0, 'Ge': 4.0, 'Ir': 6.0}",FALSE
+TlAl2Te2Re5,"['Tl', 'Al', 'Te', 'Re']","['Tl - Metal', 'Al - Metal', 'Te - Non-Metal', 'Re - Metal']","[1.62, 1.61, 2.1, 1.9]",4,"{'Tl': 1.0, 'Al': 2.0, 'Te': 2.0, 'Re': 5.0}",TRUE
+GdBr2Te2Be4,"['Gd', 'Br', 'Te', 'Be']","['Gd - Metal', 'Br - Non-Metal', 'Te - Non-Metal', 'Be - Metal']","[1.2, 2.96, 2.1, 1.57]",4,"{'Gd': 1.0, 'Br': 2.0, 'Te': 2.0, 'Be': 4.0}",TRUE
+Br2Pd3H4,"['Br', 'Pd', 'H']","['Br - Non-Metal', 'Pd - Metal', 'H - Unknown']","[2.96, 2.2, 2.2]",3,"{'Br': 2.0, 'Pd': 3.0, 'H': 4.0}",FALSE
+RuRh2As6,"['Ru', 'Rh', 'As']","['Ru - Metal', 'Rh - Metal', 'As - Non-Metal']","[2.2, 2.28, 2.18]",3,"{'Ru': 1.0, 'Rh': 2.0, 'As': 6.0}",FALSE
+NNo2Te4,"['N', 'No', 'Te']","['N - Non-Metal', 'No - Metal', 'Te - Non-Metal']","[3.04, 1.3, 2.1]",3,"{'N': 1.0, 'No': 2.0, 'Te': 4.0}",FALSE
+Ge2Te2Zr5,"['Ge', 'Te', 'Zr']","['Ge - Non-Metal', 'Te - Non-Metal', 'Zr - Metal']","[2.01, 2.1, 1.33]",3,"{'Ge': 2.0, 'Te': 2.0, 'Zr': 5.0}",TRUE
+NpN3,"['Np', 'N']","['Np - Metal', 'N - Non-Metal']","[1.36, 3.04]",2,"{'Np': 1.0, 'N': 3.0}",FALSE
+ZrN4,"['Zr', 'N']","['Zr - Metal', 'N - Non-Metal']","[1.33, 3.04]",2,"{'Zr': 1.0, 'N': 4.0}",FALSE
+SeTaPo4,"['Se', 'Ta', 'Po']","['Se - Non-Metal', 'Ta - Metal', 'Po - Non-Metal']","[2.55, 1.5, 2.0]",3,"{'Se': 1.0, 'Ta': 1.0, 'Po': 4.0}",TRUE
+BiPoH2,"['Bi', 'Po', 'H']","['Bi - Metal', 'Po - Non-Metal', 'H - Unknown']","[2.02, 2.0, 2.2]",3,"{'Bi': 1.0, 'Po': 1.0, 'H': 2.0}",TRUE
+Ni2Pu3Te4Ta4,"['Ni', 'Pu', 'Te', 'Ta']","['Ni - Metal', 'Pu - Metal', 'Te - Non-Metal', 'Ta - Metal']","[1.91, 1.28, 2.1, 1.5]",4,"{'Ni': 2.0, 'Pu': 3.0, 'Te': 4.0, 'Ta': 4.0}",TRUE
+WPtBi3,"['W', 'Pt', 'Bi']","['W - Metal', 'Pt - Metal', 'Bi - Metal']","[2.36, 2.28, 2.02]",3,"{'W': 1.0, 'Pt': 1.0, 'Bi': 3.0}",FALSE
+CrZr2Br4,"['Cr', 'Zr', 'Br']","['Cr - Metal', 'Zr - Metal', 'Br - Non-Metal']","[1.66, 1.33, 2.96]",3,"{'Cr': 1.0, 'Zr': 2.0, 'Br': 4.0}",TRUE
+PoCu2,"['Po', 'Cu']","['Po - Non-Metal', 'Cu - Metal']","[2.0, 1.9]",2,"{'Po': 1.0, 'Cu': 2.0}",TRUE
+SiTiTe4Os6,"['Si', 'Ti', 'Te', 'Os']","['Si - Non-Metal', 'Ti - Metal', 'Te - Non-Metal', 'Os - Metal']","[1.9, 1.54, 2.1, 2.2]",4,"{'Si': 1.0, 'Ti': 1.0, 'Te': 4.0, 'Os': 6.0}",TRUE
+P2Kr2W3Cd4,"['P', 'Kr', 'W', 'Cd']","['P - Non-Metal', 'Kr - Non-Metal', 'W - Metal', 'Cd - Metal']","[2.19, 3.0, 2.36, 1.69]",4,"{'P': 2.0, 'Kr': 2.0, 'W': 3.0, 'Cd': 4.0}",FALSE
+H2N2Pb2Se3,"['H', 'N', 'Pb', 'Se']","['H - Unknown', 'N - Non-Metal', 'Pb - Metal', 'Se - Non-Metal']","[2.2, 3.04, 2.33, 2.55]",4,"{'H': 2.0, 'N': 2.0, 'Pb': 2.0, 'Se': 3.0}",FALSE
+AsZrGa2,"['As', 'Zr', 'Ga']","['As - Non-Metal', 'Zr - Metal', 'Ga - Metal']","[2.18, 1.33, 1.81]",3,"{'As': 1.0, 'Zr': 1.0, 'Ga': 2.0}",TRUE
+CoIPm2H5,"['Co', 'I', 'Pm', 'H']","['Co - Metal', 'I - Non-Metal', 'Pm - Metal', 'H - Unknown']","[1.88, 2.66, 1.13, 2.2]",4,"{'Co': 1.0, 'I': 1.0, 'Pm': 2.0, 'H': 5.0}",TRUE
+CuC2,"['Cu', 'C']","['Cu - Metal', 'C - Non-Metal']","[1.9, 2.55]",2,"{'Cu': 1.0, 'C': 2.0}",FALSE
+XeW3,"['Xe', 'W']","['Xe - Non-Metal', 'W - Metal']","[2.6, 2.36]",2,"{'Xe': 1.0, 'W': 3.0}",FALSE
+CuBrPo2,"['Cu', 'Br', 'Po']","['Cu - Metal', 'Br - Non-Metal', 'Po - Non-Metal']","[1.9, 2.96, 2.0]",3,"{'Cu': 1.0, 'Br': 1.0, 'Po': 2.0}",FALSE
+SbBr3,"['Sb', 'Br']","['Sb - Non-Metal', 'Br - Non-Metal']","[2.05, 2.96]",2,"{'Sb': 1.0, 'Br': 3.0}",FALSE
+Sb4Si5,"['Sb', 'Si']","['Sb - Non-Metal', 'Si - Non-Metal']","[2.05, 1.9]",2,"{'Sb': 4.0, 'Si': 5.0}",TRUE
+ZnHo2I6,"['Zn', 'Ho', 'I']","['Zn - Metal', 'Ho - Metal', 'I - Non-Metal']","[1.65, 1.23, 2.66]",3,"{'Zn': 1.0, 'Ho': 2.0, 'I': 6.0}",TRUE
+DyS2,"['Dy', 'S']","['Dy - Metal', 'S - Non-Metal']","[1.22, 2.58]",2,"{'Dy': 1.0, 'S': 2.0}",TRUE
+YSbReAt,"['Y', 'Sb', 'Re', 'At']","['Y - Metal', 'Sb - Non-Metal', 'Re - Metal', 'At - Non-Metal']","[1.22, 2.05, 1.9, 2.2]",4,"{'Y': 1.0, 'Sb': 1.0, 'Re': 1.0, 'At': 1.0}",TRUE
+Ti2Kr3Mn7,"['Ti', 'Kr', 'Mn']","['Ti - Metal', 'Kr - Non-Metal', 'Mn - Metal']","[1.54, 3.0, 1.55]",3,"{'Ti': 2.0, 'Kr': 3.0, 'Mn': 7.0}",TRUE
+MgRh2Kr3Si4,"['Mg', 'Rh', 'Kr', 'Si']","['Mg - Metal', 'Rh - Metal', 'Kr - Non-Metal', 'Si - Non-Metal']","[1.31, 2.28, 3.0, 1.9]",4,"{'Mg': 1.0, 'Rh': 2.0, 'Kr': 3.0, 'Si': 4.0}",FALSE
+IrBi3Ti4,"['Ir', 'Bi', 'Ti']","['Ir - Metal', 'Bi - Metal', 'Ti - Metal']","[2.2, 2.02, 1.54]",3,"{'Ir': 1.0, 'Bi': 3.0, 'Ti': 4.0}",TRUE
+CRhB2Dy2S3,"['C', 'Rh', 'B', 'Dy', 'S']","['C - Non-Metal', 'Rh - Metal', 'B - Non-Metal', 'Dy - Metal', 'S - Non-Metal']","[2.55, 2.28, 2.04, 1.22, 2.58]",5,"{'C': 1.0, 'Rh': 1.0, 'B': 2.0, 'Dy': 2.0, 'S': 3.0}",FALSE
+CPr2Bi4,"['C', 'Pr', 'Bi']","['C - Non-Metal', 'Pr - Metal', 'Bi - Metal']","[2.55, 1.13, 2.02]",3,"{'C': 1.0, 'Pr': 2.0, 'Bi': 4.0}",TRUE
+PKr2Pt6,"['P', 'Kr', 'Pt']","['P - Non-Metal', 'Kr - Non-Metal', 'Pt - Metal']","[2.19, 3.0, 2.28]",3,"{'P': 1.0, 'Kr': 2.0, 'Pt': 6.0}",FALSE
+Sm2Ir2Po5,"['Sm', 'Ir', 'Po']","['Sm - Metal', 'Ir - Metal', 'Po - Non-Metal']","[1.17, 2.2, 2.0]",3,"{'Sm': 2.0, 'Ir': 2.0, 'Po': 5.0}",TRUE
+NiAt,"['Ni', 'At']","['Ni - Metal', 'At - Non-Metal']","[1.91, 2.2]",2,"{'Ni': 1.0, 'At': 1.0}",TRUE
+SiAg,"['Si', 'Ag']","['Si - Non-Metal', 'Ag - Metal']","[1.9, 1.93]",2,"{'Si': 1.0, 'Ag': 1.0}",TRUE
+Se2B3Cl3Re8,"['Se', 'B', 'Cl', 'Re']","['Se - Non-Metal', 'B - Non-Metal', 'Cl - Non-Metal', 'Re - Metal']","[2.55, 2.04, 3.16, 1.9]",4,"{'Se': 2.0, 'B': 3.0, 'Cl': 3.0, 'Re': 8.0}",FALSE
+PdAgN2,"['Pd', 'Ag', 'N']","['Pd - Metal', 'Ag - Metal', 'N - Non-Metal']","[2.2, 1.93, 3.04]",3,"{'Pd': 1.0, 'Ag': 1.0, 'N': 2.0}",FALSE
+WS5,"['W', 'S']","['W - Metal', 'S - Non-Metal']","[2.36, 2.58]",2,"{'W': 1.0, 'S': 5.0}",FALSE
+ZrTbBr2H3,"['Zr', 'Tb', 'Br', 'H']","['Zr - Metal', 'Tb - Metal', 'Br - Non-Metal', 'H - Unknown']","[1.33, 1.1, 2.96, 2.2]",4,"{'Zr': 1.0, 'Tb': 1.0, 'Br': 2.0, 'H': 3.0}",TRUE
+ClTi2W3Li6,"['Cl', 'Ti', 'W', 'Li']","['Cl - Non-Metal', 'Ti - Metal', 'W - Metal', 'Li - Metal']","[3.16, 1.54, 2.36, 0.98]",4,"{'Cl': 1.0, 'Ti': 2.0, 'W': 3.0, 'Li': 6.0}",TRUE
+PmS3,"['Pm', 'S']","['Pm - Metal', 'S - Non-Metal']","[1.13, 2.58]",2,"{'Pm': 1.0, 'S': 3.0}",TRUE
+Si3Mo3F4Ta5,"['Si', 'Mo', 'F', 'Ta']","['Si - Non-Metal', 'Mo - Metal', 'F - Non-Metal', 'Ta - Metal']","[1.9, 2.16, 3.98, 1.5]",4,"{'Si': 3.0, 'Mo': 3.0, 'F': 4.0, 'Ta': 5.0}",FALSE
+SePd3O4,"['Se', 'Pd', 'O']","['Se - Non-Metal', 'Pd - Metal', 'O - Non-Metal']","[2.55, 2.2, 3.44]",3,"{'Se': 1.0, 'Pd': 3.0, 'O': 4.0}",FALSE
+Cl3Sc3Re4,"['Cl', 'Sc', 'Re']","['Cl - Non-Metal', 'Sc - Metal', 'Re - Metal']","[3.16, 1.36, 1.9]",3,"{'Cl': 3.0, 'Sc': 3.0, 'Re': 4.0}",FALSE
+H2Mo3Pb4,"['H', 'Mo', 'Pb']","['H - Unknown', 'Mo - Metal', 'Pb - Metal']","[2.2, 2.16, 2.33]",3,"{'H': 2.0, 'Mo': 3.0, 'Pb': 4.0}",FALSE
+YCo4I5,"['Y', 'Co', 'I']","['Y - Metal', 'Co - Metal', 'I - Non-Metal']","[1.22, 1.88, 2.66]",3,"{'Y': 1.0, 'Co': 4.0, 'I': 5.0}",TRUE
+PuSe3Ir4,"['Pu', 'Se', 'Ir']","['Pu - Metal', 'Se - Non-Metal', 'Ir - Metal']","[1.28, 2.55, 2.2]",3,"{'Pu': 1.0, 'Se': 3.0, 'Ir': 4.0}",TRUE
+Ni3I4Ca7,"['Ni', 'I', 'Ca']","['Ni - Metal', 'I - Non-Metal', 'Ca - Metal']","[1.91, 2.66, 1.0]",3,"{'Ni': 3.0, 'I': 4.0, 'Ca': 7.0}",TRUE
+IPt2,"['I', 'Pt']","['I - Non-Metal', 'Pt - Metal']","[2.66, 2.28]",2,"{'I': 1.0, 'Pt': 2.0}",FALSE
+Ru2Sn3,"['Ru', 'Sn']","['Ru - Metal', 'Sn - Metal']","[2.2, 1.96]",2,"{'Ru': 2.0, 'Sn': 3.0}",TRUE
+PrAuCd2I3,"['Pr', 'Au', 'Cd', 'I']","['Pr - Metal', 'Au - Metal', 'Cd - Metal', 'I - Non-Metal']","[1.13, 2.54, 1.69, 2.66]",4,"{'Pr': 1.0, 'Au': 1.0, 'Cd': 2.0, 'I': 3.0}",TRUE
+USe3,"['U', 'Se']","['U - Metal', 'Se - Non-Metal']","[1.38, 2.55]",2,"{'U': 1.0, 'Se': 3.0}",TRUE
+Te2Cr5,"['Te', 'Cr']","['Te - Non-Metal', 'Cr - Metal']","[2.1, 1.66]",2,"{'Te': 2.0, 'Cr': 5.0}",TRUE
+CAs4,"['C', 'As']","['C - Non-Metal', 'As - Non-Metal']","[2.55, 2.18]",2,"{'C': 1.0, 'As': 4.0}",FALSE
+Te3S4W4,"['Te', 'S', 'W']","['Te - Non-Metal', 'S - Non-Metal', 'W - Metal']","[2.1, 2.58, 2.36]",3,"{'Te': 3.0, 'S': 4.0, 'W': 4.0}",FALSE
+AgRn3Si4,"['Ag', 'Rn', 'Si']","['Ag - Metal', 'Rn - Non-Metal', 'Si - Non-Metal']","[1.93, 2.2, 1.9]",3,"{'Ag': 1.0, 'Rn': 3.0, 'Si': 4.0}",TRUE
+RnSb2Mo3O4Nb4,"['Rn', 'Sb', 'Mo', 'O', 'Nb']","['Rn - Non-Metal', 'Sb - Non-Metal', 'Mo - Metal', 'O - Non-Metal', 'Nb - Metal']","[2.2, 2.05, 2.16, 3.44, 1.6]",5,"{'Rn': 1.0, 'Sb': 2.0, 'Mo': 3.0, 'O': 4.0, 'Nb': 4.0}",FALSE
+ScCoBr3,"['Sc', 'Co', 'Br']","['Sc - Metal', 'Co - Metal', 'Br - Non-Metal']","[1.36, 1.88, 2.96]",3,"{'Sc': 1.0, 'Co': 1.0, 'Br': 3.0}",TRUE
+XeBiRe3,"['Xe', 'Bi', 'Re']","['Xe - Non-Metal', 'Bi - Metal', 'Re - Metal']","[2.6, 2.02, 1.9]",3,"{'Xe': 1.0, 'Bi': 1.0, 'Re': 3.0}",FALSE
+AtH2Sn2Ti7,"['At', 'H', 'Sn', 'Ti']","['At - Non-Metal', 'H - Unknown', 'Sn - Metal', 'Ti - Metal']","[2.2, 2.2, 1.96, 1.54]",4,"{'At': 1.0, 'H': 2.0, 'Sn': 2.0, 'Ti': 7.0}",TRUE
+TmThI6,"['Tm', 'Th', 'I']","['Tm - Metal', 'Th - Metal', 'I - Non-Metal']","[1.25, 1.3, 2.66]",3,"{'Tm': 1.0, 'Th': 1.0, 'I': 6.0}",TRUE
+HgGe4,"['Hg', 'Ge']","['Hg - Metal', 'Ge - Non-Metal']","[2.0, 2.01]",2,"{'Hg': 1.0, 'Ge': 4.0}",TRUE
+TeTc6,"['Te', 'Tc']","['Te - Non-Metal', 'Tc - Metal']","[2.1, 1.9]",2,"{'Te': 1.0, 'Tc': 6.0}",TRUE
+ReP5,"['Re', 'P']","['Re - Metal', 'P - Non-Metal']","[1.9, 2.19]",2,"{'Re': 1.0, 'P': 5.0}",TRUE
+SbTc3,"['Sb', 'Tc']","['Sb - Non-Metal', 'Tc - Metal']","[2.05, 1.9]",2,"{'Sb': 1.0, 'Tc': 3.0}",TRUE
+RuBiHo3P4,"['Ru', 'Bi', 'Ho', 'P']","['Ru - Metal', 'Bi - Metal', 'Ho - Metal', 'P - Non-Metal']","[2.2, 2.02, 1.23, 2.19]",4,"{'Ru': 1.0, 'Bi': 1.0, 'Ho': 3.0, 'P': 4.0}",TRUE
+MoRn2Tc6,"['Mo', 'Rn', 'Tc']","['Mo - Metal', 'Rn - Non-Metal', 'Tc - Metal']","[2.16, 2.2, 1.9]",3,"{'Mo': 1.0, 'Rn': 2.0, 'Tc': 6.0}",TRUE
+SbC2O2Cr5,"['Sb', 'C', 'O', 'Cr']","['Sb - Non-Metal', 'C - Non-Metal', 'O - Non-Metal', 'Cr - Metal']","[2.05, 2.55, 3.44, 1.66]",4,"{'Sb': 1.0, 'C': 2.0, 'O': 2.0, 'Cr': 5.0}",FALSE
+RhSn2Fm2Cl4Ru6,"['Rh', 'Sn', 'Fm', 'Cl', 'Ru']","['Rh - Metal', 'Sn - Metal', 'Fm - Metal', 'Cl - Non-Metal', 'Ru - Metal']","[2.28, 1.96, 1.3, 3.16, 2.2]",5,"{'Rh': 1.0, 'Sn': 2.0, 'Fm': 2.0, 'Cl': 4.0, 'Ru': 6.0}",FALSE
+BeHgAs2,"['Be', 'Hg', 'As']","['Be - Metal', 'Hg - Metal', 'As - Non-Metal']","[1.57, 2.0, 2.18]",3,"{'Be': 1.0, 'Hg': 1.0, 'As': 2.0}",TRUE
+ClCu5Tc5,"['Cl', 'Cu', 'Tc']","['Cl - Non-Metal', 'Cu - Metal', 'Tc - Metal']","[3.16, 1.9, 1.9]",3,"{'Cl': 1.0, 'Cu': 5.0, 'Tc': 5.0}",FALSE
+CfBr5Mn6,"['Cf', 'Br', 'Mn']","['Cf - Metal', 'Br - Non-Metal', 'Mn - Metal']","[1.3, 2.96, 1.55]",3,"{'Cf': 1.0, 'Br': 5.0, 'Mn': 6.0}",TRUE
+CdW4Te5,"['Cd', 'W', 'Te']","['Cd - Metal', 'W - Metal', 'Te - Non-Metal']","[1.69, 2.36, 2.1]",3,"{'Cd': 1.0, 'W': 4.0, 'Te': 5.0}",TRUE
+SbO3,"['Sb', 'O']","['Sb - Non-Metal', 'O - Non-Metal']","[2.05, 3.44]",2,"{'Sb': 1.0, 'O': 3.0}",FALSE
+XeRb2,"['Xe', 'Rb']","['Xe - Non-Metal', 'Rb - Metal']","[2.6, 0.82]",2,"{'Xe': 1.0, 'Rb': 2.0}",TRUE
+P3Ir4,"['P', 'Ir']","['P - Non-Metal', 'Ir - Metal']","[2.19, 2.2]",2,"{'P': 3.0, 'Ir': 4.0}",FALSE
+CmPo3Mn5,"['Cm', 'Po', 'Mn']","['Cm - Metal', 'Po - Non-Metal', 'Mn - Metal']","[1.3, 2.0, 1.55]",3,"{'Cm': 1.0, 'Po': 3.0, 'Mn': 5.0}",TRUE
+BCl2Al5W5,"['B', 'Cl', 'Al', 'W']","['B - Non-Metal', 'Cl - Non-Metal', 'Al - Metal', 'W - Metal']","[2.04, 3.16, 1.61, 2.36]",4,"{'B': 1.0, 'Cl': 2.0, 'Al': 5.0, 'W': 5.0}",FALSE
+Po3B4Ru5,"['Po', 'B', 'Ru']","['Po - Non-Metal', 'B - Non-Metal', 'Ru - Metal']","[2.0, 2.04, 2.2]",3,"{'Po': 3.0, 'B': 4.0, 'Ru': 5.0}",TRUE
+ClCeDyBk2Po4,"['Cl', 'Ce', 'Dy', 'Bk', 'Po']","['Cl - Non-Metal', 'Ce - Metal', 'Dy - Metal', 'Bk - Metal', 'Po - Non-Metal']","[3.16, 1.12, 1.22, 1.3, 2.0]",5,"{'Cl': 1.0, 'Ce': 1.0, 'Dy': 1.0, 'Bk': 2.0, 'Po': 4.0}",TRUE
+As2C3,"['As', 'C']","['As - Non-Metal', 'C - Non-Metal']","[2.18, 2.55]",2,"{'As': 2.0, 'C': 3.0}",FALSE
+Mn2Te3,"['Mn', 'Te']","['Mn - Metal', 'Te - Non-Metal']","[1.55, 2.1]",2,"{'Mn': 2.0, 'Te': 3.0}",TRUE
+BrFmTc5,"['Br', 'Fm', 'Tc']","['Br - Non-Metal', 'Fm - Metal', 'Tc - Metal']","[2.96, 1.3, 1.9]",3,"{'Br': 1.0, 'Fm': 1.0, 'Tc': 5.0}",TRUE
+ClAcCmSe4,"['Cl', 'Ac', 'Cm', 'Se']","['Cl - Non-Metal', 'Ac - Metal', 'Cm - Metal', 'Se - Non-Metal']","[3.16, 1.1, 1.3, 2.55]",4,"{'Cl': 1.0, 'Ac': 1.0, 'Cm': 1.0, 'Se': 4.0}",TRUE
+TaPoFmS5,"['Ta', 'Po', 'Fm', 'S']","['Ta - Metal', 'Po - Non-Metal', 'Fm - Metal', 'S - Non-Metal']","[1.5, 2.0, 1.3, 2.58]",4,"{'Ta': 1.0, 'Po': 1.0, 'Fm': 1.0, 'S': 5.0}",TRUE
+Br2Cl3Nb7,"['Br', 'Cl', 'Nb']","['Br - Non-Metal', 'Cl - Non-Metal', 'Nb - Metal']","[2.96, 3.16, 1.6]",3,"{'Br': 2.0, 'Cl': 3.0, 'Nb': 7.0}",FALSE
+Ag2P3Cl3Dy4,"['Ag', 'P', 'Cl', 'Dy']","['Ag - Metal', 'P - Non-Metal', 'Cl - Non-Metal', 'Dy - Metal']","[1.93, 2.19, 3.16, 1.22]",4,"{'Ag': 2.0, 'P': 3.0, 'Cl': 3.0, 'Dy': 4.0}",FALSE
+MoMg2Po2,"['Mo', 'Mg', 'Po']","['Mo - Metal', 'Mg - Metal', 'Po - Non-Metal']","[2.16, 1.31, 2.0]",3,"{'Mo': 1.0, 'Mg': 2.0, 'Po': 2.0}",TRUE
+AsTlZn2,"['As', 'Tl', 'Zn']","['As - Non-Metal', 'Tl - Metal', 'Zn - Metal']","[2.18, 1.62, 1.65]",3,"{'As': 1.0, 'Tl': 1.0, 'Zn': 2.0}",TRUE
+ScAt2H3,"['Sc', 'At', 'H']","['Sc - Metal', 'At - Non-Metal', 'H - Unknown']","[1.36, 2.2, 2.2]",3,"{'Sc': 1.0, 'At': 2.0, 'H': 3.0}",TRUE
+UNpSe3,"['U', 'Np', 'Se']","['U - Metal', 'Np - Metal', 'Se - Non-Metal']","[1.38, 1.36, 2.55]",3,"{'U': 1.0, 'Np': 1.0, 'Se': 3.0}",TRUE
+Si2Sc2Cu2S5,"['Si', 'Sc', 'Cu', 'S']","['Si - Non-Metal', 'Sc - Metal', 'Cu - Metal', 'S - Non-Metal']","[1.9, 1.36, 1.9, 2.58]",4,"{'Si': 2.0, 'Sc': 2.0, 'Cu': 2.0, 'S': 5.0}",TRUE
+Ta2N3,"['Ta', 'N']","['Ta - Metal', 'N - Non-Metal']","[1.5, 3.04]",2,"{'Ta': 2.0, 'N': 3.0}",FALSE
+INa3P3,"['I', 'Na', 'P']","['I - Non-Metal', 'Na - Metal', 'P - Non-Metal']","[2.66, 0.93, 2.19]",3,"{'I': 1.0, 'Na': 3.0, 'P': 3.0}",TRUE
+IBiH6,"['I', 'Bi', 'H']","['I - Non-Metal', 'Bi - Metal', 'H - Unknown']","[2.66, 2.02, 2.2]",3,"{'I': 1.0, 'Bi': 1.0, 'H': 6.0}",FALSE
+SCo3,"['S', 'Co']","['S - Non-Metal', 'Co - Metal']","[2.58, 1.88]",2,"{'S': 1.0, 'Co': 3.0}",FALSE
+BrAg,"['Br', 'Ag']","['Br - Non-Metal', 'Ag - Metal']","[2.96, 1.93]",2,"{'Br': 1.0, 'Ag': 1.0}",FALSE
+MgXe2Po4Tc5,"['Mg', 'Xe', 'Po', 'Tc']","['Mg - Metal', 'Xe - Non-Metal', 'Po - Non-Metal', 'Tc - Metal']","[1.31, 2.6, 2.0, 1.9]",4,"{'Mg': 1.0, 'Xe': 2.0, 'Po': 4.0, 'Tc': 5.0}",TRUE
+Br3Nb3Tc3Re5,"['Br', 'Nb', 'Tc', 'Re']","['Br - Non-Metal', 'Nb - Metal', 'Tc - Metal', 'Re - Metal']","[2.96, 1.6, 1.9, 1.9]",4,"{'Br': 3.0, 'Nb': 3.0, 'Tc': 3.0, 'Re': 5.0}",TRUE
+Gd2Se3,"['Gd', 'Se']","['Gd - Metal', 'Se - Non-Metal']","[1.2, 2.55]",2,"{'Gd': 2.0, 'Se': 3.0}",TRUE
+PAg2,"['P', 'Ag']","['P - Non-Metal', 'Ag - Metal']","[2.19, 1.93]",2,"{'P': 1.0, 'Ag': 2.0}",TRUE
+HGaTi4Po6,"['H', 'Ga', 'Ti', 'Po']","['H - Unknown', 'Ga - Metal', 'Ti - Metal', 'Po - Non-Metal']","[2.2, 1.81, 1.54, 2.0]",4,"{'H': 1.0, 'Ga': 1.0, 'Ti': 4.0, 'Po': 6.0}",TRUE
+PoCd2,"['Po', 'Cd']","['Po - Non-Metal', 'Cd - Metal']","[2.0, 1.69]",2,"{'Po': 1.0, 'Cd': 2.0}",TRUE
+CdO5Re6,"['Cd', 'O', 'Re']","['Cd - Metal', 'O - Non-Metal', 'Re - Metal']","[1.69, 3.44, 1.9]",3,"{'Cd': 1.0, 'O': 5.0, 'Re': 6.0}",FALSE
+ZrAs3Co5,"['Zr', 'As', 'Co']","['Zr - Metal', 'As - Non-Metal', 'Co - Metal']","[1.33, 2.18, 1.88]",3,"{'Zr': 1.0, 'As': 3.0, 'Co': 5.0}",TRUE
+AcCl2,"['Ac', 'Cl']","['Ac - Metal', 'Cl - Non-Metal']","[1.1, 3.16]",2,"{'Ac': 1.0, 'Cl': 2.0}",FALSE
+SnAt4,"['Sn', 'At']","['Sn - Metal', 'At - Non-Metal']","[1.96, 2.2]",2,"{'Sn': 1.0, 'At': 4.0}",TRUE
+OsF4,"['Os', 'F']","['Os - Metal', 'F - Non-Metal']","[2.2, 3.98]",2,"{'Os': 1.0, 'F': 4.0}",FALSE
+NSmS3Sc4,"['N', 'Sm', 'S', 'Sc']","['N - Non-Metal', 'Sm - Metal', 'S - Non-Metal', 'Sc - Metal']","[3.04, 1.17, 2.58, 1.36]",4,"{'N': 1.0, 'Sm': 1.0, 'S': 3.0, 'Sc': 4.0}",TRUE
+Yb2P3,"['Yb', 'P']","['Yb - Metal', 'P - Non-Metal']","[1.1, 2.19]",2,"{'Yb': 2.0, 'P': 3.0}",TRUE
+ThI2Mo4,"['Th', 'I', 'Mo']","['Th - Metal', 'I - Non-Metal', 'Mo - Metal']","[1.3, 2.66, 2.16]",3,"{'Th': 1.0, 'I': 2.0, 'Mo': 4.0}",TRUE
+FNb2Mn5,"['F', 'Nb', 'Mn']","['F - Non-Metal', 'Nb - Metal', 'Mn - Metal']","[3.98, 1.6, 1.55]",3,"{'F': 1.0, 'Nb': 2.0, 'Mn': 5.0}",FALSE
+SnCo2Kr2O3,"['Sn', 'Co', 'Kr', 'O']","['Sn - Metal', 'Co - Metal', 'Kr - Non-Metal', 'O - Non-Metal']","[1.96, 1.88, 3.0, 3.44]",4,"{'Sn': 1.0, 'Co': 2.0, 'Kr': 2.0, 'O': 3.0}",FALSE
+SAsC2Ga2Mn6,"['S', 'As', 'C', 'Ga', 'Mn']","['S - Non-Metal', 'As - Non-Metal', 'C - Non-Metal', 'Ga - Metal', 'Mn - Metal']","[2.58, 2.18, 2.55, 1.81, 1.55]",5,"{'S': 1.0, 'As': 1.0, 'C': 2.0, 'Ga': 2.0, 'Mn': 6.0}",FALSE
+PMo2,"['P', 'Mo']","['P - Non-Metal', 'Mo - Metal']","[2.19, 2.16]",2,"{'P': 1.0, 'Mo': 2.0}",FALSE
+IOsO4,"['I', 'Os', 'O']","['I - Non-Metal', 'Os - Metal', 'O - Non-Metal']","[2.66, 2.2, 3.44]",3,"{'I': 1.0, 'Os': 1.0, 'O': 4.0}",FALSE
+BkBr2Ru4,"['Bk', 'Br', 'Ru']","['Bk - Metal', 'Br - Non-Metal', 'Ru - Metal']","[1.3, 2.96, 2.2]",3,"{'Bk': 1.0, 'Br': 2.0, 'Ru': 4.0}",FALSE
+AtOs2Cr4Tl5,"['At', 'Os', 'Cr', 'Tl']","['At - Non-Metal', 'Os - Metal', 'Cr - Metal', 'Tl - Metal']","[2.2, 2.2, 1.66, 1.62]",4,"{'At': 1.0, 'Os': 2.0, 'Cr': 4.0, 'Tl': 5.0}",TRUE
+V2Tb2Nb3S5,"['V', 'Tb', 'Nb', 'S']","['V - Metal', 'Tb - Metal', 'Nb - Metal', 'S - Non-Metal']","[1.63, 1.1, 1.6, 2.58]",4,"{'V': 2.0, 'Tb': 2.0, 'Nb': 3.0, 'S': 5.0}",TRUE
+PtAmO3Si3,"['Pt', 'Am', 'O', 'Si']","['Pt - Metal', 'Am - Metal', 'O - Non-Metal', 'Si - Non-Metal']","[2.28, 1.3, 3.44, 1.9]",4,"{'Pt': 1.0, 'Am': 1.0, 'O': 3.0, 'Si': 3.0}",FALSE
+BrTh2Mn3Sb5,"['Br', 'Th', 'Mn', 'Sb']","['Br - Non-Metal', 'Th - Metal', 'Mn - Metal', 'Sb - Non-Metal']","[2.96, 1.3, 1.55, 2.05]",4,"{'Br': 1.0, 'Th': 2.0, 'Mn': 3.0, 'Sb': 5.0}",TRUE
+CePuO4,"['Ce', 'Pu', 'O']","['Ce - Metal', 'Pu - Metal', 'O - Non-Metal']","[1.12, 1.28, 3.44]",3,"{'Ce': 1.0, 'Pu': 1.0, 'O': 4.0}",TRUE
+NOGe3V6,"['N', 'O', 'Ge', 'V']","['N - Non-Metal', 'O - Non-Metal', 'Ge - Non-Metal', 'V - Metal']","[3.04, 3.44, 2.01, 1.63]",4,"{'N': 1.0, 'O': 1.0, 'Ge': 3.0, 'V': 6.0}",FALSE
+Al2Xe3Re6,"['Al', 'Xe', 'Re']","['Al - Metal', 'Xe - Non-Metal', 'Re - Metal']","[1.61, 2.6, 1.9]",3,"{'Al': 2.0, 'Xe': 3.0, 'Re': 6.0}",TRUE
+Rn3Ti4N5,"['Rn', 'Ti', 'N']","['Rn - Non-Metal', 'Ti - Metal', 'N - Non-Metal']","[2.2, 1.54, 3.04]",3,"{'Rn': 3.0, 'Ti': 4.0, 'N': 5.0}",FALSE
+AtFe5,"['At', 'Fe']","['At - Non-Metal', 'Fe - Metal']","[2.2, 1.83]",2,"{'At': 1.0, 'Fe': 5.0}",TRUE
+ClGaN2Re2Sn5,"['Cl', 'Ga', 'N', 'Re', 'Sn']","['Cl - Non-Metal', 'Ga - Metal', 'N - Non-Metal', 'Re - Metal', 'Sn - Metal']","[3.16, 1.81, 3.04, 1.9, 1.96]",5,"{'Cl': 1.0, 'Ga': 1.0, 'N': 2.0, 'Re': 2.0, 'Sn': 5.0}",FALSE
+POsAl2Ti4I4,"['P', 'Os', 'Al', 'Ti', 'I']","['P - Non-Metal', 'Os - Metal', 'Al - Metal', 'Ti - Metal', 'I - Non-Metal']","[2.19, 2.2, 1.61, 1.54, 2.66]",5,"{'P': 1.0, 'Os': 1.0, 'Al': 2.0, 'Ti': 4.0, 'I': 4.0}",TRUE
+TiIAcPo5,"['Ti', 'I', 'Ac', 'Po']","['Ti - Metal', 'I - Non-Metal', 'Ac - Metal', 'Po - Non-Metal']","[1.54, 2.66, 1.1, 2.0]",4,"{'Ti': 1.0, 'I': 1.0, 'Ac': 1.0, 'Po': 5.0}",TRUE
+Sn3Os4,"['Sn', 'Os']","['Sn - Metal', 'Os - Metal']","[1.96, 2.2]",2,"{'Sn': 3.0, 'Os': 4.0}",TRUE
+Tc2Al3P3Pb3,"['Tc', 'Al', 'P', 'Pb']","['Tc - Metal', 'Al - Metal', 'P - Non-Metal', 'Pb - Metal']","[1.9, 1.61, 2.19, 2.33]",4,"{'Tc': 2.0, 'Al': 3.0, 'P': 3.0, 'Pb': 3.0}",TRUE
+Br2Os3Re5,"['Br', 'Os', 'Re']","['Br - Non-Metal', 'Os - Metal', 'Re - Metal']","[2.96, 2.2, 1.9]",3,"{'Br': 2.0, 'Os': 3.0, 'Re': 5.0}",FALSE
+SbXe3,"['Sb', 'Xe']","['Sb - Non-Metal', 'Xe - Non-Metal']","[2.05, 2.6]",2,"{'Sb': 1.0, 'Xe': 3.0}",FALSE
+ClFePtP3Ir5,"['Cl', 'Fe', 'Pt', 'P', 'Ir']","['Cl - Non-Metal', 'Fe - Metal', 'Pt - Metal', 'P - Non-Metal', 'Ir - Metal']","[3.16, 1.83, 2.28, 2.19, 2.2]",5,"{'Cl': 1.0, 'Fe': 1.0, 'Pt': 1.0, 'P': 3.0, 'Ir': 5.0}",FALSE
+OBr2Po6,"['O', 'Br', 'Po']","['O - Non-Metal', 'Br - Non-Metal', 'Po - Non-Metal']","[3.44, 2.96, 2.0]",3,"{'O': 1.0, 'Br': 2.0, 'Po': 6.0}",FALSE
+Fe3Kr4Nb5,"['Fe', 'Kr', 'Nb']","['Fe - Metal', 'Kr - Non-Metal', 'Nb - Metal']","[1.83, 3.0, 1.6]",3,"{'Fe': 3.0, 'Kr': 4.0, 'Nb': 5.0}",FALSE
+SFeCu2Po2B3,"['S', 'Fe', 'Cu', 'Po', 'B']","['S - Non-Metal', 'Fe - Metal', 'Cu - Metal', 'Po - Non-Metal', 'B - Non-Metal']","[2.58, 1.83, 1.9, 2.0, 2.04]",5,"{'S': 1.0, 'Fe': 1.0, 'Cu': 2.0, 'Po': 2.0, 'B': 3.0}",TRUE
+MnXe3,"['Mn', 'Xe']","['Mn - Metal', 'Xe - Non-Metal']","[1.55, 2.6]",2,"{'Mn': 1.0, 'Xe': 3.0}",TRUE
+ZnN2,"['Zn', 'N']","['Zn - Metal', 'N - Non-Metal']","[1.65, 3.04]",2,"{'Zn': 1.0, 'N': 2.0}",FALSE
+TiNa2Xe2As5,"['Ti', 'Na', 'Xe', 'As']","['Ti - Metal', 'Na - Metal', 'Xe - Non-Metal', 'As - Non-Metal']","[1.54, 0.93, 2.6, 2.18]",4,"{'Ti': 1.0, 'Na': 2.0, 'Xe': 2.0, 'As': 5.0}",TRUE
+Sm2Se3,"['Sm', 'Se']","['Sm - Metal', 'Se - Non-Metal']","[1.17, 2.55]",2,"{'Sm': 2.0, 'Se': 3.0}",TRUE
+ON2Nb8,"['O', 'N', 'Nb']","['O - Non-Metal', 'N - Non-Metal', 'Nb - Metal']","[3.44, 3.04, 1.6]",3,"{'O': 1.0, 'N': 2.0, 'Nb': 8.0}",FALSE
+TcTlCo4As4,"['Tc', 'Tl', 'Co', 'As']","['Tc - Metal', 'Tl - Metal', 'Co - Metal', 'As - Non-Metal']","[1.9, 1.62, 1.88, 2.18]",4,"{'Tc': 1.0, 'Tl': 1.0, 'Co': 4.0, 'As': 4.0}",TRUE
+CdAu2As4,"['Cd', 'Au', 'As']","['Cd - Metal', 'Au - Metal', 'As - Non-Metal']","[1.69, 2.54, 2.18]",3,"{'Cd': 1.0, 'Au': 2.0, 'As': 4.0}",FALSE
+SAm2Rh3Te4,"['S', 'Am', 'Rh', 'Te']","['S - Non-Metal', 'Am - Metal', 'Rh - Metal', 'Te - Non-Metal']","[2.58, 1.3, 2.28, 2.1]",4,"{'S': 1.0, 'Am': 2.0, 'Rh': 3.0, 'Te': 4.0}",TRUE
+FeBr6,"['Fe', 'Br']","['Fe - Metal', 'Br - Non-Metal']","[1.83, 2.96]",2,"{'Fe': 1.0, 'Br': 6.0}",FALSE
+PdXeSi8,"['Pd', 'Xe', 'Si']","['Pd - Metal', 'Xe - Non-Metal', 'Si - Non-Metal']","[2.2, 2.6, 1.9]",3,"{'Pd': 1.0, 'Xe': 1.0, 'Si': 8.0}",FALSE
+I2Cr7,"['I', 'Cr']","['I - Non-Metal', 'Cr - Metal']","[2.66, 1.66]",2,"{'I': 2.0, 'Cr': 7.0}",FALSE
+TeCo2C4,"['Te', 'Co', 'C']","['Te - Non-Metal', 'Co - Metal', 'C - Non-Metal']","[2.1, 1.88, 2.55]",3,"{'Te': 1.0, 'Co': 2.0, 'C': 4.0}",FALSE
+BiPo2Hg3,"['Bi', 'Po', 'Hg']","['Bi - Metal', 'Po - Non-Metal', 'Hg - Metal']","[2.02, 2.0, 2.0]",3,"{'Bi': 1.0, 'Po': 2.0, 'Hg': 3.0}",TRUE
+MoHf3Cl4,"['Mo', 'Hf', 'Cl']","['Mo - Metal', 'Hf - Metal', 'Cl - Non-Metal']","[2.16, 1.3, 3.16]",3,"{'Mo': 1.0, 'Hf': 3.0, 'Cl': 4.0}",FALSE
+As2P5,"['As', 'P']","['As - Non-Metal', 'P - Non-Metal']","[2.18, 2.19]",2,"{'As': 2.0, 'P': 5.0}",FALSE
+GeMn2,"['Ge', 'Mn']","['Ge - Non-Metal', 'Mn - Metal']","[2.01, 1.55]",2,"{'Ge': 1.0, 'Mn': 2.0}",TRUE
+V2S3As4Ta4,"['V', 'S', 'As', 'Ta']","['V - Metal', 'S - Non-Metal', 'As - Non-Metal', 'Ta - Metal']","[1.63, 2.58, 2.18, 1.5]",4,"{'V': 2.0, 'S': 3.0, 'As': 4.0, 'Ta': 4.0}",TRUE
+HoIr2I4,"['Ho', 'Ir', 'I']","['Ho - Metal', 'Ir - Metal', 'I - Non-Metal']","[1.23, 2.2, 2.66]",3,"{'Ho': 1.0, 'Ir': 2.0, 'I': 4.0}",TRUE
+IAt3,"['I', 'At']","['I - Non-Metal', 'At - Non-Metal']","[2.66, 2.2]",2,"{'I': 1.0, 'At': 3.0}",FALSE
+Se3Si4,"['Se', 'Si']","['Se - Non-Metal', 'Si - Non-Metal']","[2.55, 1.9]",2,"{'Se': 3.0, 'Si': 4.0}",FALSE
+Fe3Zn3Sb5,"['Fe', 'Zn', 'Sb']","['Fe - Metal', 'Zn - Metal', 'Sb - Non-Metal']","[1.83, 1.65, 2.05]",3,"{'Fe': 3.0, 'Zn': 3.0, 'Sb': 5.0}",TRUE
+ErAtGe2O4Ru5,"['Er', 'At', 'Ge', 'O', 'Ru']","['Er - Metal', 'At - Non-Metal', 'Ge - Non-Metal', 'O - Non-Metal', 'Ru - Metal']","[1.24, 2.2, 2.01, 3.44, 2.2]",5,"{'Er': 1.0, 'At': 1.0, 'Ge': 2.0, 'O': 4.0, 'Ru': 5.0}",FALSE
+Hg3Sb4,"['Hg', 'Sb']","['Hg - Metal', 'Sb - Non-Metal']","[2.0, 2.05]",2,"{'Hg': 3.0, 'Sb': 4.0}",TRUE
+DyI3,"['Dy', 'I']","['Dy - Metal', 'I - Non-Metal']","[1.22, 2.66]",2,"{'Dy': 1.0, 'I': 3.0}",TRUE
+CaIHg3Re6,"['Ca', 'I', 'Hg', 'Re']","['Ca - Metal', 'I - Non-Metal', 'Hg - Metal', 'Re - Metal']","[1.0, 2.66, 2.0, 1.9]",4,"{'Ca': 1.0, 'I': 1.0, 'Hg': 3.0, 'Re': 6.0}",TRUE
+ThIn2Cl5,"['Th', 'In', 'Cl']","['Th - Metal', 'In - Metal', 'Cl - Non-Metal']","[1.3, 1.78, 3.16]",3,"{'Th': 1.0, 'In': 2.0, 'Cl': 5.0}",TRUE
+InCl2Re2,"['In', 'Cl', 'Re']","['In - Metal', 'Cl - Non-Metal', 'Re - Metal']","[1.78, 3.16, 1.9]",3,"{'In': 1.0, 'Cl': 2.0, 'Re': 2.0}",FALSE
+AgP3Tm4,"['Ag', 'P', 'Tm']","['Ag - Metal', 'P - Non-Metal', 'Tm - Metal']","[1.93, 2.19, 1.25]",3,"{'Ag': 1.0, 'P': 3.0, 'Tm': 4.0}",TRUE
+N3Bi4,"['N', 'Bi']","['N - Non-Metal', 'Bi - Metal']","[3.04, 2.02]",2,"{'N': 3.0, 'Bi': 4.0}",FALSE
+TeW2,"['Te', 'W']","['Te - Non-Metal', 'W - Metal']","[2.1, 2.36]",2,"{'Te': 1.0, 'W': 2.0}",FALSE
+AsRe3,"['As', 'Re']","['As - Non-Metal', 'Re - Metal']","[2.18, 1.9]",2,"{'As': 1.0, 'Re': 3.0}",TRUE
+SbGe2Al3S4,"['Sb', 'Ge', 'Al', 'S']","['Sb - Non-Metal', 'Ge - Non-Metal', 'Al - Metal', 'S - Non-Metal']","[2.05, 2.01, 1.61, 2.58]",4,"{'Sb': 1.0, 'Ge': 2.0, 'Al': 3.0, 'S': 4.0}",TRUE
+ZrBr4,"['Zr', 'Br']","['Zr - Metal', 'Br - Non-Metal']","[1.33, 2.96]",2,"{'Zr': 1.0, 'Br': 4.0}",FALSE
+SiCo,"['Si', 'Co']","['Si - Non-Metal', 'Co - Metal']","[1.9, 1.88]",2,"{'Si': 1.0, 'Co': 1.0}",TRUE
+EuGe3,"['Eu', 'Ge']","['Eu - Metal', 'Ge - Non-Metal']","[1.2, 2.01]",2,"{'Eu': 1.0, 'Ge': 3.0}",TRUE
+GeTm3Br4,"['Ge', 'Tm', 'Br']","['Ge - Non-Metal', 'Tm - Metal', 'Br - Non-Metal']","[2.01, 1.25, 2.96]",3,"{'Ge': 1.0, 'Tm': 3.0, 'Br': 4.0}",TRUE
+N3Ir5,"['N', 'Ir']","['N - Non-Metal', 'Ir - Metal']","[3.04, 2.2]",2,"{'N': 3.0, 'Ir': 5.0}",FALSE
+AlSe2Co4Cr6,"['Al', 'Se', 'Co', 'Cr']","['Al - Metal', 'Se - Non-Metal', 'Co - Metal', 'Cr - Metal']","[1.61, 2.55, 1.88, 1.66]",4,"{'Al': 1.0, 'Se': 2.0, 'Co': 4.0, 'Cr': 6.0}",TRUE
+RnRh2Cf2H6,"['Rn', 'Rh', 'Cf', 'H']","['Rn - Non-Metal', 'Rh - Metal', 'Cf - Metal', 'H - Unknown']","[2.2, 2.28, 1.3, 2.2]",4,"{'Rn': 1.0, 'Rh': 2.0, 'Cf': 2.0, 'H': 6.0}",TRUE
+NaMdRn5Mn6,"['Na', 'Md', 'Rn', 'Mn']","['Na - Metal', 'Md - Metal', 'Rn - Non-Metal', 'Mn - Metal']","[0.93, 1.3, 2.2, 1.55]",4,"{'Na': 1.0, 'Md': 1.0, 'Rn': 5.0, 'Mn': 6.0}",TRUE
+KrNo2Ir8,"['Kr', 'No', 'Ir']","['Kr - Non-Metal', 'No - Metal', 'Ir - Metal']","[3.0, 1.3, 2.2]",3,"{'Kr': 1.0, 'No': 2.0, 'Ir': 8.0}",FALSE
+FmCo4Se5,"['Fm', 'Co', 'Se']","['Fm - Metal', 'Co - Metal', 'Se - Non-Metal']","[1.3, 1.88, 2.55]",3,"{'Fm': 1.0, 'Co': 4.0, 'Se': 5.0}",TRUE
+Se2V3O4,"['Se', 'V', 'O']","['Se - Non-Metal', 'V - Metal', 'O - Non-Metal']","[2.55, 1.63, 3.44]",3,"{'Se': 2.0, 'V': 3.0, 'O': 4.0}",FALSE
+PVPt3,"['P', 'V', 'Pt']","['P - Non-Metal', 'V - Metal', 'Pt - Metal']","[2.19, 1.63, 2.28]",3,"{'P': 1.0, 'V': 1.0, 'Pt': 3.0}",TRUE
+Lr2Cl3Xe3C6,"['Lr', 'Cl', 'Xe', 'C']","['Lr - Metal', 'Cl - Non-Metal', 'Xe - Non-Metal', 'C - Non-Metal']","[1.3, 3.16, 2.6, 2.55]",4,"{'Lr': 2.0, 'Cl': 3.0, 'Xe': 3.0, 'C': 6.0}",FALSE
+NpPd2Bi3,"['Np', 'Pd', 'Bi']","['Np - Metal', 'Pd - Metal', 'Bi - Metal']","[1.36, 2.2, 2.02]",3,"{'Np': 1.0, 'Pd': 2.0, 'Bi': 3.0}",TRUE
+BrRu5Tl7,"['Br', 'Ru', 'Tl']","['Br - Non-Metal', 'Ru - Metal', 'Tl - Metal']","[2.96, 2.2, 1.62]",3,"{'Br': 1.0, 'Ru': 5.0, 'Tl': 7.0}",FALSE
+Pt2P5,"['Pt', 'P']","['Pt - Metal', 'P - Non-Metal']","[2.28, 2.19]",2,"{'Pt': 2.0, 'P': 5.0}",FALSE
+YbNp2As3,"['Yb', 'Np', 'As']","['Yb - Metal', 'Np - Metal', 'As - Non-Metal']","[1.1, 1.36, 2.18]",3,"{'Yb': 1.0, 'Np': 2.0, 'As': 3.0}",TRUE
+CeSe2I2Bi3,"['Ce', 'Se', 'I', 'Bi']","['Ce - Metal', 'Se - Non-Metal', 'I - Non-Metal', 'Bi - Metal']","[1.12, 2.55, 2.66, 2.02]",4,"{'Ce': 1.0, 'Se': 2.0, 'I': 2.0, 'Bi': 3.0}",TRUE
+Os2S3Sb3,"['Os', 'S', 'Sb']","['Os - Metal', 'S - Non-Metal', 'Sb - Non-Metal']","[2.2, 2.58, 2.05]",3,"{'Os': 2.0, 'S': 3.0, 'Sb': 3.0}",FALSE
+InOs,"['In', 'Os']","['In - Metal', 'Os - Metal']","[1.78, 2.2]",2,"{'In': 1.0, 'Os': 1.0}",TRUE
+NdBr2,"['Nd', 'Br']","['Nd - Metal', 'Br - Non-Metal']","[1.14, 2.96]",2,"{'Nd': 1.0, 'Br': 2.0}",TRUE
+ErPaPd2Te6,"['Er', 'Pa', 'Pd', 'Te']","['Er - Metal', 'Pa - Metal', 'Pd - Metal', 'Te - Non-Metal']","[1.24, 1.5, 2.2, 2.1]",4,"{'Er': 1.0, 'Pa': 1.0, 'Pd': 2.0, 'Te': 6.0}",TRUE
+TeSi4Cu4,"['Te', 'Si', 'Cu']","['Te - Non-Metal', 'Si - Non-Metal', 'Cu - Metal']","[2.1, 1.9, 1.9]",3,"{'Te': 1.0, 'Si': 4.0, 'Cu': 4.0}",TRUE
+BkRe2Fm2Mn3Kr3,"['Bk', 'Re', 'Fm', 'Mn', 'Kr']","['Bk - Metal', 'Re - Metal', 'Fm - Metal', 'Mn - Metal', 'Kr - Non-Metal']","[1.3, 1.9, 1.3, 1.55, 3.0]",5,"{'Bk': 1.0, 'Re': 2.0, 'Fm': 2.0, 'Mn': 3.0, 'Kr': 3.0}",TRUE
+LiBrCr4Ag6,"['Li', 'Br', 'Cr', 'Ag']","['Li - Metal', 'Br - Non-Metal', 'Cr - Metal', 'Ag - Metal']","[0.98, 2.96, 1.66, 1.93]",4,"{'Li': 1.0, 'Br': 1.0, 'Cr': 4.0, 'Ag': 6.0}",TRUE
+UAt3As4,"['U', 'At', 'As']","['U - Metal', 'At - Non-Metal', 'As - Non-Metal']","[1.38, 2.2, 2.18]",3,"{'U': 1.0, 'At': 3.0, 'As': 4.0}",TRUE
+NbSi3,"['Nb', 'Si']","['Nb - Metal', 'Si - Non-Metal']","[1.6, 1.9]",2,"{'Nb': 1.0, 'Si': 3.0}",TRUE
+ErTaPo2,"['Er', 'Ta', 'Po']","['Er - Metal', 'Ta - Metal', 'Po - Non-Metal']","[1.24, 1.5, 2.0]",3,"{'Er': 1.0, 'Ta': 1.0, 'Po': 2.0}",TRUE
+Te3Pt3Ge4,"['Te', 'Pt', 'Ge']","['Te - Non-Metal', 'Pt - Metal', 'Ge - Non-Metal']","[2.1, 2.28, 2.01]",3,"{'Te': 3.0, 'Pt': 3.0, 'Ge': 4.0}",FALSE
+ZrCeI3,"['Zr', 'Ce', 'I']","['Zr - Metal', 'Ce - Metal', 'I - Non-Metal']","[1.33, 1.12, 2.66]",3,"{'Zr': 1.0, 'Ce': 1.0, 'I': 3.0}",TRUE
+IPb,"['I', 'Pb']","['I - Non-Metal', 'Pb - Metal']","[2.66, 2.33]",2,"{'I': 1.0, 'Pb': 1.0}",FALSE
+SCr5,"['S', 'Cr']","['S - Non-Metal', 'Cr - Metal']","[2.58, 1.66]",2,"{'S': 1.0, 'Cr': 5.0}",FALSE
+DyPoPt3,"['Dy', 'Po', 'Pt']","['Dy - Metal', 'Po - Non-Metal', 'Pt - Metal']","[1.22, 2.0, 2.28]",3,"{'Dy': 1.0, 'Po': 1.0, 'Pt': 3.0}",TRUE
+PBrCr6,"['P', 'Br', 'Cr']","['P - Non-Metal', 'Br - Non-Metal', 'Cr - Metal']","[2.19, 2.96, 1.66]",3,"{'P': 1.0, 'Br': 1.0, 'Cr': 6.0}",FALSE
+RnSi2,"['Rn', 'Si']","['Rn - Non-Metal', 'Si - Non-Metal']","[2.2, 1.9]",2,"{'Rn': 1.0, 'Si': 2.0}",TRUE
+TiRe2Po7,"['Ti', 'Re', 'Po']","['Ti - Metal', 'Re - Metal', 'Po - Non-Metal']","[1.54, 1.9, 2.0]",3,"{'Ti': 1.0, 'Re': 2.0, 'Po': 7.0}",TRUE
+N2Os5,"['N', 'Os']","['N - Non-Metal', 'Os - Metal']","[3.04, 2.2]",2,"{'N': 2.0, 'Os': 5.0}",FALSE
+ReHg2S6,"['Re', 'Hg', 'S']","['Re - Metal', 'Hg - Metal', 'S - Non-Metal']","[1.9, 2.0, 2.58]",3,"{'Re': 1.0, 'Hg': 2.0, 'S': 6.0}",FALSE
+SeI2O3,"['Se', 'I', 'O']","['Se - Non-Metal', 'I - Non-Metal', 'O - Non-Metal']","[2.55, 2.66, 3.44]",3,"{'Se': 1.0, 'I': 2.0, 'O': 3.0}",FALSE
+CaGeSe3Nb6,"['Ca', 'Ge', 'Se', 'Nb']","['Ca - Metal', 'Ge - Non-Metal', 'Se - Non-Metal', 'Nb - Metal']","[1.0, 2.01, 2.55, 1.6]",4,"{'Ca': 1.0, 'Ge': 1.0, 'Se': 3.0, 'Nb': 6.0}",TRUE
+SRu4Cr5,"['S', 'Ru', 'Cr']","['S - Non-Metal', 'Ru - Metal', 'Cr - Metal']","[2.58, 2.2, 1.66]",3,"{'S': 1.0, 'Ru': 4.0, 'Cr': 5.0}",FALSE
+CRnEs4Re8,"['C', 'Rn', 'Es', 'Re']","['C - Non-Metal', 'Rn - Non-Metal', 'Es - Metal', 'Re - Metal']","[2.55, 2.2, 1.3, 1.9]",4,"{'C': 1.0, 'Rn': 1.0, 'Es': 4.0, 'Re': 8.0}",TRUE
+PdSe2Ge6,"['Pd', 'Se', 'Ge']","['Pd - Metal', 'Se - Non-Metal', 'Ge - Non-Metal']","[2.2, 2.55, 2.01]",3,"{'Pd': 1.0, 'Se': 2.0, 'Ge': 6.0}",FALSE
+PdU2Pb3,"['Pd', 'U', 'Pb']","['Pd - Metal', 'U - Metal', 'Pb - Metal']","[2.2, 1.38, 2.33]",3,"{'Pd': 1.0, 'U': 2.0, 'Pb': 3.0}",TRUE
+ON2Sc2,"['O', 'N', 'Sc']","['O - Non-Metal', 'N - Non-Metal', 'Sc - Metal']","[3.44, 3.04, 1.36]",3,"{'O': 1.0, 'N': 2.0, 'Sc': 2.0}",FALSE
+GaBrTa2,"['Ga', 'Br', 'Ta']","['Ga - Metal', 'Br - Non-Metal', 'Ta - Metal']","[1.81, 2.96, 1.5]",3,"{'Ga': 1.0, 'Br': 1.0, 'Ta': 2.0}",TRUE
+Zr2H3Br5,"['Zr', 'H', 'Br']","['Zr - Metal', 'H - Unknown', 'Br - Non-Metal']","[1.33, 2.2, 2.96]",3,"{'Zr': 2.0, 'H': 3.0, 'Br': 5.0}",FALSE
+EuS3,"['Eu', 'S']","['Eu - Metal', 'S - Non-Metal']","[1.2, 2.58]",2,"{'Eu': 1.0, 'S': 3.0}",TRUE
+MgNbAt2Si5,"['Mg', 'Nb', 'At', 'Si']","['Mg - Metal', 'Nb - Metal', 'At - Non-Metal', 'Si - Non-Metal']","[1.31, 1.6, 2.2, 1.9]",4,"{'Mg': 1.0, 'Nb': 1.0, 'At': 2.0, 'Si': 5.0}",TRUE
+NP4,"['N', 'P']","['N - Non-Metal', 'P - Non-Metal']","[3.04, 2.19]",2,"{'N': 1.0, 'P': 4.0}",FALSE
+SeEsPt5,"['Se', 'Es', 'Pt']","['Se - Non-Metal', 'Es - Metal', 'Pt - Metal']","[2.55, 1.3, 2.28]",3,"{'Se': 1.0, 'Es': 1.0, 'Pt': 5.0}",TRUE
+IGe7,"['I', 'Ge']","['I - Non-Metal', 'Ge - Non-Metal']","[2.66, 2.01]",2,"{'I': 1.0, 'Ge': 7.0}",FALSE
+HgPb2S4Zn4,"['Hg', 'Pb', 'S', 'Zn']","['Hg - Metal', 'Pb - Metal', 'S - Non-Metal', 'Zn - Metal']","[2.0, 2.33, 2.58, 1.65]",4,"{'Hg': 1.0, 'Pb': 2.0, 'S': 4.0, 'Zn': 4.0}",FALSE
+CTiPo4,"['C', 'Ti', 'Po']","['C - Non-Metal', 'Ti - Metal', 'Po - Non-Metal']","[2.55, 1.54, 2.0]",3,"{'C': 1.0, 'Ti': 1.0, 'Po': 4.0}",TRUE
+Ir2Mn3Bi3,"['Ir', 'Mn', 'Bi']","['Ir - Metal', 'Mn - Metal', 'Bi - Metal']","[2.2, 1.55, 2.02]",3,"{'Ir': 2.0, 'Mn': 3.0, 'Bi': 3.0}",TRUE
+MnI5,"['Mn', 'I']","['Mn - Metal', 'I - Non-Metal']","[1.55, 2.66]",2,"{'Mn': 1.0, 'I': 5.0}",FALSE
+VGe5,"['V', 'Ge']","['V - Metal', 'Ge - Non-Metal']","[1.63, 2.01]",2,"{'V': 1.0, 'Ge': 5.0}",TRUE
+OScNbTeZr4,"['O', 'Sc', 'Nb', 'Te', 'Zr']","['O - Non-Metal', 'Sc - Metal', 'Nb - Metal', 'Te - Non-Metal', 'Zr - Metal']","[3.44, 1.36, 1.6, 2.1, 1.33]",5,"{'O': 1.0, 'Sc': 1.0, 'Nb': 1.0, 'Te': 1.0, 'Zr': 4.0}",TRUE
+AgTh3Po5,"['Ag', 'Th', 'Po']","['Ag - Metal', 'Th - Metal', 'Po - Non-Metal']","[1.93, 1.3, 2.0]",3,"{'Ag': 1.0, 'Th': 3.0, 'Po': 5.0}",TRUE
+Tm3Pt3As5,"['Tm', 'Pt', 'As']","['Tm - Metal', 'Pt - Metal', 'As - Non-Metal']","[1.25, 2.28, 2.18]",3,"{'Tm': 3.0, 'Pt': 3.0, 'As': 5.0}",TRUE
+NBi,"['N', 'Bi']","['N - Non-Metal', 'Bi - Metal']","[3.04, 2.02]",2,"{'N': 1.0, 'Bi': 1.0}",FALSE
+SEsBe3Bi3Nb6,"['S', 'Es', 'Be', 'Bi', 'Nb']","['S - Non-Metal', 'Es - Metal', 'Be - Metal', 'Bi - Metal', 'Nb - Metal']","[2.58, 1.3, 1.57, 2.02, 1.6]",5,"{'S': 1.0, 'Es': 1.0, 'Be': 3.0, 'Bi': 3.0, 'Nb': 6.0}",TRUE
+Ru2Te7,"['Ru', 'Te']","['Ru - Metal', 'Te - Non-Metal']","[2.2, 2.1]",2,"{'Ru': 2.0, 'Te': 7.0}",FALSE
+MoSn,"['Mo', 'Sn']","['Mo - Metal', 'Sn - Metal']","[2.16, 1.96]",2,"{'Mo': 1.0, 'Sn': 1.0}",TRUE
+ClAs,"['Cl', 'As']","['Cl - Non-Metal', 'As - Non-Metal']","[3.16, 2.18]",2,"{'Cl': 1.0, 'As': 1.0}",FALSE
+YbSb4S5,"['Yb', 'Sb', 'S']","['Yb - Metal', 'Sb - Non-Metal', 'S - Non-Metal']","[1.1, 2.05, 2.58]",3,"{'Yb': 1.0, 'Sb': 4.0, 'S': 5.0}",TRUE
+GeTlIn2,"['Ge', 'Tl', 'In']","['Ge - Non-Metal', 'Tl - Metal', 'In - Metal']","[2.01, 1.62, 1.78]",3,"{'Ge': 1.0, 'Tl': 1.0, 'In': 2.0}",TRUE
+IrXe3,"['Ir', 'Xe']","['Ir - Metal', 'Xe - Non-Metal']","[2.2, 2.6]",2,"{'Ir': 1.0, 'Xe': 3.0}",FALSE
+Ta2N3Ru4,"['Ta', 'N', 'Ru']","['Ta - Metal', 'N - Non-Metal', 'Ru - Metal']","[1.5, 3.04, 2.2]",3,"{'Ta': 2.0, 'N': 3.0, 'Ru': 4.0}",FALSE
+MgOs4Br5,"['Mg', 'Os', 'Br']","['Mg - Metal', 'Os - Metal', 'Br - Non-Metal']","[1.31, 2.2, 2.96]",3,"{'Mg': 1.0, 'Os': 4.0, 'Br': 5.0}",FALSE
+RhSe2,"['Rh', 'Se']","['Rh - Metal', 'Se - Non-Metal']","[2.28, 2.55]",2,"{'Rh': 1.0, 'Se': 2.0}",FALSE
+FeGdAtCo2Mg4,"['Fe', 'Gd', 'At', 'Co', 'Mg']","['Fe - Metal', 'Gd - Metal', 'At - Non-Metal', 'Co - Metal', 'Mg - Metal']","[1.83, 1.2, 2.2, 1.88, 1.31]",5,"{'Fe': 1.0, 'Gd': 1.0, 'At': 1.0, 'Co': 2.0, 'Mg': 4.0}",TRUE
+PdAgSnRu2O4,"['Pd', 'Ag', 'Sn', 'Ru', 'O']","['Pd - Metal', 'Ag - Metal', 'Sn - Metal', 'Ru - Metal', 'O - Non-Metal']","[2.2, 1.93, 1.96, 2.2, 3.44]",5,"{'Pd': 1.0, 'Ag': 1.0, 'Sn': 1.0, 'Ru': 2.0, 'O': 4.0}",FALSE
+Ge2Se4Ho5,"['Ge', 'Se', 'Ho']","['Ge - Non-Metal', 'Se - Non-Metal', 'Ho - Metal']","[2.01, 2.55, 1.23]",3,"{'Ge': 2.0, 'Se': 4.0, 'Ho': 5.0}",TRUE
+TeN2Cr4,"['Te', 'N', 'Cr']","['Te - Non-Metal', 'N - Non-Metal', 'Cr - Metal']","[2.1, 3.04, 1.66]",3,"{'Te': 1.0, 'N': 2.0, 'Cr': 4.0}",FALSE
+EsKr3Ru5,"['Es', 'Kr', 'Ru']","['Es - Metal', 'Kr - Non-Metal', 'Ru - Metal']","[1.3, 3.0, 2.2]",3,"{'Es': 1.0, 'Kr': 3.0, 'Ru': 5.0}",FALSE
+C2O2Ru3Mg5,"['C', 'O', 'Ru', 'Mg']","['C - Non-Metal', 'O - Non-Metal', 'Ru - Metal', 'Mg - Metal']","[2.55, 3.44, 2.2, 1.31]",4,"{'C': 2.0, 'O': 2.0, 'Ru': 3.0, 'Mg': 5.0}",FALSE
+Al2S3Fe7,"['Al', 'S', 'Fe']","['Al - Metal', 'S - Non-Metal', 'Fe - Metal']","[1.61, 2.58, 1.83]",3,"{'Al': 2.0, 'S': 3.0, 'Fe': 7.0}",TRUE
+BkC2,"['Bk', 'C']","['Bk - Metal', 'C - Non-Metal']","[1.3, 2.55]",2,"{'Bk': 1.0, 'C': 2.0}",TRUE
+HBiP6,"['H', 'Bi', 'P']","['H - Unknown', 'Bi - Metal', 'P - Non-Metal']","[2.2, 2.02, 2.19]",3,"{'H': 1.0, 'Bi': 1.0, 'P': 6.0}",FALSE
+NdBr3,"['Nd', 'Br']","['Nd - Metal', 'Br - Non-Metal']","[1.14, 2.96]",2,"{'Nd': 1.0, 'Br': 3.0}",TRUE
+NYbRu3Te5,"['N', 'Yb', 'Ru', 'Te']","['N - Non-Metal', 'Yb - Metal', 'Ru - Metal', 'Te - Non-Metal']","[3.04, 1.1, 2.2, 2.1]",4,"{'N': 1.0, 'Yb': 1.0, 'Ru': 3.0, 'Te': 5.0}",FALSE
+SbAt,"['Sb', 'At']","['Sb - Non-Metal', 'At - Non-Metal']","[2.05, 2.2]",2,"{'Sb': 1.0, 'At': 1.0}",FALSE
+NaLaBkI3,"['Na', 'La', 'Bk', 'I']","['Na - Metal', 'La - Metal', 'Bk - Metal', 'I - Non-Metal']","[0.93, 1.1, 1.3, 2.66]",4,"{'Na': 1.0, 'La': 1.0, 'Bk': 1.0, 'I': 3.0}",TRUE
+ErCl3,"['Er', 'Cl']","['Er - Metal', 'Cl - Non-Metal']","[1.24, 3.16]",2,"{'Er': 1.0, 'Cl': 3.0}",FALSE
+Si2F3Pt5,"['Si', 'F', 'Pt']","['Si - Non-Metal', 'F - Non-Metal', 'Pt - Metal']","[1.9, 3.98, 2.28]",3,"{'Si': 2.0, 'F': 3.0, 'Pt': 5.0}",FALSE
+NiPt3P5,"['Ni', 'Pt', 'P']","['Ni - Metal', 'Pt - Metal', 'P - Non-Metal']","[1.91, 2.28, 2.19]",3,"{'Ni': 1.0, 'Pt': 3.0, 'P': 5.0}",FALSE
+STi3,"['S', 'Ti']","['S - Non-Metal', 'Ti - Metal']","[2.58, 1.54]",2,"{'S': 1.0, 'Ti': 3.0}",TRUE
+STa2,"['S', 'Ta']","['S - Non-Metal', 'Ta - Metal']","[2.58, 1.5]",2,"{'S': 1.0, 'Ta': 2.0}",TRUE
+CfS2Co2,"['Cf', 'S', 'Co']","['Cf - Metal', 'S - Non-Metal', 'Co - Metal']","[1.3, 2.58, 1.88]",3,"{'Cf': 1.0, 'S': 2.0, 'Co': 2.0}",TRUE
+ClMn3Y5,"['Cl', 'Mn', 'Y']","['Cl - Non-Metal', 'Mn - Metal', 'Y - Metal']","[3.16, 1.55, 1.22]",3,"{'Cl': 1.0, 'Mn': 3.0, 'Y': 5.0}",TRUE
+F2Zn2Ge3Dy5,"['F', 'Zn', 'Ge', 'Dy']","['F - Non-Metal', 'Zn - Metal', 'Ge - Non-Metal', 'Dy - Metal']","[3.98, 1.65, 2.01, 1.22]",4,"{'F': 2.0, 'Zn': 2.0, 'Ge': 3.0, 'Dy': 5.0}",FALSE
+MoKr3As4,"['Mo', 'Kr', 'As']","['Mo - Metal', 'Kr - Non-Metal', 'As - Non-Metal']","[2.16, 3.0, 2.18]",3,"{'Mo': 1.0, 'Kr': 3.0, 'As': 4.0}",FALSE
+AtP2Md2Sn3Tc5,"['At', 'P', 'Md', 'Sn', 'Tc']","['At - Non-Metal', 'P - Non-Metal', 'Md - Metal', 'Sn - Metal', 'Tc - Metal']","[2.2, 2.19, 1.3, 1.96, 1.9]",5,"{'At': 1.0, 'P': 2.0, 'Md': 2.0, 'Sn': 3.0, 'Tc': 5.0}",TRUE
+Re2Se3,"['Re', 'Se']","['Re - Metal', 'Se - Non-Metal']","[1.9, 2.55]",2,"{'Re': 2.0, 'Se': 3.0}",FALSE
+Mo2Ge3Bi4,"['Mo', 'Ge', 'Bi']","['Mo - Metal', 'Ge - Non-Metal', 'Bi - Metal']","[2.16, 2.01, 2.02]",3,"{'Mo': 2.0, 'Ge': 3.0, 'Bi': 4.0}",TRUE
+GaH2Si3,"['Ga', 'H', 'Si']","['Ga - Metal', 'H - Unknown', 'Si - Non-Metal']","[1.81, 2.2, 1.9]",3,"{'Ga': 1.0, 'H': 2.0, 'Si': 3.0}",TRUE
+GeO2Al2,"['Ge', 'O', 'Al']","['Ge - Non-Metal', 'O - Non-Metal', 'Al - Metal']","[2.01, 3.44, 1.61]",3,"{'Ge': 1.0, 'O': 2.0, 'Al': 2.0}",FALSE
+CrSi2,"['Cr', 'Si']","['Cr - Metal', 'Si - Non-Metal']","[1.66, 1.9]",2,"{'Cr': 1.0, 'Si': 2.0}",TRUE
+CuC2Se5,"['Cu', 'C', 'Se']","['Cu - Metal', 'C - Non-Metal', 'Se - Non-Metal']","[1.9, 2.55, 2.55]",3,"{'Cu': 1.0, 'C': 2.0, 'Se': 5.0}",FALSE
+OFePt2Te7,"['O', 'Fe', 'Pt', 'Te']","['O - Non-Metal', 'Fe - Metal', 'Pt - Metal', 'Te - Non-Metal']","[3.44, 1.83, 2.28, 2.1]",4,"{'O': 1.0, 'Fe': 1.0, 'Pt': 2.0, 'Te': 7.0}",FALSE
+BrRh4,"['Br', 'Rh']","['Br - Non-Metal', 'Rh - Metal']","[2.96, 2.28]",2,"{'Br': 1.0, 'Rh': 4.0}",FALSE
+ClPd3Mn5,"['Cl', 'Pd', 'Mn']","['Cl - Non-Metal', 'Pd - Metal', 'Mn - Metal']","[3.16, 2.2, 1.55]",3,"{'Cl': 1.0, 'Pd': 3.0, 'Mn': 5.0}",FALSE
+BeBIP4,"['Be', 'B', 'I', 'P']","['Be - Metal', 'B - Non-Metal', 'I - Non-Metal', 'P - Non-Metal']","[1.57, 2.04, 2.66, 2.19]",4,"{'Be': 1.0, 'B': 1.0, 'I': 1.0, 'P': 4.0}",FALSE
+GeS3Fe3,"['Ge', 'S', 'Fe']","['Ge - Non-Metal', 'S - Non-Metal', 'Fe - Metal']","[2.01, 2.58, 1.83]",3,"{'Ge': 1.0, 'S': 3.0, 'Fe': 3.0}",FALSE
+Hg2O3V3Ta5,"['Hg', 'O', 'V', 'Ta']","['Hg - Metal', 'O - Non-Metal', 'V - Metal', 'Ta - Metal']","[2.0, 3.44, 1.63, 1.5]",4,"{'Hg': 2.0, 'O': 3.0, 'V': 3.0, 'Ta': 5.0}",FALSE
+CfPo2,"['Cf', 'Po']","['Cf - Metal', 'Po - Non-Metal']","[1.3, 2.0]",2,"{'Cf': 1.0, 'Po': 2.0}",TRUE
+FV2S3Ni4Yb5,"['F', 'V', 'S', 'Ni', 'Yb']","['F - Non-Metal', 'V - Metal', 'S - Non-Metal', 'Ni - Metal', 'Yb - Metal']","[3.98, 1.63, 2.58, 1.91, 1.1]",5,"{'F': 1.0, 'V': 2.0, 'S': 3.0, 'Ni': 4.0, 'Yb': 5.0}",FALSE
+Pr2Se3,"['Pr', 'Se']","['Pr - Metal', 'Se - Non-Metal']","[1.13, 2.55]",2,"{'Pr': 2.0, 'Se': 3.0}",TRUE
+PrV2Xe2Rn2Mn3,"['Pr', 'V', 'Xe', 'Rn', 'Mn']","['Pr - Metal', 'V - Metal', 'Xe - Non-Metal', 'Rn - Non-Metal', 'Mn - Metal']","[1.13, 1.63, 2.6, 2.2, 1.55]",5,"{'Pr': 1.0, 'V': 2.0, 'Xe': 2.0, 'Rn': 2.0, 'Mn': 3.0}",TRUE
+RnBr3Pt3,"['Rn', 'Br', 'Pt']","['Rn - Non-Metal', 'Br - Non-Metal', 'Pt - Metal']","[2.2, 2.96, 2.28]",3,"{'Rn': 1.0, 'Br': 3.0, 'Pt': 3.0}",FALSE
+TeCr4,"['Te', 'Cr']","['Te - Non-Metal', 'Cr - Metal']","[2.1, 1.66]",2,"{'Te': 1.0, 'Cr': 4.0}",TRUE
+PRe,"['P', 'Re']","['P - Non-Metal', 'Re - Metal']","[2.19, 1.9]",2,"{'P': 1.0, 'Re': 1.0}",TRUE
+NpCl3,"['Np', 'Cl']","['Np - Metal', 'Cl - Non-Metal']","[1.36, 3.16]",2,"{'Np': 1.0, 'Cl': 3.0}",FALSE
+NS3Ni4,"['N', 'S', 'Ni']","['N - Non-Metal', 'S - Non-Metal', 'Ni - Metal']","[3.04, 2.58, 1.91]",3,"{'N': 1.0, 'S': 3.0, 'Ni': 4.0}",FALSE
+ClSc,"['Cl', 'Sc']","['Cl - Non-Metal', 'Sc - Metal']","[3.16, 1.36]",2,"{'Cl': 1.0, 'Sc': 1.0}",FALSE
+Ag3Po3Ir5,"['Ag', 'Po', 'Ir']","['Ag - Metal', 'Po - Non-Metal', 'Ir - Metal']","[1.93, 2.0, 2.2]",3,"{'Ag': 3.0, 'Po': 3.0, 'Ir': 5.0}",TRUE
+CoPa2Bi3,"['Co', 'Pa', 'Bi']","['Co - Metal', 'Pa - Metal', 'Bi - Metal']","[1.88, 1.5, 2.02]",3,"{'Co': 1.0, 'Pa': 2.0, 'Bi': 3.0}",TRUE
+BH2Po2Cr3Pu4,"['B', 'H', 'Po', 'Cr', 'Pu']","['B - Non-Metal', 'H - Unknown', 'Po - Non-Metal', 'Cr - Metal', 'Pu - Metal']","[2.04, 2.2, 2.0, 1.66, 1.28]",5,"{'B': 1.0, 'H': 2.0, 'Po': 2.0, 'Cr': 3.0, 'Pu': 4.0}",TRUE
+SeIn2,"['Se', 'In']","['Se - Non-Metal', 'In - Metal']","[2.55, 1.78]",2,"{'Se': 1.0, 'In': 2.0}",FALSE
+Zr2Mo2O7,"['Zr', 'Mo', 'O']","['Zr - Metal', 'Mo - Metal', 'O - Non-Metal']","[1.33, 2.16, 3.44]",3,"{'Zr': 2.0, 'Mo': 2.0, 'O': 7.0}",FALSE
+HgRh3Po4,"['Hg', 'Rh', 'Po']","['Hg - Metal', 'Rh - Metal', 'Po - Non-Metal']","[2.0, 2.28, 2.0]",3,"{'Hg': 1.0, 'Rh': 3.0, 'Po': 4.0}",TRUE
+AmO5,"['Am', 'O']","['Am - Metal', 'O - Non-Metal']","[1.3, 3.44]",2,"{'Am': 1.0, 'O': 5.0}",FALSE
+AlCl3Mn3,"['Al', 'Cl', 'Mn']","['Al - Metal', 'Cl - Non-Metal', 'Mn - Metal']","[1.61, 3.16, 1.55]",3,"{'Al': 1.0, 'Cl': 3.0, 'Mn': 3.0}",FALSE
+FRe5Mn6,"['F', 'Re', 'Mn']","['F - Non-Metal', 'Re - Metal', 'Mn - Metal']","[3.98, 1.9, 1.55]",3,"{'F': 1.0, 'Re': 5.0, 'Mn': 6.0}",FALSE
+CrXeN2,"['Cr', 'Xe', 'N']","['Cr - Metal', 'Xe - Non-Metal', 'N - Non-Metal']","[1.66, 2.6, 3.04]",3,"{'Cr': 1.0, 'Xe': 1.0, 'N': 2.0}",FALSE
+SNi4,"['S', 'Ni']","['S - Non-Metal', 'Ni - Metal']","[2.58, 1.91]",2,"{'S': 1.0, 'Ni': 4.0}",FALSE
+SeF4,"['Se', 'F']","['Se - Non-Metal', 'F - Non-Metal']","[2.55, 3.98]",2,"{'Se': 1.0, 'F': 4.0}",FALSE
+PtFe3Po4Er5,"['Pt', 'Fe', 'Po', 'Er']","['Pt - Metal', 'Fe - Metal', 'Po - Non-Metal', 'Er - Metal']","[2.28, 1.83, 2.0, 1.24]",4,"{'Pt': 1.0, 'Fe': 3.0, 'Po': 4.0, 'Er': 5.0}",TRUE
+PtN4,"['Pt', 'N']","['Pt - Metal', 'N - Non-Metal']","[2.28, 3.04]",2,"{'Pt': 1.0, 'N': 4.0}",FALSE
+PCl2Ru4Tc6,"['P', 'Cl', 'Ru', 'Tc']","['P - Non-Metal', 'Cl - Non-Metal', 'Ru - Metal', 'Tc - Metal']","[2.19, 3.16, 2.2, 1.9]",4,"{'P': 1.0, 'Cl': 2.0, 'Ru': 4.0, 'Tc': 6.0}",FALSE
+C2Fe2Se3,"['C', 'Fe', 'Se']","['C - Non-Metal', 'Fe - Metal', 'Se - Non-Metal']","[2.55, 1.83, 2.55]",3,"{'C': 2.0, 'Fe': 2.0, 'Se': 3.0}",FALSE
+TbF2Pd2Ta2,"['Tb', 'F', 'Pd', 'Ta']","['Tb - Metal', 'F - Non-Metal', 'Pd - Metal', 'Ta - Metal']","[1.1, 3.98, 2.2, 1.5]",4,"{'Tb': 1.0, 'F': 2.0, 'Pd': 2.0, 'Ta': 2.0}",FALSE
+B2Se3,"['B', 'Se']","['B - Non-Metal', 'Se - Non-Metal']","[2.04, 2.55]",2,"{'B': 2.0, 'Se': 3.0}",FALSE
+RnPt6,"['Rn', 'Pt']","['Rn - Non-Metal', 'Pt - Metal']","[2.2, 2.28]",2,"{'Rn': 1.0, 'Pt': 6.0}",FALSE
+S2Sc2Fe2Rh3,"['S', 'Sc', 'Fe', 'Rh']","['S - Non-Metal', 'Sc - Metal', 'Fe - Metal', 'Rh - Metal']","[2.58, 1.36, 1.83, 2.28]",4,"{'S': 2.0, 'Sc': 2.0, 'Fe': 2.0, 'Rh': 3.0}",TRUE
